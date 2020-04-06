@@ -12,13 +12,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
-            "dc:created": "3167288"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "eWAVE-3.0-14-gbabc9ee"
+            "dc:created": "d883e7f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -31,6 +25,12 @@
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "dc:created": "v2.3.0-14-g5d00e64"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "eWAVE-3.0-14-gbabc9ee"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -51,7 +51,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 61269,
+            "dc:extent": 54075,
             "tableSchema": {
                 "columns": [
                     {

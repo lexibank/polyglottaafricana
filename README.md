@@ -5,14 +5,14 @@
 
 [![Build Status](https://travis-ci.org/lexibank/polyglottaafricana.svg?branch=master)](https://travis-ci.org/lexibank/polyglottaafricana)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
+![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 159
 - **Concepts:** 335
-- **Lexemes:** 61,269
+- **Lexemes:** 54,075
 - **Sources:** 1
-- **Synonymy:** 1.45
+- **Synonymy:** 1.28
 
 ## Possible Improvements:
 

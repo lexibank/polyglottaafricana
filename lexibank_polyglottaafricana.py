@@ -39,9 +39,10 @@ class Dataset(pylexibank.Dataset):
     # define the way in which forms should be handled
     form_spec = pylexibank.FormSpec(
         brackets={"(": ")"},  # characters that function as brackets
-        separators=";/,",  # characters that split forms e.g. "a, b".
+        separators=";/,&",  # characters that split forms e.g. "a, b".
         missing_data=('?', '-'),  # characters that denote missing data.
-        strip_inside_brackets=True   # do you want data removed in brackets or not?
+        strip_inside_brackets=True,   # do you want data removed in brackets or not?
+        first_form_only=True,  # We ignore all the plural forms
     )
 
     def cmd_download(self, args):
@@ -66,6 +67,9 @@ class Dataset(pylexibank.Dataset):
 
         for row in self.raw_dir.read_csv('test-koelle.csv', dicts=True, delimiter='\t'):
             #Language name>--ethn>---Source name>----reflex.id>------source.id>------page>---ORIGINAL FORM>--ORIGINAL TRANSLATION
+            if row['ORIGINAL FORM'].strip().startswith('?'):
+                # We ignore dubious forms, marked with a leading "?"
+                continue
             args.writer.add_lexemes(
                 Value=row['ORIGINAL FORM'],
                 Language_ID=row['ethn'],
