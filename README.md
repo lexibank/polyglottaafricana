@@ -5,7 +5,7 @@
 
 [![Build Status](https://travis-ci.org/lexibank/polyglottaafricana.svg?branch=master)](https://travis-ci.org/lexibank/polyglottaafricana)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 159
@@ -26,6 +26,7 @@
 
 Name | GitHub user | Role
 --- | --- | ---
- | @ | maintainer
+Guillaume Segerer | | maintainer
+Robert Forkel | @xrotwang | maintainer
 
 

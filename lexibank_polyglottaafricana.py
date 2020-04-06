@@ -62,18 +62,13 @@ class Dataset(pylexibank.Dataset):
         """
         args.writer.add_sources(BIB)
         args.writer.add_languages()
+        cmap = args.writer.add_concepts(lookup_factory=lambda c: c.gloss)
 
-        concepts = set()
         for row in self.raw_dir.read_csv('test-koelle.csv', dicts=True, delimiter='\t'):
-            if row['ORIGINAL TRANSLATION'] not in concepts:
-                args.writer.add_concept(
-                    ID=slug(row['ORIGINAL TRANSLATION'], lowercase=False),
-                    Name=row['ORIGINAL TRANSLATION'],
-                )
             #Language name>--ethn>---Source name>----reflex.id>------source.id>------page>---ORIGINAL FORM>--ORIGINAL TRANSLATION
             args.writer.add_lexemes(
                 Value=row['ORIGINAL FORM'],
                 Language_ID=row['ethn'],
-                Parameter_ID=slug(row['ORIGINAL TRANSLATION'], lowercase=False),
+                Parameter_ID=cmap[row['ORIGINAL TRANSLATION']],
                 Source='Koelle1854',
             )
