@@ -130,11 +130,11 @@ Gullet	Gullet
 Neck	Neck	1333	NECK
 Shoulder	Shoulder	1482	SHOULDER
 Arm	Arm	1673	ARM
-ArmBetweenShoulderandElbow	Arm Between Shoulder and Elbow		
-ArmBetweenElbowandWrist	Arm Between Elbow and Wrist		
+ArmBetweenShoulderandElbow	Arm Between Shoulder and Elbow	446	LOWER ARM
+ArmBetweenElbowandWrist	Arm Between Elbow and Wrist	431	UPPER ARM
 Leg	Leg	1297	LEG
 OuterHandorHand	Outer Hand, or Hand		
-InnerHand	Inner Hand		
+InnerHand	Inner Hand	1183	PALM OF HAND
 FootSole	Foot-Sole	2666	SOLE (FOOT)
 Elbow	Elbow	981	ELBOW
 Chest	Chest	1592	CHEST
@@ -183,7 +183,7 @@ Milk	Milk	635	MILK
 Cat	Cat	1208	CAT
 Pig	Pig	1337	PIG
 Bat	Bat	1793	BAT
-FowlHen	Fowl (Hen)		
+FowlHen	Fowl (Hen)	265	FOWL
 Fish	Fish	227	FISH
 Mosquito	Mosquito	1509	MOSQUITO
 Bee	Bee	665	BEE
@@ -214,7 +214,7 @@ Gold	Gold	1369	GOLD
 Book	Book	963	BOOK
 NewMoon	New Moon	3691	NEW MOON
 Soap	Soap	788	SOAP
-Needle	Needle	1382	NEEDLE (FOR SEWING)
+Needle	Needle		
 ChainFetters	Chain (Fetters ?)		
 KuskusbearinglikeOats	Kuskus (bearing like Oats)		
 RiceCooked	Rice (Cooked)	1191	COOKED RICE
@@ -311,7 +311,7 @@ Sheep	Sheep	1331	SHEEP
 myyoungerson	my younger son		
 Isew	I sew	1457	SEW
 Milkofcows	Milk (of cows)		
-Milkofwomen	Milk (of women)	2129	BREAST OR MILK
+Milkofwomen	Milk (of women)		
 NailofFinger	Nail (of Finger)	1258	FINGERNAIL
 Oldofmen	Old (of men)	565	OLD (OF MAN)
 Palmtreeayoungone	Palm-tree (a young one)		
@@ -330,7 +330,7 @@ Lizardthecommononemale	Lizard (the common one) (male)
 ThelargeredheadedLizardfemale	The large red-headed Lizard (female)		
 Leafgrass	Leaf (grass)		
 New	New	1231	NEW
-Oldpersons	Old (persons)	566	OLD (OF WOMAN)
+Oldpersons	Old (persons)		
 Ewe	Ewe	1345	EWE
 NoseRing	Nose-Ring		
 townwalled	town (walled)		
