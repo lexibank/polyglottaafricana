@@ -5,26 +5,26 @@
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Polyglotta Africana",
+    "dc:title": "CLDF dataset derived from Koelle's \"Polyglotta Africana\" from 1854",
     "dcat:accessURL": "https://github.com/lexibank/polyglottaafricana",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
-            "dc:created": "73d9402"
+            "dc:created": "c6c13a2"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "eWAVE-3.0-21-g1d4c01b"
+            "dc:created": "v4.1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0-49-g931bf4d"
+            "dc:created": "v2.3.0"
         },
         {
             "rdf:type": "prov:Entity",

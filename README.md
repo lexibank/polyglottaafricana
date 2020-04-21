@@ -1,4 +1,4 @@
-# Polyglotta Africana
+# CLDF dataset derived from Koelle's "Polyglotta Africana" from 1854
 
 ## Statistics
 
