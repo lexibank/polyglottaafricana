@@ -1,336 +1,336 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-1,One,1493,ONE
-2,Pot,1462,POT
-3,Calabash,411,GOURD
-4,Gun,1566,GUN
-5,Powder,3368,POWDER
-6,Sword,1535,SWORD
-7,War,935,WAR
-8,God,1944,GOD
-9,Devil,1973,DEMON
-10,Heaven (sky),1565,HEAVEN
-11,Fire,221,FIRE
-12,Water,948,WATER
-13,Soup,1547,SOUP
-14,Meat (often Animal),2096,ANIMAL OR MEAT
-15,Salt,1274,SALT
-16,Iron,621,IRON
-17,Stone,857,STONE
-18,Hoe,284,HOE
-19,Axe,677,AXE
-20,Moon,1313,MOON
-21,Day,1225,DAY (NOT NIGHT)
-22,Dry Season,452,DRY SEASON
-23,Rainy Season,453,RAINY SEASON
-24,Rain,658,RAIN (PRECIPITATION)
-25,Dew,1977,DEW
-26,Smoke,778,SMOKE (EXHAUST)
-27,Sand,671,SAND
-28,Canoe,1970,CANOE
-29,"Bench, Chair",,
-30,Thread,1161,THREAD
-31,Rope,1218,ROPE
-32,Tree,906,TREE
-33,Root,670,ROOT
-34,Palm-tree,1181,PALM TREE
-35,Palm-Oil,,
-36,Cotton,1850,COTTON
-37,Cotton-plant (a Shrub),,
-38,Cotton-tree,,
-39,Rice (uncooked),3289,UNCOOKED RICE
-40,Cassada,925,CASSAVA
-41,Pepper,1385,PEPPER
-42,Farm,201,FARM
-43,Forest,420,FOREST
-44,Cow,1007,COW
-45,Bull,1008,BULL
-46,Goat,1502,GOAT
-47,Buck,,
-48,Rat,1490,RAT
-49,Cock,1511,ROOSTER
-50,Serpent,730,SNAKE
-51,Spider,843,SPIDER
-52,Two,1498,TWO
-53,Lion,1386,LION
-54,Leopard,1139,LEOPARD
-55,Alligator,1581,ALLIGATOR
-56,Monkey,1350,MONKEY
-57,The large red-headed Lizard,,
-58,Man,1554,MAN
-59,Dog,2009,DOG
-60,"Great, large",1202,BIG
-61,White Man,2839,WHITE MAN
-62,Black Man (Negro),2806,BLACK MAN
-63,Good,1035,GOOD
-64,Woman,962,WOMAN
-65,Bad,1292,BAD
-66,Old,1229,OLD
-67,Sick,1847,SICK
-68,Well,954,WELL
-69,Hot,1286,HOT
-70,Cold,1287,COLD
-71,Wet,1726,WET
-72,Dry,1398,DRY
-73,Boy,1366,BOY
-74,Stupid,1518,STUPID
-75,Poor,1674,POOR
-76,Straight,1404,STRAIGHT
-77,Crooked (bent),297,CROOKED
-78,I come,1446,COME
-79,I run,1519,RUN
-80,Girl,1646,GIRL
-81,I lie down,215,LIE DOWN
-82,I cough,879,COUGH
-83,I sneeze,1621,SNEEZE
-84,I weep,1839,CRY
-85,I dream,1920,DREAM (SOMETHING)
-86,I sleep,1585,SLEEP
-87,I die,1494,DIE
-88,I speak,1623,SPEAK
-89,I hear,1408,HEAR
-90,I beg,3534,BEG
-91,I bathe (wash myself),138,BATHE
-92,I see,1409,SEE
-93,I buy,1869,BUY
-94,I sell,1571,SELL
-95,I give thee,1447,GIVE
-96,I eat rice,,
-97,I drink water,1401,DRINK
-98,I cook meat,,
-99,I kill a fowl,,
-100,I cover a pot,,
-101,I sew a shirt,,
-102,I play,1413,PLAY
-103,I do not play,,
-104,I dance,1879,DANCE
-105,I do not dance,,
-106,Yesterday,1174,YESTERDAY
-107,To-day,1283,TODAY
-108,To-morrow,1329,TOMORROW
-109,Three,492,THREE
-110,Younger Sister,1761,YOUNGER SISTER
-111,"Friend (My, Thy)",1325,FRIEND
-112,Stranger,791,STRANGER
-113,King,1508,KING
-114,Male Slave,,
-115,Female Slave,,
-116,Four,1500,FOUR
-117,Medicine,1372,MEDICINE
-118,Hair,1040,HAIR
-119,Forehead,123,FOREHEAD
-120,Nose,1221,NOSE
-121,Eye,1248,EYE
-122,Ear,1247,EAR
-123,Mouth,674,MOUTH
-124,Five,493,FIVE
-125,Tooth,1380,TOOTH
-126,Tongue,1205,TONGUE
-127,Throat,1346,THROAT
-128,Gullet,,
-129,Neck,1333,NECK
-130,Shoulder,1482,SHOULDER
-131,Arm,1673,ARM
-132,Arm Between Shoulder and Elbow,446,LOWER ARM
-133,Arm Between Elbow and Wrist,431,UPPER ARM
-134,Leg,1297,LEG
-135,"Outer Hand, or Hand",,
-136,Inner Hand,1183,PALM OF HAND
-137,Foot-Sole,2666,SOLE (FOOT)
-138,Elbow,981,ELBOW
-139,Chest,1592,CHEST
-140,Female Breast,1402,BREAST
-141,Belly,1251,BELLY
-142,Thigh,800,THIGH
-143,Knee,1371,KNEE
-144,Skin,763,SKIN
-145,Bone,1394,BONE
-146,Vein,1924,VEIN
-147,Blood,946,BLOOD
-148,Hat,771,HAT
-149,Cap,1288,CAP
-150,Waist-cloth,,
-151,House,1252,HOUSE
-152,Door-way,,
-153,Bed,1663,BED
-154,Mat,195,MAT
-155,Knife,1352,KNIFE
-156,Spoon,1378,SPOON
-157,"Father (My Father, Thy Father)",1217,FATHER
-158,"Mother (My Mother, Thy Mother)",1216,MOTHER
-159,"Elder Brother (My, Thy)",1759,OLDER BROTHER
-160,"Younger Brother (My, Thy)",1760,YOUNGER BROTHER
-161,Elder Sister,1758,OLDER SISTER
-162,Doctor,597,PHYSICIAN
-163,Head,1256,HEAD
-164,Face,1560,FACE
-165,"Foot, or Instep of the Foot",,
-166,Finger,1303,FINGER
-167,Navel,1838,NAVEL
-168,Nail (of Finger and Toe),1896,FINGERNAIL OR TOENAIL
-169,Shirt,1622,SHIRT
-170,Door,1567,DOOR
-171,Armlet or Bracelet,,
-172,Spear,945,SPEAR
-173,Sun,1343,SUN
-174,Night,1233,NIGHT
-175,Coal,2658,COAL
-176,Drum,908,DRUM
-177,Firewood,10,FIREWOOD
-178,Walking-stick,1296,WALKING STICK
-179,Leaf,628,LEAF
-180,Ground-nut,595,GROUNDNUTS
-181,Milk,635,MILK
-182,Cat,1208,CAT
-183,Pig,1337,PIG
-184,Bat,1793,BAT
-185,Fowl (Hen),265,FOWL
-186,Fish,227,FISH
-187,Mosquito,1509,MOSQUITO
-188,Bee,665,BEE
-189,Honey,942,HONEY
-190,Chamelion,1555,CHAMELEON
-191,Lizard (the common one),632,LIZARD
-192,Black,163,BLACK
-193,Rich,712,RICH
-194,I go,695,GO
-195,I stop,2880,HALT (STOP)
-196,I sit down,1649,SIT DOWN
-197,I breathe,1407,BREATHE
-198,I snore,1983,SNORE
-199,I laugh,1355,LAUGH
-200,I fall,2894,TUMBLE (FALL DOWN)
-201,I take,1749,TAKE
-202,I love thee,923,LOVE
-203,I catch a fish,2638,FISHING
-204,I break a stick,2558,BREAK (CLEAVE)
-205,Bow,994,BOW
-206,Arrow,977,ARROW
-207,Quiver,995,QUIVER
-208,Greegree,2804,AMULET
-209,Sacrifice,1103,SACRIFICE
-210,Hell,878,HELL
-211,Water (fresh),,
-212,Gold,1369,GOLD
-213,Book,963,BOOK
-214,New Moon,3691,NEW MOON
-215,Soap,788,SOAP
-216,Needle,,
-217,Chain (Fetters ?),,
-218,Kuskus (bearing like Oats),,
-219,Rice (Cooked),1191,COOKED RICE
-220,Yam,410,YAM
-221,Beans,832,BEAN
-222,Horse,615,HORSE
-223,Butter,1245,BUTTER
-224,Ewe (Sheep),,
-225,Ram (Sheep),1344,RAM
-226,Pigeon,1853,DOVE
-227,Parrot,882,PARROT
-228,Egg,744,EGG
-229,Bird,937,BIRD
-230,Scorpion,1538,SCORPION
-231,Butterfly,1791,BUTTERFLY
-232,Wasp,1517,WASP
-233,Elephant,1290,ELEPHANT
-234,Toad,894,TOAD
-235,Frog,503,FROG
-236,"Little, small",1246,SMALL
-237,White,1335,WHITE
-238,New (young),,
-239,Greedy,2018,GREEDY
-240,I kneel,66,KNEEL
-241,I rise,3207,GO UP OR RISE (ONESELF)
-242,I cut a tree,3151,CUT (WITH AXE)
-243,Grandfather,1383,GRANDFATHER
-244,I call a slave,,
-245,I pray to god (beg god),24,PRAY
-246,Grandmother,1496,GRANDMOTHER
-247,Son,1620,SON
-248,"Daughter (My, Thy)",1357,DAUGHTER
-249,Toe,1389,TOE
-250,Rib,801,RIB
-251,Heel,980,HEEL
-252,Shoe,1381,SHOE
-253,Trousers,809,TROUSERS
-254,Town (Village),3609,TOWN OR VILLAGE
-255,Village,930,VILLAGE
-256,Market,633,MARKET
-257,Ear-Ring,770,EARRING
-258,Itch,148,ITCH
-259,Small-Pox,1054,SMALLPOX
-260,Guinea-Corn (bearing like Maize),,
-261,Mare,938,MARE
-262,Ivory,,
-263,I flog a child,,
-264,Ten,1515,TEN
-265,Eleven,1706,ELEVEN
-266,Twelve,1707,TWELVE
-267,Seven,1704,SEVEN
-268,Eight,1705,EIGHT
-269,Nine,1483,NINE
-270,Six,1703,SIX
-271,Maize,506,MAIZE
-272,Twenty,1710,TWENTY
-273,Idol,1945,IDOL
-274,Ink,2643,INK
-275,Onion,2366,ONION
-276,Thirteen,1708,THIRTEEN
-277,Fourteen,2451,FOURTEEN
-278,Fifteen,1709,FIFTEEN
-279,Sixteen,2454,SIXTEEN
-280,Seventeen,2453,SEVENTEEN
-281,Eighteen,1713,EIGHTEEN
-282,Nineteen,1714,NINETEEN
-283,Butter (melted),,
-284,Camwood,,
-285,Chain (Fetters ?) (for neck),,
-286,Bat (large),,
-287,Pigeon (wild),,
-288,Yam (wild),,
-289,Rain (water),,
-290,cough,,
-291,Spoon (of wood),,
-292,Finger (thumb),1781,THUMB
-293,Toe (the big one),,
-294,cross-bow,3193,CROSSBOW
-295,Pigeon (domestic),,
-296,body,1480,BODY
-297,Armlet or Bracelet (of brass),,
-298,Firewood (dry wood),,
-299,young,1207,YOUNG
-300,Gold (brass),,
-301,Cassada (wild),,
-302,Vein (rope),,
-303,Needle (for ornament),,
-304,Old (of persons),2112,OLD (AGED)
-305,Old (of things),2113,OLD (USED)
-306,I eat yam,,
-307,witch,824,WITCH
-308,silver,759,SILVER
-309,Sheep,1331,SHEEP
-310,my younger son,,
-311,I sew,1457,SEW
-312,Milk (of cows),,
-313,Milk (of women),,
-314,Nail (of Finger),1258,FINGERNAIL
-315,Old (of men),565,OLD (OF MAN)
-316,Palm-tree (a young one),,
-317,I eat yams,,
-318,I eat corn,,
-319,"Bench, Chair (for men)",,
-320,"Bench, Chair (for women)",,
-321,a walled town,,
-322,Door (of grass),,
-323,Door (of wood),,
-324,Milk (fresh),,
-325,Milk (sour),,
-326,Root (stump),241,TREE STUMP
-327,Pigeon (tame),,
-328,Lizard (the common one) (male),,
-329,The large red-headed Lizard (female),,
-330,Leaf (grass),,
-331,New,1231,NEW
-332,Old (persons),,
-333,Ewe,1345,EWE
-334,Nose-Ring,,
-335,town (walled),,
+one,One,1493,ONE
+pot,Pot,1462,POT
+calabash,Calabash,411,GOURD
+gun,Gun,1566,GUN
+powder,Powder,3368,POWDER
+sword,Sword,1535,SWORD
+war,War,935,WAR
+god,God,1944,GOD
+devil,Devil,1973,DEMON
+heavensky,Heaven (sky),1565,HEAVEN
+fire,Fire,221,FIRE
+water,Water,948,WATER
+soup,Soup,1547,SOUP
+meatoftenanimal,Meat (often Animal),2096,ANIMAL OR MEAT
+salt,Salt,1274,SALT
+iron,Iron,621,IRON
+stone,Stone,857,STONE
+hoe,Hoe,284,HOE
+axe,Axe,677,AXE
+moon,Moon,1313,MOON
+day,Day,1225,DAY (NOT NIGHT)
+dryseason,Dry Season,452,DRY SEASON
+rainyseason,Rainy Season,453,RAINY SEASON
+rain,Rain,658,RAIN (PRECIPITATION)
+dew,Dew,1977,DEW
+smoke,Smoke,778,SMOKE (EXHAUST)
+sand,Sand,671,SAND
+canoe,Canoe,1970,CANOE
+benchchair,"Bench, Chair",,
+thread,Thread,1161,THREAD
+rope,Rope,1218,ROPE
+tree,Tree,906,TREE
+root,Root,670,ROOT
+palmtree,Palm-tree,1181,PALM TREE
+palmoil,Palm-Oil,,
+cotton,Cotton,1850,COTTON
+cottonplantashrub,Cotton-plant (a Shrub),,
+cottontree,Cotton-tree,,
+riceuncooked,Rice (uncooked),3289,UNCOOKED RICE
+cassada,Cassada,925,CASSAVA
+pepper,Pepper,1385,PEPPER
+farm,Farm,201,FARM
+forest,Forest,420,FOREST
+cow,Cow,1007,COW
+bull,Bull,1008,BULL
+goat,Goat,1502,GOAT
+buck,Buck,,
+rat,Rat,1490,RAT
+cock,Cock,1511,ROOSTER
+serpent,Serpent,730,SNAKE
+spider,Spider,843,SPIDER
+two,Two,1498,TWO
+lion,Lion,1386,LION
+leopard,Leopard,1139,LEOPARD
+alligator,Alligator,1581,ALLIGATOR
+monkey,Monkey,1350,MONKEY
+thelargeredheadedlizard,The large red-headed Lizard,,
+man,Man,1554,MAN
+dog,Dog,2009,DOG
+greatlarge,"Great, large",1202,BIG
+whiteman,White Man,2839,WHITE MAN
+blackmannegro,Black Man (Negro),2806,BLACK MAN
+good,Good,1035,GOOD
+woman,Woman,962,WOMAN
+bad,Bad,1292,BAD
+old,Old,1229,OLD
+sick,Sick,1847,SICK
+well,Well,954,WELL
+hot,Hot,1286,HOT
+cold,Cold,1287,COLD
+wet,Wet,1726,WET
+dry,Dry,1398,DRY
+boy,Boy,1366,BOY
+stupid,Stupid,1518,STUPID
+poor,Poor,1674,POOR
+straight,Straight,1404,STRAIGHT
+crookedbent,Crooked (bent),297,CROOKED
+icome,I come,1446,COME
+irun,I run,1519,RUN
+girl,Girl,1646,GIRL
+iliedown,I lie down,215,LIE DOWN
+icough,I cough,879,COUGH
+isneeze,I sneeze,1621,SNEEZE
+iweep,I weep,1839,CRY
+idream,I dream,1920,DREAM (SOMETHING)
+isleep,I sleep,1585,SLEEP
+idie,I die,1494,DIE
+ispeak,I speak,1623,SPEAK
+ihear,I hear,1408,HEAR
+ibeg,I beg,3534,BEG
+ibathewashmyself,I bathe (wash myself),138,BATHE
+isee,I see,1409,SEE
+ibuy,I buy,1869,BUY
+isell,I sell,1571,SELL
+igivethee,I give thee,1447,GIVE
+ieatrice,I eat rice,,
+idrinkwater,I drink water,1401,DRINK
+icookmeat,I cook meat,,
+ikillafowl,I kill a fowl,,
+icoverapot,I cover a pot,,
+isewashirt,I sew a shirt,,
+iplay,I play,1413,PLAY
+idonotplay,I do not play,,
+idance,I dance,1879,DANCE
+idonotdance,I do not dance,,
+yesterday,Yesterday,1174,YESTERDAY
+today,To-day,1283,TODAY
+tomorrow,To-morrow,1329,TOMORROW
+three,Three,492,THREE
+youngersister,Younger Sister,1761,YOUNGER SISTER
+friendmythy,"Friend (My, Thy)",1325,FRIEND
+stranger,Stranger,791,STRANGER
+king,King,1508,KING
+maleslave,Male Slave,,
+femaleslave,Female Slave,,
+four,Four,1500,FOUR
+medicine,Medicine,1372,MEDICINE
+hair,Hair,1040,HAIR
+forehead,Forehead,123,FOREHEAD
+nose,Nose,1221,NOSE
+eye,Eye,1248,EYE
+ear,Ear,1247,EAR
+mouth,Mouth,674,MOUTH
+five,Five,493,FIVE
+tooth,Tooth,1380,TOOTH
+tongue,Tongue,1205,TONGUE
+throat,Throat,1346,THROAT
+gullet,Gullet,,
+neck,Neck,1333,NECK
+shoulder,Shoulder,1482,SHOULDER
+arm,Arm,1673,ARM
+armbetweenshoulderandelbow,Arm Between Shoulder and Elbow,446,LOWER ARM
+armbetweenelbowandwrist,Arm Between Elbow and Wrist,431,UPPER ARM
+leg,Leg,1297,LEG
+outerhandorhand,"Outer Hand, or Hand",,
+innerhand,Inner Hand,1183,PALM OF HAND
+footsole,Foot-Sole,2666,SOLE (FOOT)
+elbow,Elbow,981,ELBOW
+chest,Chest,1592,CHEST
+femalebreast,Female Breast,1402,BREAST
+belly,Belly,1251,BELLY
+thigh,Thigh,800,THIGH
+knee,Knee,1371,KNEE
+skin,Skin,763,SKIN
+bone,Bone,1394,BONE
+vein,Vein,1924,VEIN
+blood,Blood,946,BLOOD
+hat,Hat,771,HAT
+cap,Cap,1288,CAP
+waistcloth,Waist-cloth,,
+house,House,1252,HOUSE
+doorway,Door-way,,
+bed,Bed,1663,BED
+mat,Mat,195,MAT
+knife,Knife,1352,KNIFE
+spoon,Spoon,1378,SPOON
+fathermyfatherthyfather,"Father (My Father, Thy Father)",1217,FATHER
+mothermymotherthymother,"Mother (My Mother, Thy Mother)",1216,MOTHER
+elderbrothermythy,"Elder Brother (My, Thy)",1759,OLDER BROTHER
+youngerbrothermythy,"Younger Brother (My, Thy)",1760,YOUNGER BROTHER
+eldersister,Elder Sister,1758,OLDER SISTER
+doctor,Doctor,597,PHYSICIAN
+head,Head,1256,HEAD
+face,Face,1560,FACE
+footorinstepofthefoot,"Foot, or Instep of the Foot",,
+finger,Finger,1303,FINGER
+navel,Navel,1838,NAVEL
+nailoffingerandtoe,Nail (of Finger and Toe),1896,FINGERNAIL OR TOENAIL
+shirt,Shirt,1622,SHIRT
+door,Door,1567,DOOR
+armletorbracelet,Armlet or Bracelet,,
+spear,Spear,945,SPEAR
+sun,Sun,1343,SUN
+night,Night,1233,NIGHT
+coal,Coal,2658,COAL
+drum,Drum,908,DRUM
+firewood,Firewood,10,FIREWOOD
+walkingstick,Walking-stick,1296,WALKING STICK
+leaf,Leaf,628,LEAF
+groundnut,Ground-nut,595,GROUNDNUTS
+milk,Milk,635,MILK
+cat,Cat,1208,CAT
+pig,Pig,1337,PIG
+bat,Bat,1793,BAT
+fowlhen,Fowl (Hen),265,FOWL
+fish,Fish,227,FISH
+mosquito,Mosquito,1509,MOSQUITO
+bee,Bee,665,BEE
+honey,Honey,942,HONEY
+chamelion,Chamelion,1555,CHAMELEON
+lizardthecommonone,Lizard (the common one),632,LIZARD
+black,Black,163,BLACK
+rich,Rich,712,RICH
+igo,I go,695,GO
+istop,I stop,2880,HALT (STOP)
+isitdown,I sit down,1649,SIT DOWN
+ibreathe,I breathe,1407,BREATHE
+isnore,I snore,1983,SNORE
+ilaugh,I laugh,1355,LAUGH
+ifall,I fall,2894,TUMBLE (FALL DOWN)
+itake,I take,1749,TAKE
+ilovethee,I love thee,923,LOVE
+icatchafish,I catch a fish,2638,FISHING
+ibreakastick,I break a stick,2558,BREAK (CLEAVE)
+bow,Bow,994,BOW
+arrow,Arrow,977,ARROW
+quiver,Quiver,995,QUIVER
+greegree,Greegree,2804,AMULET
+sacrifice,Sacrifice,1103,SACRIFICE
+hell,Hell,878,HELL
+waterfresh,Water (fresh),,
+gold,Gold,1369,GOLD
+book,Book,963,BOOK
+newmoon,New Moon,3691,NEW MOON
+soap,Soap,788,SOAP
+needle,Needle,,
+chainfetters,Chain (Fetters ?),,
+kuskusbearinglikeoats,Kuskus (bearing like Oats),,
+ricecooked,Rice (Cooked),1191,COOKED RICE
+yam,Yam,410,YAM
+beans,Beans,832,BEAN
+horse,Horse,615,HORSE
+butter,Butter,1245,BUTTER
+ewesheep,Ewe (Sheep),,
+ramsheep,Ram (Sheep),1344,RAM
+pigeon,Pigeon,1853,DOVE
+parrot,Parrot,882,PARROT
+egg,Egg,744,EGG
+bird,Bird,937,BIRD
+scorpion,Scorpion,1538,SCORPION
+butterfly,Butterfly,1791,BUTTERFLY
+wasp,Wasp,1517,WASP
+elephant,Elephant,1290,ELEPHANT
+toad,Toad,894,TOAD
+frog,Frog,503,FROG
+littlesmall,"Little, small",1246,SMALL
+white,White,1335,WHITE
+newyoung,New (young),,
+greedy,Greedy,2018,GREEDY
+ikneel,I kneel,66,KNEEL
+irise,I rise,3207,GO UP OR RISE (ONESELF)
+icutatree,I cut a tree,3151,CUT (WITH AXE)
+grandfather,Grandfather,1383,GRANDFATHER
+icallaslave,I call a slave,,
+ipraytogodbeggod,I pray to god (beg god),24,PRAY
+grandmother,Grandmother,1496,GRANDMOTHER
+son,Son,1620,SON
+daughtermythy,"Daughter (My, Thy)",1357,DAUGHTER
+toe,Toe,1389,TOE
+rib,Rib,801,RIB
+heel,Heel,980,HEEL
+shoe,Shoe,1381,SHOE
+trousers,Trousers,809,TROUSERS
+townvillage,Town (Village),3609,TOWN OR VILLAGE
+village,Village,930,VILLAGE
+market,Market,633,MARKET
+earring,Ear-Ring,770,EARRING
+itch,Itch,148,ITCH
+smallpox,Small-Pox,1054,SMALLPOX
+guineacornbearinglikemaize,Guinea-Corn (bearing like Maize),,
+mare,Mare,938,MARE
+ivory,Ivory,,
+iflogachild,I flog a child,,
+ten,Ten,1515,TEN
+eleven,Eleven,1706,ELEVEN
+twelve,Twelve,1707,TWELVE
+seven,Seven,1704,SEVEN
+eight,Eight,1705,EIGHT
+nine,Nine,1483,NINE
+six,Six,1703,SIX
+maize,Maize,506,MAIZE
+twenty,Twenty,1710,TWENTY
+idol,Idol,1945,IDOL
+ink,Ink,2643,INK
+onion,Onion,2366,ONION
+thirteen,Thirteen,1708,THIRTEEN
+fourteen,Fourteen,2451,FOURTEEN
+fifteen,Fifteen,1709,FIFTEEN
+sixteen,Sixteen,2454,SIXTEEN
+seventeen,Seventeen,2453,SEVENTEEN
+eighteen,Eighteen,1713,EIGHTEEN
+nineteen,Nineteen,1714,NINETEEN
+buttermelted,Butter (melted),,
+camwood,Camwood,,
+chainfettersforneck,Chain (Fetters ?) (for neck),,
+batlarge,Bat (large),,
+pigeonwild,Pigeon (wild),,
+yamwild,Yam (wild),,
+rainwater,Rain (water),,
+cough,cough,,
+spoonofwood,Spoon (of wood),,
+fingerthumb,Finger (thumb),1781,THUMB
+toethebigone,Toe (the big one),,
+crossbow,cross-bow,3193,CROSSBOW
+pigeondomestic,Pigeon (domestic),,
+body,body,1480,BODY
+armletorbraceletofbrass,Armlet or Bracelet (of brass),,
+firewooddrywood,Firewood (dry wood),,
+young,young,1207,YOUNG
+goldbrass,Gold (brass),,
+cassadawild,Cassada (wild),,
+veinrope,Vein (rope),,
+needleforornament,Needle (for ornament),,
+oldofpersons,Old (of persons),2112,OLD (AGED)
+oldofthings,Old (of things),2113,OLD (USED)
+ieatyam,I eat yam,,
+witch,witch,824,WITCH
+silver,silver,759,SILVER
+sheep,Sheep,1331,SHEEP
+myyoungerson,my younger son,,
+isew,I sew,1457,SEW
+milkofcows,Milk (of cows),,
+milkofwomen,Milk (of women),,
+nailoffinger,Nail (of Finger),1258,FINGERNAIL
+oldofmen,Old (of men),565,OLD (OF MAN)
+palmtreeayoungone,Palm-tree (a young one),,
+ieatyams,I eat yams,,
+ieatcorn,I eat corn,,
+benchchairformen,"Bench, Chair (for men)",,
+benchchairforwomen,"Bench, Chair (for women)",,
+awalledtown,a walled town,,
+doorofgrass,Door (of grass),,
+doorofwood,Door (of wood),,
+milkfresh,Milk (fresh),,
+milksour,Milk (sour),,
+rootstump,Root (stump),241,TREE STUMP
+pigeontame,Pigeon (tame),,
+lizardthecommononemale,Lizard (the common one) (male),,
+thelargeredheadedlizardfemale,The large red-headed Lizard (female),,
+leafgrass,Leaf (grass),,
+new,New,1231,NEW
+oldpersons,Old (persons),,
+ewe,Ewe,1345,EWE
+nosering,Nose-Ring,,
+townwalled,town (walled),,
