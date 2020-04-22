@@ -105,7 +105,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 104_goat,Goat,1502,GOAT
 105_god,God,1944,GOD
 106_gold,Gold,1369,GOLD
-107_goldbrass,Gold (brass),1369,GOLD
+107_goldbrass,Gold (brass),,
 108_good,Good,1035,GOOD
 109_grandfather,Grandfather,1383,GRANDFATHER
 110_grandmother,Grandmother,1496,GRANDMOTHER
@@ -192,7 +192,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 191_lion,Lion,1386,LION
 192_littlesmall,"Little, small",1246,SMALL
 193_lizardthecommonone,Lizard (the common one),632,LIZARD
-194_lizardthecommononemale,Lizard (the common one) (male),632,LIZARD
+194_lizardthecommononemale,Lizard (the common one) (male),,
 195_maize,Maize,506,MAIZE
 196_maleslave,Male Slave,,
 197_man,Man,1554,MAN
@@ -217,7 +217,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 216_navel,Navel,1838,NAVEL
 217_neck,Neck,1333,NECK
 218_needle,Needle,1382,NEEDLE (FOR SEWING)
-219_needleforornament,Needle (for ornament),1382,NEEDLE (FOR SEWING)
+219_needleforornament,Needle (for ornament),,
 220_new,New,1231,NEW
 221_newmoon,New Moon,3691,NEW MOON
 222_newyoung,New (young),1207,YOUNG
@@ -307,7 +307,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 306_tongue,Tongue,1205,TONGUE
 307_tooth,Tooth,1380,TOOTH
 308_townvillage,Town (Village),3609,TOWN OR VILLAGE
-309_townwalled,town (walled),3609,TOWN OR VILLAGE
+309_townwalled,town (walled),,
 310_tree,Tree,906,TREE
 311_trousers,Trousers,809,TROUSERS
 312_twelve,Twelve,1707,TWELVE
@@ -321,7 +321,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 320_war,War,935,WAR
 321_wasp,Wasp,1517,WASP
 322_water,Water,948,WATER
-323_waterfresh,Water (fresh),948,WATER
+323_waterfresh,Water (fresh),,
 324_well,Well,954,WELL
 325_wet,Wet,1726,WET
 326_white,White,1335,WHITE
