@@ -1,16 +1,5 @@
 {
-    "description": null,
-    "related": null,
-    "lingpy_schema": null,
-    "license": null,
-    "citation": null,
-    "url": null,
     "id": "polyglottaafricana",
-    "patron": null,
-    "derived_from": null,
-    "source": null,
     "version": "2.6.0",
-    "title": "CLDF dataset derived from Koelle's \"Polyglotta Africana\" from 1854",
-    "conceptlist": [],
-    "aboutUrl": null
+    "title": "CLDF dataset derived from Koelle's \"Polyglotta Africana\" from 1854"
 }

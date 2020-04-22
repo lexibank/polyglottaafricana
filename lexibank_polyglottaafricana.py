@@ -32,7 +32,8 @@ class Dataset(BaseDataset):
 
         # Write concepts
         cmap = args.writer.add_concepts(
-            id_factory=lambda c: slug(c.id), lookup_factory=lambda c: c.gloss
+            id_factory=lambda c: c.number + "_" + slug(c.gloss),
+            lookup_factory=lambda c: c.gloss
         )
 
         # Write forms
