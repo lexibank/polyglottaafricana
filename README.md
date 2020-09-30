@@ -20,14 +20,6 @@
 - **Segments:** 93 (0 BIPA errors, 0 CTLS sound class errors, 93 CLTS modified)
 - **Inventory size (avg):** 45.64
 
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Baynunk-Gujaxer [bain1260](http://glottolog.org/resource/languoid/id/bain1260)
-  - Ihieʋe [ihie1238](http://glottolog.org/resource/languoid/id/ihie1238)
-
-
-
 # Contributors
 
 Name | GitHub user | Description | Role
