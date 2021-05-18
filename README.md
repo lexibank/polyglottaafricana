@@ -1,5 +1,7 @@
 # CLDF dataset derived from Koelle's "Polyglotta Africana" from 1854
 
+This dataset is licensed under a CC-BY-4.0 license
+
 
 Conceptlists in Concepticon:
 - [Koelle-1854-280](https://concepticon.clld.org/contributions/Koelle-1854-280)

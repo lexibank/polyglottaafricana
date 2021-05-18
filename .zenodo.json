@@ -33,5 +33,8 @@
             "identifier": "lexibank"
         }
     ],
-    "upload_type": "dataset"
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
 }

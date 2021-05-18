@@ -2,5 +2,6 @@
     "id": "polyglottaafricana",
     "version": "0.1.0",
     "title": "CLDF dataset derived from Koelle's \"Polyglotta Africana\" from 1854",
+    "license": "CC-BY-4.0",
     "conceptlist": "Koelle-1854-280"
 }

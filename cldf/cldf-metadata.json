@@ -6,6 +6,7 @@
         "http://concepticon.clld.org/contributions/Koelle-1854-280"
     ],
     "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Koelle's \"Polyglotta Africana\" from 1854",
@@ -15,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
-            "dc:created": "82e90b2"
+            "dc:created": "dd8236d"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,7 +28,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.3-45-g1822952"
+            "dc:created": "v2.4.0-rc.3-46-g91ad1ce"
         },
         {
             "rdf:type": "prov:Entity",
