@@ -2,12 +2,17 @@ from pathlib import Path
 
 from clldutils.misc import slug
 
-from pylexibank import FormSpec, Dataset as BaseDataset
+from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar
+import attr
 
+@attr.s
+class CustomConcept(Concept):
+    Number = attr.ib(default=None)
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "polyglottaafricana"
+    concept_class = CustomConcept
 
     # define the way in which forms should be handled
     form_spec = FormSpec(
@@ -28,26 +33,41 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
 
         # Write languages
-        language_map = args.writer.add_languages(lookup_factory="Name")
+        languages = args.writer.add_languages(lookup_factory="Name")
 
         # Write concepts
-        cmap = args.writer.add_concepts(
-            id_factory=lambda c: c.number + "_" + slug(c.gloss),
-            lookup_factory=lambda c: c.gloss
-        )
+        concepts = {}
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.number+'_'+slug(concept.english)
+            for gloss in concept.attributes["lexibank_gloss"]:
+                concepts[gloss.strip()] = idx
+            concepts[concept.english] = idx
+            args.writer.add_concept(
+                    ID=idx,
+                    Number=concept.number,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
+                    )
 
         # Write forms
-        for row in self.raw_dir.read_csv(
+        missing = set()
+        for row in progressbar(self.raw_dir.read_csv(
             "test-koelle.csv", dicts=True, delimiter="\t"
-        ):
+        )):
             # Language name>--ethn>---Source name>----reflex.id>------
             # source.id>------page>---ORIGINAL FORM>--ORIGINAL TRANSLATION
             if row["ORIGINAL FORM"].strip().startswith("?"):
                 # We ignore dubious forms, marked with a leading "?"
                 continue
-            args.writer.add_lexemes(
-                Value=row["ORIGINAL FORM"],
-                Language_ID=language_map[row["Language name"]],
-                Parameter_ID=cmap[row["ORIGINAL TRANSLATION"]],
-                Source=["Koelle1854"],
-            )
+            if row["ORIGINAL TRANSLATION"] in concepts:
+                args.writer.add_lexemes(
+                    Value=row["ORIGINAL FORM"],
+                    Language_ID=languages[row["Language name"]],
+                    Parameter_ID=concepts[row["ORIGINAL TRANSLATION"]],
+                    Source=["Koelle1854"],
+                )
+            else:
+                missing.add(row["ORIGINAL TRANSLATION"])
+        for m in missing:
+            print(m)

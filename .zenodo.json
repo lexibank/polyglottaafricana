@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Koelle's \"Polyglotta Africana\" from 1854",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Sigismund Koelle"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Other"
+        },
+        {
+            "name": "Guillaume Segerer",
+            "type": "Editor"
+        },
+        {
+            "name": "Guillaume Segerer",
+            "type": "DataCurator"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset"
+}

@@ -1,336 +1,320 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss
-1_alligator,Alligator,1581,ALLIGATOR
-2_arm,Arm,1673,ARM
-3_armbetweenelbowandwrist,Arm Between Elbow and Wrist,431,UPPER ARM
-4_armbetweenshoulderandelbow,Arm Between Shoulder and Elbow,446,LOWER ARM
-5_armletorbracelet,Armlet or Bracelet,3149,ARMLET
-6_armletorbraceletofbrass,Armlet or Bracelet (of brass),3149,ARMLET
-7_arrow,Arrow,977,ARROW
-8_awalledtown,a walled town,,
-9_axe,Axe,677,AXE
-10_bad,Bad,1292,BAD
-11_bat,Bat,1793,BAT
-12_batlarge,Bat (large),,
-13_beans,Beans,832,BEAN
-14_bed,Bed,1663,BED
-15_bee,Bee,665,BEE
-16_belly,Belly,1251,BELLY
-17_benchchair,"Bench, Chair",,
-18_benchchairformen,"Bench, Chair (for men)",,
-19_benchchairforwomen,"Bench, Chair (for women)",,
-20_bird,Bird,937,BIRD
-21_black,Black,163,BLACK
-22_blackmannegro,Black Man (Negro),2806,BLACK MAN
-23_blood,Blood,946,BLOOD
-24_body,body,1480,BODY
-25_bone,Bone,1394,BONE
-26_book,Book,963,BOOK
-27_bow,Bow,994,BOW
-28_boy,Boy,1366,BOY
-29_buck,Buck,,
-30_bull,Bull,1008,BULL
-31_butter,Butter,1245,BUTTER
-32_butterfly,Butterfly,1791,BUTTERFLY
-33_buttermelted,Butter (melted),,
-34_calabash,Calabash,411,GOURD
-35_camwood,Camwood,,
-36_canoe,Canoe,1970,CANOE
-37_cap,Cap,1288,CAP
-38_cassada,Cassada,925,CASSAVA
-39_cassadawild,Cassada (wild),925,CASSAVA
-40_cat,Cat,1208,CAT
-41_chainfetters,Chain (Fetters ?),,
-42_chainfettersforneck,Chain (Fetters ?) (for neck),,
-43_chamelion,Chamelion,1555,CHAMELEON
-44_chest,Chest,1592,CHEST
-45_coal,Coal,2658,COAL
-46_cock,Cock,1511,ROOSTER
-47_cold,Cold,1287,COLD
-48_cotton,Cotton,1850,COTTON
-49_cottonplantashrub,Cotton-plant (a Shrub),,
-50_cottontree,Cotton-tree,,
-51_cough,cough,,
-52_cow,Cow,1007,COW
-53_crookedbent,Crooked (bent),297,CROOKED
-54_crossbow,cross-bow,3193,CROSSBOW
-55_daughtermythy,"Daughter (My, Thy)",1357,DAUGHTER
-56_day,Day,1225,DAY (NOT NIGHT)
-57_devil,Devil,1973,DEMON
-58_dew,Dew,1977,DEW
-59_doctor,Doctor,597,PHYSICIAN
-60_dog,Dog,2009,DOG
-61_door,Door,1567,DOOR
-62_doorofgrass,Door (of grass),,
-63_doorofwood,Door (of wood),,
-64_doorway,Door-way,,
-65_drum,Drum,908,DRUM
-66_dry,Dry,1398,DRY
-67_dryseason,Dry Season,452,DRY SEASON
-68_ear,Ear,1247,EAR
-69_earring,Ear-Ring,770,EARRING
-70_egg,Egg,744,EGG
-71_eight,Eight,1705,EIGHT
-72_eighteen,Eighteen,1713,EIGHTEEN
-73_elbow,Elbow,981,ELBOW
-74_elderbrothermythy,"Elder Brother (My, Thy)",1759,OLDER BROTHER
-75_eldersister,Elder Sister,1758,OLDER SISTER
-76_elephant,Elephant,1290,ELEPHANT
-77_eleven,Eleven,1706,ELEVEN
-78_ewe,Ewe,1345,EWE
-79_ewesheep,Ewe (Sheep),1345,EWE
-80_eye,Eye,1248,EYE
-81_face,Face,1560,FACE
-82_farm,Farm,201,FARM
-83_fathermyfatherthyfather,"Father (My Father, Thy Father)",1217,FATHER
-84_femalebreast,Female Breast,1402,BREAST
-85_femaleslave,Female Slave,,
-86_fifteen,Fifteen,1709,FIFTEEN
-87_finger,Finger,1303,FINGER
-88_fingerthumb,Finger (thumb),1781,THUMB
-89_fire,Fire,221,FIRE
-90_firewood,Firewood,10,FIREWOOD
-91_firewooddrywood,Firewood (dry wood),10,FIREWOOD
-92_fish,Fish,227,FISH
-93_five,Five,493,FIVE
-94_footorinstepofthefoot,"Foot, or Instep of the Foot",1301,FOOT
-95_footsole,Foot-Sole,2666,SOLE (FOOT)
-96_forehead,Forehead,123,FOREHEAD
-97_forest,Forest,420,FOREST
-98_four,Four,1500,FOUR
-99_fourteen,Fourteen,2451,FOURTEEN
-100_fowlhen,Fowl (Hen),265,FOWL
-101_friendmythy,"Friend (My, Thy)",1325,FRIEND
-102_frog,Frog,503,FROG
-103_girl,Girl,1646,GIRL
-104_goat,Goat,1502,GOAT
-105_god,God,1944,GOD
-106_gold,Gold,1369,GOLD
-107_goldbrass,Gold (brass),,
-108_good,Good,1035,GOOD
-109_grandfather,Grandfather,1383,GRANDFATHER
-110_grandmother,Grandmother,1496,GRANDMOTHER
-111_greatlarge,"Great, large",1202,BIG
-112_greedy,Greedy,2018,GREEDY
-113_greegree,Greegree,2804,AMULET
-114_groundnut,Ground-nut,595,GROUNDNUTS
-115_guineacornbearinglikemaize,Guinea-Corn (bearing like Maize),,
-116_gullet,Gullet,,
-117_gun,Gun,1566,GUN
-118_hair,Hair,1040,HAIR
-119_hat,Hat,771,HAT
-120_head,Head,1256,HEAD
-121_heavensky,Heaven (sky),1565,HEAVEN
-122_heel,Heel,980,HEEL
-123_hell,Hell,878,HELL
-124_hoe,Hoe,284,HOE
-125_honey,Honey,942,HONEY
-126_horse,Horse,615,HORSE
-127_hot,Hot,1286,HOT
-128_house,House,1252,HOUSE
-129_ibathewashmyself,I bathe (wash myself),138,BATHE
-130_ibeg,I beg,3534,BEG
-131_ibreakastick,I break a stick,2558,BREAK (CLEAVE)
-132_ibreathe,I breathe,1407,BREATHE
-133_ibuy,I buy,1869,BUY
-134_icallaslave,I call a slave,,
-135_icatchafish,I catch a fish,2638,FISHING
-136_icome,I come,1446,COME
-137_icookmeat,I cook meat,,
-138_icough,I cough,879,COUGH
-139_icoverapot,I cover a pot,,
-140_icutatree,I cut a tree,3151,CUT (WITH AXE)
-141_idance,I dance,1879,DANCE
-142_idie,I die,1494,DIE
-143_idol,Idol,1945,IDOL
-144_idonotdance,I do not dance,,
-145_idonotplay,I do not play,,
-146_idream,I dream,1920,DREAM (SOMETHING)
-147_idrinkwater,I drink water,,
-148_ieatcorn,I eat corn,,
-149_ieatrice,I eat rice,,
-150_ieatyam,I eat yam,,
-151_ieatyams,I eat yams,,
-152_ifall,I fall,2894,TUMBLE (FALL DOWN)
-153_iflogachild,I flog a child,,
-154_igivethee,I give thee,1447,GIVE
-155_igo,I go,695,GO
-156_ihear,I hear,1408,HEAR
-157_ikillafowl,I kill a fowl,,
-158_ikneel,I kneel,66,KNEEL
-159_ilaugh,I laugh,1355,LAUGH
-160_iliedown,I lie down,215,LIE DOWN
-161_ilovethee,I love thee,923,LOVE
-162_ink,Ink,2643,INK
-163_innerhand,Inner Hand,1183,PALM OF HAND
-164_iplay,I play,1413,PLAY
-165_ipraytogodbeggod,I pray to god (beg god),24,PRAY
-166_irise,I rise,3207,GO UP OR RISE (ONESELF)
-167_iron,Iron,621,IRON
-168_irun,I run,1519,RUN
-169_isee,I see,1409,SEE
-170_isell,I sell,1571,SELL
-171_isew,I sew,1457,SEW
-172_isewashirt,I sew a shirt,,
-173_isitdown,I sit down,1649,SIT DOWN
-174_isleep,I sleep,1585,SLEEP
-175_isneeze,I sneeze,1621,SNEEZE
-176_isnore,I snore,1983,SNORE
-177_ispeak,I speak,1623,SPEAK
-178_istop,I stop,2880,HALT (STOP)
-179_itake,I take,1749,TAKE
-180_itch,Itch,148,ITCH
-181_ivory,Ivory,,
-182_iweep,I weep,1839,CRY
-183_king,King,1508,KING
-184_knee,Knee,1371,KNEE
-185_knife,Knife,1352,KNIFE
-186_kuskusbearinglikeoats,Kuskus (bearing like Oats),,
-187_leaf,Leaf,628,LEAF
-188_leafgrass,Leaf (grass),628,LEAF
-189_leg,Leg,1297,LEG
-190_leopard,Leopard,1139,LEOPARD
-191_lion,Lion,1386,LION
-192_littlesmall,"Little, small",1246,SMALL
-193_lizardthecommonone,Lizard (the common one),632,LIZARD
-194_lizardthecommononemale,Lizard (the common one) (male),,
-195_maize,Maize,506,MAIZE
-196_maleslave,Male Slave,,
-197_man,Man,1554,MAN
-198_mare,Mare,938,MARE
-199_market,Market,633,MARKET
-200_mat,Mat,195,MAT
-201_meatoftenanimal,Meat (often Animal),2096,ANIMAL OR MEAT
-202_medicine,Medicine,1372,MEDICINE
-203_milk,Milk,635,MILK
-204_milkfresh,Milk (fresh),,
-205_milkofcows,Milk (of cows),,
-206_milkofwomen,Milk (of women),,
-207_milksour,Milk (sour),,
-208_monkey,Monkey,1350,MONKEY
-209_moon,Moon,1313,MOON
-210_mosquito,Mosquito,1509,MOSQUITO
-211_mothermymotherthymother,"Mother (My Mother, Thy Mother)",1216,MOTHER
-212_mouth,Mouth,674,MOUTH
-213_myyoungerson,my younger son,,
-214_nailoffinger,Nail (of Finger),1258,FINGERNAIL
-215_nailoffingerandtoe,Nail (of Finger and Toe),1896,FINGERNAIL OR TOENAIL
-216_navel,Navel,1838,NAVEL
-217_neck,Neck,1333,NECK
-218_needle,Needle,1382,NEEDLE (FOR SEWING)
-219_needleforornament,Needle (for ornament),,
-220_new,New,1231,NEW
-221_newmoon,New Moon,3691,NEW MOON
-222_newyoung,New (young),1207,YOUNG
-223_night,Night,1233,NIGHT
-224_nine,Nine,1483,NINE
-225_nineteen,Nineteen,1714,NINETEEN
-226_nose,Nose,1221,NOSE
-227_nosering,Nose-Ring,,
-228_old,Old,1229,OLD
-229_oldofmen,Old (of men),565,OLD (OF MAN)
-230_oldofpersons,Old (of persons),2112,OLD (AGED)
-231_oldofthings,Old (of things),2113,OLD (USED)
-232_oldpersons,Old (persons),2112,OLD (AGED)
-233_one,One,1493,ONE
-234_onion,Onion,2366,ONION
-235_outerhandorhand,"Outer Hand, or Hand",1277,HAND
-236_palmoil,Palm-Oil,,
-237_palmtree,Palm-tree,1181,PALM TREE
-238_palmtreeayoungone,Palm-tree (a young one),,
-239_parrot,Parrot,882,PARROT
-240_pepper,Pepper,1385,PEPPER
-241_pig,Pig,1337,PIG
-242_pigeon,Pigeon,1853,DOVE
-243_pigeondomestic,Pigeon (domestic),,
-244_pigeontame,Pigeon (tame),,
-245_pigeonwild,Pigeon (wild),,
-246_poor,Poor,1674,POOR
-247_pot,Pot,1462,POT
-248_powder,Powder,3368,POWDER
-249_quiver,Quiver,995,QUIVER
-250_rain,Rain,658,RAIN (PRECIPITATION)
-251_rainwater,Rain (water),,
-252_rainyseason,Rainy Season,453,RAINY SEASON
-253_ramsheep,Ram (Sheep),1344,RAM
-254_rat,Rat,1490,RAT
-255_rib,Rib,801,RIB
-256_ricecooked,Rice (Cooked),1191,COOKED RICE
-257_riceuncooked,Rice (uncooked),3289,UNCOOKED RICE
-258_rich,Rich,712,RICH
-259_root,Root,670,ROOT
-260_rootstump,Root (stump),241,TREE STUMP
-261_rope,Rope,1218,ROPE
-262_sacrifice,Sacrifice,1103,SACRIFICE
-263_salt,Salt,1274,SALT
-264_sand,Sand,671,SAND
-265_scorpion,Scorpion,1538,SCORPION
-266_serpent,Serpent,730,SNAKE
-267_seven,Seven,1704,SEVEN
-268_seventeen,Seventeen,2453,SEVENTEEN
-269_sheep,Sheep,1331,SHEEP
-270_shirt,Shirt,1622,SHIRT
-271_shoe,Shoe,1381,SHOE
-272_shoulder,Shoulder,1482,SHOULDER
-273_sick,Sick,1847,SICK
-274_silver,silver,759,SILVER
-275_six,Six,1703,SIX
-276_sixteen,Sixteen,2454,SIXTEEN
-277_skin,Skin,763,SKIN
-278_smallpox,Small-Pox,1054,SMALLPOX
-279_smoke,Smoke,778,SMOKE (EXHAUST)
-280_soap,Soap,788,SOAP
-281_son,Son,1620,SON
-282_soup,Soup,1547,SOUP
-283_spear,Spear,945,SPEAR
-284_spider,Spider,843,SPIDER
-285_spoon,Spoon,1378,SPOON
-286_spoonofwood,Spoon (of wood),1378,SPOON
-287_stone,Stone,857,STONE
-288_straight,Straight,1404,STRAIGHT
-289_stranger,Stranger,791,STRANGER
-290_stupid,Stupid,1518,STUPID
-291_sun,Sun,1343,SUN
-292_sword,Sword,1535,SWORD
-293_ten,Ten,1515,TEN
-294_thelargeredheadedlizard,The large red-headed Lizard,,
-295_thelargeredheadedlizardfemale,The large red-headed Lizard (female),,
-296_thigh,Thigh,800,THIGH
-297_thirteen,Thirteen,1708,THIRTEEN
-298_thread,Thread,1161,THREAD
-299_three,Three,492,THREE
-300_throat,Throat,1346,THROAT
-301_toad,Toad,894,TOAD
-302_today,To-day,1283,TODAY
-303_toe,Toe,1389,TOE
-304_toethebigone,Toe (the big one),,
-305_tomorrow,To-morrow,1329,TOMORROW
-306_tongue,Tongue,1205,TONGUE
-307_tooth,Tooth,1380,TOOTH
-308_townvillage,Town (Village),3609,TOWN OR VILLAGE
-309_townwalled,town (walled),,
-310_tree,Tree,906,TREE
-311_trousers,Trousers,809,TROUSERS
-312_twelve,Twelve,1707,TWELVE
-313_twenty,Twenty,1710,TWENTY
-314_two,Two,1498,TWO
-315_vein,Vein,1924,VEIN
-316_veinrope,Vein (rope),,
-317_village,Village,930,VILLAGE
-318_waistcloth,Waist-cloth,,
-319_walkingstick,Walking-stick,1296,WALKING STICK
-320_war,War,935,WAR
-321_wasp,Wasp,1517,WASP
-322_water,Water,948,WATER
-323_waterfresh,Water (fresh),,
-324_well,Well,954,WELL
-325_wet,Wet,1726,WET
-326_white,White,1335,WHITE
-327_whiteman,White Man,2839,WHITE MAN
-328_witch,witch,824,WITCH
-329_woman,Woman,962,WOMAN
-330_yam,Yam,410,YAM
-331_yamwild,Yam (wild),410,YAM
-332_yesterday,Yesterday,1174,YESTERDAY
-333_young,young,1207,YOUNG
-334_youngerbrothermythy,"Younger Brother (My, Thy)",1760,YOUNGER BROTHER
-335_youngersister,Younger Sister,1761,YOUNGER SISTER
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+1_one,One,1493,ONE,1
+2_two,Two,1498,TWO,2
+3_three,Three,492,THREE,3
+4_four,Four,1500,FOUR,4
+5_five,Five,493,FIVE,5
+6_six,Six,1703,SIX,6
+7_seven,Seven,1704,SEVEN,7
+8_eight,Eight,1705,EIGHT,8
+9_nine,Nine,1483,NINE,9
+10_ten,Ten,1515,TEN,10
+11_eleven,Eleven,1706,ELEVEN,11
+12_twelve,Twelve,1707,TWELVE,12
+13_thirteen,Thirteen,1708,THIRTEEN,13
+14_fourteen,Fourteen,2451,FOURTEEN,14
+15_fifteen,Fifteen,1709,FIFTEEN,15
+16_sixteen,Sixteen,2454,SIXTEEN,16
+17_seventeen,Seventeen,2453,SEVENTEEN,17
+18_eighteen,Eighteen,1713,EIGHTEEN,18
+19_nineteen,Nineteen,1714,NINETEEN,19
+20_twenty,Twenty,1710,TWENTY,20
+21_man,Man,1554,MAN,21
+22_woman,Woman,962,WOMAN,22
+23_boy,Boy,1366,BOY,23
+24_girl,Girl,1646,GIRL,24
+25_fathermyfatherthyfather,"Father (My Father, Thy Father)",1217,FATHER,25
+26_mothermymotherthymother,"Mother (My Mother, Thy Mother)",1216,MOTHER,26
+27_grandfather,Grandfather,1383,GRANDFATHER,27
+28_grandmother,Grandmother,1496,GRANDMOTHER,28
+29_son,Son,1620,SON,29
+29a_myson,my son,,,29a
+30_daughter,Daughter,1357,DAUGHTER,30
+31_elderbrother,Elder brother,1759,OLDER BROTHER,31
+32_youngerbrother,Younger Brother,1760,YOUNGER BROTHER,32
+33_eldersister,Elder Sister,1758,OLDER SISTER,33
+34_youngersister,Younger Sister,1761,YOUNGER SISTER,34
+35_friend,Friend,1325,FRIEND,35
+36_stranger,Stranger,791,STRANGER,36
+37_king,King,1508,KING,37
+38_manslave,Man Slave,,,38
+39_femaleslave,Female Slave,,,39
+40_doctor,Doctor,597,PHYSICIAN,40
+41_medicine,Medicine,1372,MEDICINE,41
+42_head,Head,1256,HEAD,42
+43_hair,Hair,1040,HAIR,43
+44_face,Face,1560,FACE,44
+45_forehead,Forehead,123,FOREHEAD,45
+46_nose,Nose,1221,NOSE,46
+47_eye,Eye,1248,EYE,47
+48_ear,Ear,1247,EAR,48
+49_mouth,Mouth,674,MOUTH,49
+50_tooth,Tooth,1380,TOOTH,50
+51_tongue,Tongue,1205,TONGUE,51
+52_throat,Throat,1346,THROAT,52
+53_gullet,Gullet,,,53
+54_neck,Neck,1333,NECK,54
+55_shoulder,Shoulder,1482,SHOULDER,55
+56_arm,Arm,1673,ARM,56
+57_armbetweenshoulderandelbow,Arm between Shoulder and Elbow,431,UPPER ARM,57
+58_armbetweenelbowandwrist,Arm between Elbow and Wrist,446,LOWER ARM,58
+59_leg,Leg,1297,LEG,59
+60_outerhandorhand,"Outer Hand, or Hand",1277,HAND,60
+61_innerhand,Inner Hand,1183,PALM OF HAND,61
+62_footorinstepofthefoot,"Foot, or Instep of the Foot",1301,FOOT,62
+63_footsole,Foot-sole,2666,SOLE (FOOT),63
+64_finger,Finger,1303,FINGER,64
+64a_thumb,thumb,1781,THUMB,64a
+65_toe,Toe,1389,TOE,65
+65a_thebigone,the big one,,,65a
+66_elbow,Elbow,981,ELBOW,66
+67_rib,Rib,801,RIB,67
+68_chest,Chest,1592,CHEST,68
+69_femalebreast,Female Breast,1402,BREAST,69
+70_belly,Belly,1251,BELLY,70
+71_navel,Navel,1838,NAVEL,71
+72_thigh,Thigh,471,UPPER LEG (THIGH),72
+73_knee,Knee,1371,KNEE,73
+74_heel,Heel,980,HEEL,74
+75_nailoffingertoe,Nail (of finger & toe),1896,FINGERNAIL OR TOENAIL,75
+75a_offingers,(of fingers),1258,FINGERNAIL,75a
+76_skin,Skin,763,SKIN,76
+76b_body,(body),1480,BODY,76b
+77_bone,Bone,1394,BONE,77
+78_vein,Vein,1924,VEIN,78
+78a_rope,rope,1218,ROPE,78a
+79_blood,Blood,946,BLOOD,79
+80_itch,Itch,148,ITCH,80
+81_smallpox,Small-pox,1054,SMALLPOX,81
+82_hat,Hat,771,HAT,82
+83_cap,Cap,1288,CAP,83
+84_shoe,Shoe,1381,SHOE,84
+85_shirt,Shirt,1622,SHIRT,85
+86_trousers,Trousers,809,TROUSERS,86
+87_waistcloth,Waist-cloth,,,87
+88_townvillage,Town (village),1391,TOWN,88
+89_market,Market,633,MARKET,89
+90_house,House,1252,HOUSE,90
+91_door,Door,1567,DOOR,91
+92_doorway,Door-way,1567,DOOR,92
+93_bed,bed,1663,BED,93
+94_mat,mat,195,MAT,94
+95_knife,Knife,1352,KNIFE,95
+96_spoon,Spoon,1378,SPOON,96
+96a_spoonofwood,Spoon (of wood),,,96a
+97_earring,Ear-ring,770,EARRING,97
+97a_nosering,nose-ring,,,97a
+98_armletorbracelet,Armlet or Bracelet,,,98
+98a_armletorbraceletofbrass,Armlet or Bracelet (of brass),,,98a
+99_pot,Pot,1462,POT,99
+100_calabash,Calabash,411,GOURD,100
+101_gun,Gun,1566,GUN,101
+102_powder,Powder,1798,GUNPOWDER,102
+103_sword,Sword,1535,SWORD,103
+104_spear,Spear,945,SPEAR,104
+105_bow,Bow,994,BOW,105
+105a_crossbow,cross-bow,3193,CROSSBOW,105a
+106_arrow,Arrow,977,ARROW,106
+107_quiver,Quiver,52,SHIVER,107
+108_war,War,935,WAR,108
+109_god,God,1944,GOD,109
+110_devil,Devil,1973,DEMON,110
+111_idol,Idol,1945,IDOL,111
+112_greegree,Greegree,,,112
+113_sacrifice,Sacrifice,1103,SACRIFICE,113
+114_heavensky,Heaven (sky),1565,HEAVEN,114
+115_hell,Hell,878,HELL,115
+116_fire,Fire,221,FIRE,116
+117_water,Water,948,WATER,117
+118_soup,Soup,1547,SOUP,118
+119_meatoftenanimal,Meat (often Animal),2615,FLESH OR MEAT,119
+120_salt,Salt,1274,SALT,120
+121_gold,Gold,1369,GOLD,121
+121a_brass,(brass),,,121a
+121b_silver,silver,759,SILVER,121b
+122_iron,Iron,621,IRON,122
+123_stone,Stone,857,STONE,123
+124_hoe,Hoe,284,HOE,124
+125_axe,Axe,677,AXE,125
+126_book,Book,963,BOOK,126
+127_ink,Ink,2643,INK,127
+128_sun,Sun,1343,SUN,128
+129_moonfull,Moon (? full),1313,MOON,129
+130_newmoon,New Moon,3691,NEW MOON,130
+131_day,Day,1225,DAY (NOT NIGHT),131
+132_night,Night,1233,NIGHT,132
+133_dryseason,Dry Season,452,DRY SEASON,133
+134_rainyseason,Rainy Season,453,RAINY SEASON,134
+135_rain,Rain,658,RAIN (PRECIPITATION),135
+136_dew,Dew,1977,DEW,136
+137_coal,Coal,2658,COAL,137
+138_smoke,Smoke,778,SMOKE (EXHAUST),138
+139_soap,Soap,788,SOAP,139
+140_sand,Sand,671,SAND,140
+141_canoe,Canoe,1970,CANOE,141
+142_benchchair,"Bench, Chair",,,142
+142a_formen,(for men),,,142a
+142b_forwomen,(for women),,,142b
+143_needle,Needle,1382,NEEDLE (FOR SEWING),143
+143b_forornament,(for ornament),,,143b
+144_thread,Thread,1161,THREAD,144
+145_rope,Rope,1218,ROPE,145
+146_chainfetters,Chain (Fetters?),1627,CHAIN,146
+146b_forneck,(for neck),,,146b
+147_drum,Drum,908,DRUM,147
+148_tree,Tree,906,TREE,148
+149_firewood,Firewood,10,FIREWOOD,149
+149a_drywooddry,dry wood//(dry),10,FIREWOOD,149a
+150_walkingstick,Walking-stick,1296,WALKING STICK,150
+151_leaf,Leaf,628,LEAF,151
+152_root,Root,670,ROOT,152
+153_palmtree,Palm-tree,1181,PALM TREE,153
+153b_ayoungone,(a young one),,,153b
+154_palmoil,Palm-oil,,,154
+155_guineacornbearinglikemaize,Guinea-Corn (bearing like Maize),347,SORGHUM,155
+156_kuskusbearinglikeoats,Kuskus (bearing like Oats),,,156
+157_cotton,Cotton,1850,COTTON,157
+158_cottonplantashrub,Cotton-plant (a Shrub),,,158
+159_cottontree,Cotton-tree,,,159
+160_camwood,Camwood,,,160
+161_riceuncooked,Rice (uncooked),3289,UNCOOKED RICE,161
+161a_cooked,(cooked),1191,COOKED RICE,161a
+162_yam,Yam,410,YAM,162
+163_cassada,Cassada,925,CASSAVA,163
+164_groundnut,Ground-nut,2364,PEANUT,164
+165_pepper,Pepper,1385,PEPPER,165
+166_onion,Onion,2366,ONION,166
+167_maize,Maize,506,MAIZE,167
+168_beans,Beans,832,BEAN,168
+169_farm,Farm,201,FARM,169
+170_forest,Forest,420,FOREST,170
+171_horse,Horse,615,HORSE,171
+172_mare,Mare,938,MARE,172
+173_cow,Cow,1007,COW,173
+174_bull,Bull,1008,BULL,174
+175_milk,Milk,635,MILK,175
+175a_ofcows,(of cows),3911,COW MILK,175a
+175c_ofwomen,(of women),3912,BREAST MILK,175c
+175d_fresh,(fresh),,,175d
+175e_sour,(sour),,,175e
+176_butter,Butter,1245,BUTTER,176
+176a_melted,(melted),,,176a
+177_ewesheep,Ewe (Sheep),1345,EWE,177
+177a_sheep,sheep,1331,SHEEP,177a
+178_ramsheep,Ram (Sheep),1344,RAM,178
+179_goat,Goat,1502,GOAT,179
+180_buck,Buck,,,180
+181_cat,Cat,1208,CAT,181
+182_rat,Rat,1490,RAT,182
+183_pig,Pig,1337,PIG,183
+184_bat,Bat,1793,BAT,184
+184a_large,(large),,,184a
+185_pigeon,Pigeon,1853,DOVE,185
+185a_wild,(wild),,,185a
+185b_domestic,(domestic),,,185b
+185c_tame,(tame),,,185c
+186_parrot,Parrot,882,PARROT,186
+187_fowlhen,Fowl (Hen),265,FOWL,187
+188_cock,Cock,1511,ROOSTER,188
+189_egg,Egg,744,EGG,189
+190_bird,Bird,937,BIRD,190
+191_fish,Fish,227,FISH,191
+192_serpent,Serpent,730,SNAKE,192
+193_scorpion,Scorpion,1538,SCORPION,193
+194_mosquito,Mosquito,1509,MOSQUITO,194
+195_butterfly,Butterfly,1791,BUTTERFLY,195
+196_spider,Spider,843,SPIDER,196
+197_wasp,Wasp,1517,WASP,197
+198_bee,Bee,665,BEE,198
+199_honey,Honey,942,HONEY,199
+200_lion,Lion,1386,LION,200
+201_leopard,Leopard,1139,LEOPARD,201
+202_elephant,Elephant,1290,ELEPHANT,202
+203_ivory,Ivory,3800,IVORY,203
+204_alligator,Alligator,1581,ALLIGATOR,204
+205_monkey,Monkey,1350,MONKEY,205
+206_chamelion,Chamelion,1555,CHAMELEON,206
+207_lizardthecommonone,Lizard (the common one),632,LIZARD,207
+207a_male,(male),,,207a
+208_thelargeredheadedlizard,The large red-headed Lizard,,,208
+208a_female,(female),,,208a
+209_toad,Toad,894,TOAD,209
+210_frog,Frog,503,FROG,210
+211_dog,Dog,2009,DOG,211
+212_greatlarge,"Great, large",1202,BIG,212
+213_littlesmall,"Little, small",1246,SMALL,213
+214_white,White,1335,WHITE,214
+215_black,Black,163,BLACK,215
+216_whiteman,White Man,2839,WHITE MAN,216
+217_blackmannegro,Black Man (Negro),2806,BLACK MAN,217
+218_good,Good,1035,GOOD,218
+219_bad,Bad,1292,BAD,219
+220_old,Old,1229,OLD,220
+220a_ofpersonspersons,(of persons)//(persons),2112,OLD (AGED),220a
+221_newyoung,New (Young),1207,YOUNG,221
+221a_young,young,1207,YOUNG,221a
+221c_ofthings,(of things),1231,NEW,221c
+222_sick,Sick,1847,SICK,222
+223_well,Well,1364,HEALTHY,223
+224_hot,Hot,1286,HOT,224
+225_cold,Cold,1287,COLD,225
+226_wet,Wet,1726,WET,226
+227_dry,Dry,1398,DRY,227
+228_greedy,Greedy,2018,GREEDY,228
+229_stupid,Stupid,1518,STUPID,229
+230_rich,Rich,712,RICH,230
+231_poor,Poor,1674,POOR,231
+232_straight,Straight,1404,STRAIGHT,232
+233_crookedbent,Crooked (Bent),297,CROOKED,233
+234_igo,I go,695,GO,234
+235_icome,I come,1446,COME,235
+236_irun,I run,1519,RUN,236
+237_istop,I stop,2880,HALT (STOP),237
+238_isitdown,I sit down,1649,SIT DOWN,238
+239_iliedown,I lie down,215,LIE DOWN,239
+240_ibreathe,I breathe,1407,BREATHE,240
+241_icough,I cough,879,COUGH,241
+241a_cough,cough,879,COUGH,241a
+242_isneeze,I sneeze,1621,SNEEZE,242
+243_isnore,I snore,1983,SNORE,243
+244_ilaugh,I laugh,1355,LAUGH,244
+245_iweep,I weep,1839,CRY,245
+246_ikneel,I kneel,66,KNEEL,246
+247_idream,I dream,1920,DREAM (SOMETHING),247
+248_isleep,I sleep,1585,SLEEP,248
+249_idie,I die,1494,DIE,249
+250_ifall,I fall,1280,FALL,250
+251_irise,I rise,1512,RISE (ONESELF),251
+252_ispeak,I speak,1623,SPEAK,252
+253_ihear,I hear,1408,HEAR,253
+254_ibeg,I beg,1828,ASK (REQUEST),254
+255_ibathewashmyself,I bathe (wash myself),138,BATHE,255
+256_isee,I see,1409,SEE,256
+257_itake,I take,1749,TAKE,257
+258_ibuy,I buy,1869,BUY,258
+259_isell,I sell,1571,SELL,259
+260_ilovethee,I love thee,923,LOVE,260
+261_igivethee,I give thee,1447,GIVE,261
+262_ieatriceyam,I eat rice (yam),1336,EAT,262
+262b_ieatyam,I eat yam,1336,EAT,262b
+262c_ieatyams,I eat yams,1336,EAT,262c
+262d_ieatcorn,I eat corn,1336,EAT,262d
+263_idrinkwater,I drink water,1401,DRINK,263
+264_icookmeat,I cook meat,1100,COOK (SOMETHING),264
+265_ikillafowl,I kill a fowl,1417,KILL,265
+266_icutatree,I cut a tree,1432,CUT,266
+267_iflogachild,I flog a child,,,267
+268_icatchafish,I catch a fish,702,CATCH,268
+269_ibreakastick,I break a stick,2558,BREAK (CLEAVE),269
+270_icallaslave,I call a slave,1084,CALL,270
+271_icoverapot,I cover a pot,761,COVER,271
+272_isewashirtcloth,I sew a shirt (cloth),1457,SEW,272
+272a_isew,I sew,1457,SEW,272a
+273_ipraytogodbeggod,I pray to God (beg God),24,PRAY,273
+274_iplay,I play,1413,PLAY,274
+275_idonotplay,I do not play,,,275
+276_idance,I dance,1879,DANCE,276
+277_idonotdance,I do not dance,,,277
+278_yesterday,Yesterday,1174,YESTERDAY,278
+279_today,To-day,1283,TODAY,279
+280_tomorrow,To-morrow,1329,TOMORROW,280

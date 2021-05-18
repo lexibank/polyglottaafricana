@@ -2,6 +2,7 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Robert Forkel | @xrotwang | patron, code | Author
-Guillaume Segerer | | maintainer | Author, DataCurator
-Tiago Tresoldi | @tresoldi | profile, code | Author
+Robert Forkel | @xrotwang | patron, code | Other
+Guillaume Segerer | | maintainer | Editor, DataCurator
+Tiago Tresoldi | @tresoldi | profile, code | Other
+Sigismund Koelle | | author | Author
