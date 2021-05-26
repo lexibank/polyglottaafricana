@@ -1,0 +1,2759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.03166,
+          5.81055
+        ]
+      },
+      "properties": {
+        "Name": "Agwagwune",
+        "Glottocode": "agwa1247",
+        "Glottolog_Name": "Agwagwune",
+        "ISO639P3code": "yay",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.64992,
+          7.06634
+        ]
+      },
+      "properties": {
+        "Name": "Aja-Gbe",
+        "Glottocode": "ajab1235",
+        "Glottolog_Name": "Aja (Benin)",
+        "ISO639P3code": "ajg",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.33254,
+          6.34756
+        ]
+      },
+      "properties": {
+        "Name": "Akan (Asante)",
+        "Glottocode": "akan1250",
+        "Glottolog_Name": "Akan",
+        "ISO639P3code": "aka",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.00394,
+          6.59423
+        ]
+      },
+      "properties": {
+        "Name": "Alege",
+        "Glottocode": "aleg1238",
+        "Glottolog_Name": "Alege",
+        "ISO639P3code": "alf",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.57969,
+          4.94832
+        ]
+      },
+      "properties": {
+        "Name": "Anaang",
+        "Glottocode": "anaa1238",
+        "Glottolog_Name": "Anaang",
+        "ISO639P3code": "anw",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.42081,
+          10.0849
+        ]
+      },
+      "properties": {
+        "Name": "Asu",
+        "Glottocode": "asun1235",
+        "Glottolog_Name": "Asu (Nigeria)",
+        "ISO639P3code": "aum",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.99607,
+          9.63186
+        ]
+      },
+      "properties": {
+        "Name": "Baatonum",
+        "Glottocode": "baat1238",
+        "Glottolog_Name": "Baatonum",
+        "ISO639P3code": "bba",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5216,
+          6.11222
+        ]
+      },
+      "properties": {
+        "Name": "Baba",
+        "Glottocode": "baba1264",
+        "Glottolog_Name": "Baba",
+        "ISO639P3code": "bbw",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6557,
+          12.789
+        ]
+      },
+      "properties": {
+        "Name": "Bade",
+        "Glottocode": "bade1248",
+        "Glottolog_Name": "Bade",
+        "ISO639P3code": "bde",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.522,
+          4.53307
+        ]
+      },
+      "properties": {
+        "Name": "Bafaw-Balong",
+        "Glottocode": "bafa1247",
+        "Glottolog_Name": "Bafaw-Balong",
+        "ISO639P3code": "bwt",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.947,
+          10.1286
+        ]
+      },
+      "properties": {
+        "Name": "Baga-Koba",
+        "Glottocode": "baga1273",
+        "Glottolog_Name": "Baga Koga",
+        "ISO639P3code": "bgo",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.769495,
+          11.52392
+        ]
+      },
+      "properties": {
+        "Name": "Bagirmi",
+        "Glottocode": "bagi1246",
+        "Glottolog_Name": "Bagirmi",
+        "ISO639P3code": "bmi",
+        "Macroarea": "Africa",
+        "Family": "Central Sudanic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.15209,
+          4.89504
+        ]
+      },
+      "properties": {
+        "Name": "Bakundu-Balue",
+        "Glottocode": "orok1266",
+        "Glottolog_Name": "Oroko",
+        "ISO639P3code": "bdu",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.51077,
+          5.23123
+        ]
+      },
+      "properties": {
+        "Name": "Bakw\u00e9",
+        "Glottocode": "bakw1243",
+        "Glottolog_Name": "Bakw\u00e9",
+        "ISO639P3code": "bjw",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.3221,
+          11.8203
+        ]
+      },
+      "properties": {
+        "Name": "Balanta-Soofa",
+        "Glottocode": "bala1301",
+        "Glottolog_Name": "Balanta-Kentohe",
+        "ISO639P3code": "ble",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.65,
+          12.9
+        ]
+      },
+      "properties": {
+        "Name": "Bambara",
+        "Glottocode": "bamb1269",
+        "Glottolog_Name": "Bambara",
+        "ISO639P3code": "bam",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3302,
+          5.77049
+        ]
+      },
+      "properties": {
+        "Name": "Bamenyam",
+        "Glottocode": "bame1260",
+        "Glottolog_Name": "Bamenyam",
+        "ISO639P3code": "bce",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8477,
+          5.49017
+        ]
+      },
+      "properties": {
+        "Name": "Bamun",
+        "Glottocode": "bamu1253",
+        "Glottolog_Name": "Bamun",
+        "ISO639P3code": "bax",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.1684,
+          7.73729
+        ]
+      },
+      "properties": {
+        "Name": "Bandi",
+        "Glottocode": "band1352",
+        "Glottolog_Name": "Bandi",
+        "ISO639P3code": "bza",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.667,
+          6.0125
+        ]
+      },
+      "properties": {
+        "Name": "Bangolan",
+        "Glottocode": "bang1356",
+        "Glottolog_Name": "Bangolan",
+        "ISO639P3code": "bgj",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.543,
+          7.27501
+        ]
+      },
+      "properties": {
+        "Name": "Bassa",
+        "Glottocode": "nucl1418",
+        "Glottolog_Name": "Bassa",
+        "ISO639P3code": "bsq",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.98331,
+          10.3333
+        ]
+      },
+      "properties": {
+        "Name": "Bassa-Kontagora",
+        "Glottocode": "bass1259",
+        "Glottolog_Name": "Bassa-Kontagora",
+        "ISO639P3code": "bsr",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.0586,
+          12.3128
+        ]
+      },
+      "properties": {
+        "Name": "Baynunk-Gujaxer",
+        "Glottocode": "bain1259",
+        "Glottolog_Name": "Bainounk-Gujaher",
+        "ISO639P3code": "bab",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59566,
+          9.40519
+        ]
+      },
+      "properties": {
+        "Name": "Begbere-Ejar",
+        "Glottocode": "begb1241",
+        "Glottolog_Name": "Begbere-Ejar",
+        "ISO639P3code": "bqv",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.1347,
+          11.467
+        ]
+      },
+      "properties": {
+        "Name": "Biafada",
+        "Glottocode": "biaf1240",
+        "Glottolog_Name": "Biafada",
+        "ISO639P3code": "bif",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.71771,
+          10.5189
+        ]
+      },
+      "properties": {
+        "Name": "Boko",
+        "Glottocode": "boko1266",
+        "Glottolog_Name": "Boko (Benin)",
+        "ISO639P3code": "bqc",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.05875,
+          6.10475
+        ]
+      },
+      "properties": {
+        "Name": "Bokyi",
+        "Glottocode": "boky1238",
+        "Glottolog_Name": "Bokyi",
+        "ISO639P3code": "bky",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2322,
+          11.4839
+        ]
+      },
+      "properties": {
+        "Name": "Bole",
+        "Glottocode": "nucl1695",
+        "Glottolog_Name": "Bole",
+        "ISO639P3code": "bol",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0867,
+          -10.3511
+        ]
+      },
+      "properties": {
+        "Name": "Bolo",
+        "Glottocode": "bolo1261",
+        "Glottolog_Name": "Kibala",
+        "ISO639P3code": "blv",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4492,
+          13.0692
+        ]
+      },
+      "properties": {
+        "Name": "Buduma",
+        "Glottocode": "budu1265",
+        "Glottolog_Name": "Buduma",
+        "ISO639P3code": "bdm",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26748,
+          10.5763
+        ]
+      },
+      "properties": {
+        "Name": "Buli",
+        "Glottocode": "buli1254",
+        "Glottolog_Name": "Buli (Ghana)",
+        "ISO639P3code": "bwu",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.623277,
+          -2.384219
+        ]
+      },
+      "properties": {
+        "Name": "Central Teke (Ebo)",
+        "Glottocode": "teke1278",
+        "Glottolog_Name": "Teke-Eboo-Nzikou",
+        "ISO639P3code": "ebo",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8108,
+          -14.8047
+        ]
+      },
+      "properties": {
+        "Name": "Chichewa / Nyanja",
+        "Glottocode": "nyan1308",
+        "Glottolog_Name": "Nyanja",
+        "ISO639P3code": "nya",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1231,
+          -17.3428
+        ]
+      },
+      "properties": {
+        "Name": "Chuwabo",
+        "Glottocode": "chuw1238",
+        "Glottolog_Name": "Chuwabu",
+        "ISO639P3code": "chw",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84212,
+          10.3419
+        ]
+      },
+      "properties": {
+        "Name": "Cinda-Regi-Tiyal",
+        "Glottocode": "cind1241",
+        "Glottolog_Name": "Yara",
+        "ISO639P3code": "cdr",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.23592,
+          6.16926
+        ]
+      },
+      "properties": {
+        "Name": "Cross River Mbembe",
+        "Glottocode": "cros1244",
+        "Glottolog_Name": "Cross River Mbembe",
+        "ISO639P3code": "mfn",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13243,
+          5.9437
+        ]
+      },
+      "properties": {
+        "Name": "Dangme",
+        "Glottocode": "adan1247",
+        "Glottolog_Name": "Adangme",
+        "ISO639P3code": "ada",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.9076,
+          6.56113
+        ]
+      },
+      "properties": {
+        "Name": "Dewoin",
+        "Glottocode": "dewo1238",
+        "Glottolog_Name": "Dewoin",
+        "ISO639P3code": "dee",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3731,
+          9.0611
+        ]
+      },
+      "properties": {
+        "Name": "Dibo",
+        "Glottocode": "dibo1247",
+        "Glottolog_Name": "Dibo",
+        "ISO639P3code": "dio",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9888,
+          4.80551
+        ]
+      },
+      "properties": {
+        "Name": "Dimbong",
+        "Glottocode": "dimb1238",
+        "Glottolog_Name": "Dimbong",
+        "ISO639P3code": "dii",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.61877,
+          4.10208
+        ]
+      },
+      "properties": {
+        "Name": "Duala",
+        "Glottocode": "dual1243",
+        "Glottolog_Name": "Duala",
+        "ISO639P3code": "dua",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3367,
+          12.803
+        ]
+      },
+      "properties": {
+        "Name": "Duwai",
+        "Glottocode": "duwa1244",
+        "Glottolog_Name": "Duwai",
+        "ISO639P3code": "dbp",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.06183,
+          8.15516
+        ]
+      },
+      "properties": {
+        "Name": "Ebira",
+        "Glottocode": "ebir1243",
+        "Glottolog_Name": "Ebira",
+        "ISO639P3code": "igb",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.70426,
+          6.40701
+        ]
+      },
+      "properties": {
+        "Name": "Edo",
+        "Glottocode": "bini1246",
+        "Glottolog_Name": "Bini",
+        "ISO639P3code": "bin",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.97061,
+          8.24696
+        ]
+      },
+      "properties": {
+        "Name": "Eloyi",
+        "Glottocode": "eloy1241",
+        "Glottolog_Name": "Eloyi",
+        "ISO639P3code": "afo",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.66495,
+          7.15484
+        ]
+      },
+      "properties": {
+        "Name": "Fon-Gbe",
+        "Glottocode": "fonn1241",
+        "Glottolog_Name": "Fon",
+        "ISO639P3code": "fon",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1188,
+          10.9972
+        ]
+      },
+      "properties": {
+        "Name": "Fula (Kano-Katsina-Bororo)",
+        "Glottocode": "nige1253",
+        "Glottolog_Name": "Hausa States Fulfulde",
+        "ISO639P3code": "fuv",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.8138,
+          7.06193
+        ]
+      },
+      "properties": {
+        "Name": "Gola",
+        "Glottocode": "gola1255",
+        "Glottolog_Name": "Gola",
+        "ISO639P3code": "gol",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.28489,
+          11.6711
+        ]
+      },
+      "properties": {
+        "Name": "Gurmancema",
+        "Glottocode": "gour1243",
+        "Glottolog_Name": "Gourmanch\u00e9ma",
+        "ISO639P3code": "gux",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.10757,
+          8.46411
+        ]
+      },
+      "properties": {
+        "Name": "Gwari",
+        "Glottocode": "gbar1246",
+        "Glottolog_Name": "Gbari",
+        "ISO639P3code": "gby",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.95163,
+          9.57832
+        ]
+      },
+      "properties": {
+        "Name": "Ham",
+        "Glottocode": "hyam1245",
+        "Glottolog_Name": "Hyam",
+        "ISO639P3code": "jab",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.11,
+          18.29
+        ]
+      },
+      "properties": {
+        "Name": "Hassaniya",
+        "Glottocode": "hass1238",
+        "Glottolog_Name": "Hassaniyya",
+        "ISO639P3code": "mey",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7804,
+          11.1513
+        ]
+      },
+      "properties": {
+        "Name": "Hausa",
+        "Glottocode": "haus1257",
+        "Glottolog_Name": "Hausa",
+        "ISO639P3code": "hau",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.58494,
+          7.63568
+        ]
+      },
+      "properties": {
+        "Name": "Ife",
+        "Glottocode": "ifee1241",
+        "Glottolog_Name": "If\u00e8",
+        "ISO639P3code": "ife",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.17974,
+          7.34325
+        ]
+      },
+      "properties": {
+        "Name": "Igala",
+        "Glottocode": "igal1242",
+        "Glottolog_Name": "Igala",
+        "ISO639P3code": "igl",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.23441,
+          4.62705
+        ]
+      },
+      "properties": {
+        "Name": "Igbo",
+        "Glottocode": "nucl1417",
+        "Glottolog_Name": "Igbo",
+        "ISO639P3code": "ibo",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84494,
+          7.09089
+        ]
+      },
+      "properties": {
+        "Name": "Ihie\u028be",
+        "Glottocode": "emai1241",
+        "Glottolog_Name": "Emai-Iuleha-Ora",
+        "ISO639P3code": "ema",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5862,
+          5.81898
+        ]
+      },
+      "properties": {
+        "Name": "Isekiri",
+        "Glottocode": "isek1239",
+        "Glottolog_Name": "Isekiri",
+        "ISO639P3code": "its",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.51702,
+          5.17986
+        ]
+      },
+      "properties": {
+        "Name": "Izon",
+        "Glottocode": "izon1238",
+        "Glottolog_Name": "Izon",
+        "ISO639P3code": "ijc",
+        "Macroarea": "Africa",
+        "Family": "Ijoid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.4759,
+          12.6425
+        ]
+      },
+      "properties": {
+        "Name": "Jaad (Badiaranke)",
+        "Glottocode": "bady1239",
+        "Glottolog_Name": "Jaad-Badyara",
+        "ISO639P3code": "pbp",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.2836,
+          9.97186
+        ]
+      },
+      "properties": {
+        "Name": "Jalonke",
+        "Glottocode": "yalu1240",
+        "Glottolog_Name": "Yalunka",
+        "ISO639P3code": "yal",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.61,
+          9.8
+        ]
+      },
+      "properties": {
+        "Name": "Jarawa",
+        "Glottocode": "jara1263",
+        "Glottolog_Name": "Jarawa (Nigeria)",
+        "ISO639P3code": "jar",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4245,
+          12.5258
+        ]
+      },
+      "properties": {
+        "Name": "Joola-Banjal",
+        "Glottocode": "band1340",
+        "Glottolog_Name": "Bandial",
+        "ISO639P3code": "bqj",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.7354766667,
+          12.75752
+        ]
+      },
+      "properties": {
+        "Name": "Joola-Fogny",
+        "Glottocode": "jola1263",
+        "Glottolog_Name": "Jola-Fonyi",
+        "ISO639P3code": "dyo",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2576,
+          7.20236
+        ]
+      },
+      "properties": {
+        "Name": "Jukun Takum",
+        "Glottocode": "juku1254",
+        "Glottolog_Name": "Jukun Takum",
+        "ISO639P3code": "jbu",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.495023,
+          8.96816
+        ]
+      },
+      "properties": {
+        "Name": "Kabiye",
+        "Glottocode": "kabi1261",
+        "Glottolog_Name": "Kabiy\u00e9",
+        "ISO639P3code": "kbp",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8437,
+          13.8749
+        ]
+      },
+      "properties": {
+        "Name": "Kanembu",
+        "Glottocode": "kane1243",
+        "Glottolog_Name": "Kanembu",
+        "ISO639P3code": "kbl",
+        "Macroarea": "Africa",
+        "Family": "Saharan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.13,
+          11.8
+        ]
+      },
+      "properties": {
+        "Name": "Kanuri",
+        "Glottocode": "cent2050",
+        "Glottolog_Name": "Central Kanuri",
+        "ISO639P3code": "knc",
+        "Macroarea": "Africa",
+        "Family": "Saharan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.701,
+          13.557
+        ]
+      },
+      "properties": {
+        "Name": "Kanuri (Manga)",
+        "Glottocode": "mang1399",
+        "Glottolog_Name": "Manga Kanuri",
+        "ISO639P3code": "kby",
+        "Macroarea": "Africa",
+        "Family": "Saharan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.613,
+          -7.31878
+        ]
+      },
+      "properties": {
+        "Name": "Kanyok",
+        "Glottocode": "kany1247",
+        "Glottolog_Name": "Kanyok",
+        "ISO639P3code": "kny",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8732,
+          12.5176
+        ]
+      },
+      "properties": {
+        "Name": "Karekare",
+        "Glottocode": "kare1348",
+        "Glottolog_Name": "Karekare",
+        "ISO639P3code": "kai",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.39076,
+          11.0824
+        ]
+      },
+      "properties": {
+        "Name": "Kasem",
+        "Glottocode": "kase1253",
+        "Glottolog_Name": "Kasem",
+        "ISO639P3code": "xsm",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4771,
+          -5.57722
+        ]
+      },
+      "properties": {
+        "Name": "Kikongo",
+        "Glottocode": "koon1244",
+        "Glottolog_Name": "South-Central Kikongo",
+        "ISO639P3code": "kng",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.85,
+          5.05
+        ]
+      },
+      "properties": {
+        "Name": "Klao",
+        "Glottocode": "klao1243",
+        "Glottolog_Name": "Klao",
+        "ISO639P3code": "klu",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.9214,
+          8.67039
+        ]
+      },
+      "properties": {
+        "Name": "Kono",
+        "Glottocode": "kono1268",
+        "Glottolog_Name": "Kono (Sierra Leone)",
+        "ISO639P3code": "kno",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.97,
+          1.016
+        ]
+      },
+      "properties": {
+        "Name": "Kota",
+        "Glottocode": "kota1274",
+        "Glottolog_Name": "Kota (Gabon)",
+        "ISO639P3code": "koq",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1642,
+          7.58343
+        ]
+      },
+      "properties": {
+        "Name": "Kpan",
+        "Glottocode": "kpan1246",
+        "Glottolog_Name": "Kpan",
+        "ISO639P3code": "kpk",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.98843,
+          7.93196
+        ]
+      },
+      "properties": {
+        "Name": "Kpelle (Guinea)",
+        "Glottocode": "guin1254",
+        "Glottolog_Name": "Guinea Kpelle",
+        "ISO639P3code": "gkp",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.35806,
+          8.48437
+        ]
+      },
+      "properties": {
+        "Name": "Kupa",
+        "Glottocode": "kupa1238",
+        "Glottolog_Name": "Kupa",
+        "ISO639P3code": "kug",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0916,
+          7.07479
+        ]
+      },
+      "properties": {
+        "Name": "Kutep",
+        "Glottocode": "kute1248",
+        "Glottolog_Name": "Kutep",
+        "ISO639P3code": "kub",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0684,
+          6.39743
+        ]
+      },
+      "properties": {
+        "Name": "Lamnsoq",
+        "Glottocode": "lamn1239",
+        "Glottolog_Name": "Lamnso'",
+        "ISO639P3code": "lns",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.0895,
+          10.8753
+        ]
+      },
+      "properties": {
+        "Name": "Landuma",
+        "Glottocode": "land1256",
+        "Glottolog_Name": "Landoma",
+        "ISO639P3code": "ldm",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.66954,
+          9.51949
+        ]
+      },
+      "properties": {
+        "Name": "L\u0259kpa",
+        "Glottocode": "lukp1238",
+        "Glottolog_Name": "Lukpa",
+        "ISO639P3code": "dop",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.1583,
+          9.11838
+        ]
+      },
+      "properties": {
+        "Name": "Loko",
+        "Glottocode": "loko1255",
+        "Glottolog_Name": "Loko",
+        "ISO639P3code": "lok",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.69906,
+          7.91585
+        ]
+      },
+      "properties": {
+        "Name": "Loma",
+        "Glottocode": "loma1260",
+        "Glottolog_Name": "Loma (Liberia)",
+        "ISO639P3code": "lom",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8996,
+          11.3169
+        ]
+      },
+      "properties": {
+        "Name": "Malgwa (Wandala)",
+        "Glottocode": "wand1278",
+        "Glottolog_Name": "Wandala",
+        "ISO639P3code": "mfi",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.6539466667,
+          12.8165233333
+        ]
+      },
+      "properties": {
+        "Name": "Mandinka",
+        "Glottocode": "mand1436",
+        "Glottolog_Name": "Mandinka",
+        "ISO639P3code": "mnk",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.5394,
+          9.33048
+        ]
+      },
+      "properties": {
+        "Name": "Maninka-Kankan",
+        "Glottocode": "east2426",
+        "Glottolog_Name": "Eastern Maninkakan",
+        "ISO639P3code": "emk",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9217,
+          12.829
+        ]
+      },
+      "properties": {
+        "Name": "Manjaku",
+        "Glottocode": "mand1419",
+        "Glottolog_Name": "Mandjak",
+        "ISO639P3code": "mfv",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9217,
+          12.829
+        ]
+      },
+      "properties": {
+        "Name": "Manjaku-Tame",
+        "Glottocode": "mand1419",
+        "Glottolog_Name": "Mandjak",
+        "ISO639P3code": "mfv",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.74389,
+          12.2615066667
+        ]
+      },
+      "properties": {
+        "Name": "Mankanya",
+        "Glottocode": "mank1251",
+        "Glottolog_Name": "Mankanya",
+        "ISO639P3code": "knf",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.86405,
+          7.04616
+        ]
+      },
+      "properties": {
+        "Name": "Mano (Mann)",
+        "Glottocode": "mann1248",
+        "Glottolog_Name": "Mann",
+        "ISO639P3code": "mev",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.78181,
+          7.57292
+        ]
+      },
+      "properties": {
+        "Name": "Maxi-Gbe",
+        "Glottocode": "maxi1236",
+        "Glottolog_Name": "Maxi Gbe",
+        "ISO639P3code": "mxl",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4086,
+          -9.15592
+        ]
+      },
+      "properties": {
+        "Name": "Mbangala",
+        "Glottocode": "mban1264",
+        "Glottolog_Name": "Mbangala",
+        "ISO639P3code": "mxg",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2877,
+          -0.477445
+        ]
+      },
+      "properties": {
+        "Name": "Mbere",
+        "Glottocode": "mber1257",
+        "Glottolog_Name": "Mbere",
+        "ISO639P3code": "mdt",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92766,
+          5.13981
+        ]
+      },
+      "properties": {
+        "Name": "Mbo",
+        "Glottocode": "mboc1235",
+        "Glottolog_Name": "Mbo (Cameroon)",
+        "ISO639P3code": "mbo",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8893,
+          -8.97835
+        ]
+      },
+      "properties": {
+        "Name": "Mbundu",
+        "Glottocode": "kimb1241",
+        "Glottolog_Name": "Kimbundu",
+        "ISO639P3code": "kmb",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.9926,
+          7.90935
+        ]
+      },
+      "properties": {
+        "Name": "Mende",
+        "Glottocode": "mend1266",
+        "Glottolog_Name": "Mende (Sierra Leone)",
+        "ISO639P3code": "men",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3377,
+          5.71399
+        ]
+      },
+      "properties": {
+        "Name": "Mengaka",
+        "Glottocode": "meng1264",
+        "Glottolog_Name": "Mengaka",
+        "ISO639P3code": "xmg",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.32,
+          11.95
+        ]
+      },
+      "properties": {
+        "Name": "M\u00f2or\u00e9",
+        "Glottocode": "moss1236",
+        "Glottolog_Name": "Mossi",
+        "ISO639P3code": "mos",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0294,
+          5.89752
+        ]
+      },
+      "properties": {
+        "Name": "Mungaka",
+        "Glottocode": "mung1266",
+        "Glottolog_Name": "Mungaka",
+        "ISO639P3code": "mhk",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.8188,
+          11.0397
+        ]
+      },
+      "properties": {
+        "Name": "Nalu",
+        "Glottocode": "nalu1240",
+        "Glottolog_Name": "Nalu",
+        "ISO639P3code": "naj",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1469,
+          5.97864
+        ]
+      },
+      "properties": {
+        "Name": "Ngemba",
+        "Glottocode": "ngem1255",
+        "Glottolog_Name": "Ngemba",
+        "ISO639P3code": "nge",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0178,
+          12.1051
+        ]
+      },
+      "properties": {
+        "Name": "Ngizim",
+        "Glottocode": "ngiz1242",
+        "Glottolog_Name": "Ngizim",
+        "ISO639P3code": "ngi",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9157,
+          4.5893
+        ]
+      },
+      "properties": {
+        "Name": "Nomaande",
+        "Glottocode": "noma1260",
+        "Glottolog_Name": "Nomaande",
+        "ISO639P3code": "lem",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8664,
+          -1.61688
+        ]
+      },
+      "properties": {
+        "Name": "Northern Teke",
+        "Glottocode": "teke1275",
+        "Glottolog_Name": "Teke-Tege",
+        "ISO639P3code": "teg",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7348,
+          -10.5166
+        ]
+      },
+      "properties": {
+        "Name": "Nsongo",
+        "Glottocode": "nson1238",
+        "Glottolog_Name": "Nsongo",
+        "ISO639P3code": "nsx",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40031,
+          9.18404
+        ]
+      },
+      "properties": {
+        "Name": "Nupe-Tako",
+        "Glottocode": "nupe1254",
+        "Glottolog_Name": "Nupe-Nupe-Tako",
+        "ISO639P3code": "nup",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.02767,
+          7.01279
+        ]
+      },
+      "properties": {
+        "Name": "Oloma",
+        "Glottocode": "olom1241",
+        "Glottolog_Name": "Oloma",
+        "ISO639P3code": "olm",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.8388,
+          11.8977
+        ]
+      },
+      "properties": {
+        "Name": "Pepel",
+        "Glottocode": "pape1239",
+        "Glottolog_Name": "Papel",
+        "ISO639P3code": "pbo",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.4482,
+          13.8694
+        ]
+      },
+      "properties": {
+        "Name": "Pulaar (Futa Tooro)",
+        "Glottocode": "pula1263",
+        "Glottolog_Name": "Pulaar",
+        "ISO639P3code": "fuc",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.7338,
+          12.1826
+        ]
+      },
+      "properties": {
+        "Name": "Pular (Fuuta Jalon)",
+        "Glottocode": "pula1262",
+        "Glottolog_Name": "Pular",
+        "ISO639P3code": "fuf",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4164,
+          -8.86971
+        ]
+      },
+      "properties": {
+        "Name": "Ruwund",
+        "Glottocode": "ruun1238",
+        "Glottolog_Name": "Ruund",
+        "ISO639P3code": "rnd",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.80626,
+          20.8884
+        ]
+      },
+      "properties": {
+        "Name": "Saharan Arabic",
+        "Glottocode": "alge1240",
+        "Glottolog_Name": "Algerian Saharan Arabic",
+        "ISO639P3code": "aao",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8713,
+          -9.86931
+        ]
+      },
+      "properties": {
+        "Name": "Sama",
+        "Glottocode": "sama1300",
+        "Glottolog_Name": "Sama",
+        "ISO639P3code": "smd",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.16,
+          9.0
+        ]
+      },
+      "properties": {
+        "Name": "Sei",
+        "Glottocode": "bull1247",
+        "Glottolog_Name": "Bullom So",
+        "ISO639P3code": "buy",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79206,
+          1.52302
+        ]
+      },
+      "properties": {
+        "Name": "Seki",
+        "Glottocode": "seki1238",
+        "Glottolog_Name": "Seki",
+        "ISO639P3code": "syi",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.7405,
+          7.77585
+        ]
+      },
+      "properties": {
+        "Name": "Sherbro",
+        "Glottocode": "sher1258",
+        "Glottolog_Name": "Sherbro",
+        "ISO639P3code": "bun",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5,
+          14.67
+        ]
+      },
+      "properties": {
+        "Name": "Shuwa (Chadian Arabic)",
+        "Glottocode": "chad1249",
+        "Glottolog_Name": "Chadian Arabic",
+        "ISO639P3code": "shu",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.79707,
+          10.63451
+        ]
+      },
+      "properties": {
+        "Name": "Sisaala-Tumulung",
+        "Glottocode": "tumu1242",
+        "Glottolog_Name": "Tumulung Sisaala",
+        "ISO639P3code": "sil",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73962,
+          16.192
+        ]
+      },
+      "properties": {
+        "Name": "Songhay (Koyra Chiini)",
+        "Glottocode": "koyr1240",
+        "Glottolog_Name": "Koyra Chiini Songhay",
+        "ISO639P3code": "khq",
+        "Macroarea": "Africa",
+        "Family": "Songhay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.7178,
+          13.1273
+        ]
+      },
+      "properties": {
+        "Name": "Soninke",
+        "Glottocode": "soni1259",
+        "Glottolog_Name": "Soninke",
+        "ISO639P3code": "snk",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.525,
+          3.68257
+        ]
+      },
+      "properties": {
+        "Name": "So",
+        "Glottocode": "soca1235",
+        "Glottolog_Name": "So (Cameroon)",
+        "ISO639P3code": "sox",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.56872,
+          4.47607
+        ]
+      },
+      "properties": {
+        "Name": "Southern Grebo",
+        "Glottocode": "sout2826",
+        "Glottolog_Name": "Southern Grebo",
+        "ISO639P3code": "grj",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.3377,
+          8.32448
+        ]
+      },
+      "properties": {
+        "Name": "Southern Kisi",
+        "Glottocode": "sout2778",
+        "Glottolog_Name": "Southern Kisi",
+        "ISO639P3code": "kss",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1345,
+          0.882925
+        ]
+      },
+      "properties": {
+        "Name": "Southern Ngom",
+        "Glottocode": "ngom1270",
+        "Glottolog_Name": "Ngom",
+        "ISO639P3code": "nra",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.3628,
+          10.4046
+        ]
+      },
+      "properties": {
+        "Name": "Susu",
+        "Glottocode": "susu1250",
+        "Glottolog_Name": "Susu",
+        "ISO639P3code": "sus",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3212,
+          -4.58488
+        ]
+      },
+      "properties": {
+        "Name": "Suundi",
+        "Glottocode": "suun1239",
+        "Glottolog_Name": "Suundi",
+        "ISO639P3code": "sdj",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.41269,
+          14.2038
+        ]
+      },
+      "properties": {
+        "Name": "Tamasheq",
+        "Glottocode": "tama1365",
+        "Glottolog_Name": "Tamasheq",
+        "ISO639P3code": "taq",
+        "Macroarea": "Africa",
+        "Family": "Afro-Asiatic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.136,
+          8.967
+        ]
+      },
+      "properties": {
+        "Name": "Tem",
+        "Glottocode": "temm1241",
+        "Glottolog_Name": "Tem",
+        "ISO639P3code": "kdh",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3331,
+          8.90294
+        ]
+      },
+      "properties": {
+        "Name": "Temne",
+        "Glottocode": "timn1235",
+        "Glottolog_Name": "Timne",
+        "ISO639P3code": "tem",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6104,
+          5.87004
+        ]
+      },
+      "properties": {
+        "Name": "Tikar",
+        "Glottocode": "tika1246",
+        "Glottolog_Name": "Tikar",
+        "ISO639P3code": "tik",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26287,
+          6.88039
+        ]
+      },
+      "properties": {
+        "Name": "Tiv",
+        "Glottocode": "tivv1240",
+        "Glottolog_Name": "Tiv",
+        "ISO639P3code": "tiv",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11073,
+          10.2882
+        ]
+      },
+      "properties": {
+        "Name": "Tsishingini",
+        "Glottocode": "tsis1238",
+        "Glottolog_Name": "Salka-Tsishingini",
+        "ISO639P3code": "tsw",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.8105,
+          -23.5754
+        ]
+      },
+      "properties": {
+        "Name": "Tsonga",
+        "Glottocode": "tson1249",
+        "Glottolog_Name": "Tsonga",
+        "ISO639P3code": "tso",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4148,
+          -12.4763
+        ]
+      },
+      "properties": {
+        "Name": "Umbundu",
+        "Glottocode": "umbu1257",
+        "Glottolog_Name": "Umbundu",
+        "ISO639P3code": "umb",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86148,
+          5.31155
+        ]
+      },
+      "properties": {
+        "Name": "Urhobo",
+        "Glottocode": "urho1239",
+        "Glottolog_Name": "Urhobo",
+        "ISO639P3code": "urh",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -11.3262,
+          7.05085
+        ]
+      },
+      "properties": {
+        "Name": "Vai",
+        "Glottocode": "vaii1241",
+        "Glottolog_Name": "Vai",
+        "ISO639P3code": "vai",
+        "Macroarea": "Africa",
+        "Family": "Mande"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8839,
+          6.13603
+        ]
+      },
+      "properties": {
+        "Name": "Vute",
+        "Glottocode": "vute1244",
+        "Glottolog_Name": "Vute",
+        "ISO639P3code": "vut",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12.3138,
+          9.52392
+        ]
+      },
+      "properties": {
+        "Name": "West-Central Limba",
+        "Glottocode": "west2450",
+        "Glottolog_Name": "West-Central Limba",
+        "ISO639P3code": "lia",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2703,
+          -3.34458
+        ]
+      },
+      "properties": {
+        "Name": "Western Teke (Laali)",
+        "Glottocode": "teke1277",
+        "Glottolog_Name": "Teke-Laali",
+        "ISO639P3code": "lli",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8603,
+          -2.98028
+        ]
+      },
+      "properties": {
+        "Name": "Western Teke (Tsaayi)",
+        "Glottocode": "teke1281",
+        "Glottolog_Name": "Teke-Tsaayi",
+        "ISO639P3code": "tyi",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.383,
+          15.2534
+        ]
+      },
+      "properties": {
+        "Name": "Wolof",
+        "Glottocode": "nucl1347",
+        "Glottolog_Name": "Wolof",
+        "ISO639P3code": "wol",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.02985,
+          6.41342
+        ]
+      },
+      "properties": {
+        "Name": "Xwela-Gbe",
+        "Glottocode": "xwel1235",
+        "Glottolog_Name": "Xwela Gbe",
+        "ISO639P3code": "xwe",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.60748,
+          6.73852
+        ]
+      },
+      "properties": {
+        "Name": "Yala",
+        "Glottocode": "yala1263",
+        "Glottolog_Name": "Yala",
+        "ISO639P3code": "yba",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.07711,
+          6.535505
+        ]
+      },
+      "properties": {
+        "Name": "Yamba",
+        "Glottocode": "yamb1251",
+        "Glottolog_Name": "Yamba",
+        "ISO639P3code": "yam",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2387,
+          -13.6119
+        ]
+      },
+      "properties": {
+        "Name": "Yao",
+        "Glottocode": "yaoo1241",
+        "Glottolog_Name": "Yao",
+        "ISO639P3code": "yao",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44919,
+          7.10204
+        ]
+      },
+      "properties": {
+        "Name": "Yekhee",
+        "Glottocode": "yekh1238",
+        "Glottolog_Name": "Yekhee",
+        "ISO639P3code": "ets",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.97913,
+          9.05454
+        ]
+      },
+      "properties": {
+        "Name": "Yeskwa",
+        "Glottocode": "yesk1239",
+        "Glottolog_Name": "Yeskwa",
+        "ISO639P3code": "yes",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6362,
+          -4.86227
+        ]
+      },
+      "properties": {
+        "Name": "Yombe",
+        "Glottocode": "yomb1244",
+        "Glottolog_Name": "Yombe",
+        "ISO639P3code": "yom",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.81099,
+          9.87186
+        ]
+      },
+      "properties": {
+        "Name": "Yom (Pila)",
+        "Glottocode": "yomm1242",
+        "Glottolog_Name": "Yom",
+        "ISO639P3code": "pil",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.67225,
+          7.15345
+        ]
+      },
+      "properties": {
+        "Name": "Yoruba",
+        "Glottocode": "yoru1245",
+        "Glottolog_Name": "Yoruba",
+        "ISO639P3code": "yor",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9777,
+          6.9183
+        ]
+      },
+      "properties": {
+        "Name": "Yukuben",
+        "Glottocode": "yuku1243",
+        "Glottolog_Name": "Yukuben",
+        "ISO639P3code": "ybl",
+        "Macroarea": "Africa",
+        "Family": "Atlantic-Congo"
+      }
+    }
+  ]
+}
