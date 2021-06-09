@@ -66,7 +66,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 64_finger,Finger,1303,FINGER,64
 64a_thumb,thumb,1781,THUMB,64a
 65_toe,Toe,1389,TOE,65
-65a_thebigone,the big one,,,65a
+65a_thebigonebigtoe,the big one [big toe],,,65a
 66_elbow,Elbow,981,ELBOW,66
 67_rib,Rib,801,RIB,67
 68_chest,Chest,1592,CHEST,68
@@ -77,9 +77,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 73_knee,Knee,1371,KNEE,73
 74_heel,Heel,980,HEEL,74
 75_nailoffingertoe,Nail (of finger & toe),1896,FINGERNAIL OR TOENAIL,75
-75a_offingers,(of fingers),1258,FINGERNAIL,75a
+75a_nailoffingers,Nail (of fingers),1258,FINGERNAIL,75a
 76_skin,Skin,763,SKIN,76
-76b_body,(body),1480,BODY,76b
+76b_skinbody,Skin (body),,,76b
 77_bone,Bone,1394,BONE,77
 78_vein,Vein,1924,VEIN,78
 78a_rope,rope,1218,ROPE,78a
@@ -96,7 +96,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 89_market,Market,633,MARKET,89
 90_house,House,1252,HOUSE,90
 91_door,Door,1567,DOOR,91
-92_doorway,Door-way,1567,DOOR,92
+92_doorway,Door-way,,,92
 93_bed,bed,1663,BED,93
 94_mat,mat,195,MAT,94
 95_knife,Knife,1352,KNIFE,95
@@ -107,7 +107,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 98_armletorbracelet,Armlet or Bracelet,,,98
 98a_armletorbraceletofbrass,Armlet or Bracelet (of brass),,,98a
 99_pot,Pot,1462,POT,99
-100_calabash,Calabash,411,GOURD,100
+100_calabash,Calabash,3918,CALABASH,100
 101_gun,Gun,1566,GUN,101
 102_powder,Powder,1798,GUNPOWDER,102
 103_sword,Sword,1535,SWORD,103
@@ -115,7 +115,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 105_bow,Bow,994,BOW,105
 105a_crossbow,cross-bow,3193,CROSSBOW,105a
 106_arrow,Arrow,977,ARROW,106
-107_quiver,Quiver,52,SHIVER,107
+107_quiver,Quiver,995,QUIVER (FOR ARROWS),107
 108_war,War,935,WAR,108
 109_god,God,1944,GOD,109
 110_devil,Devil,1973,DEMON,110
@@ -130,7 +130,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 119_meatoftenanimal,Meat (often Animal),2615,FLESH OR MEAT,119
 120_salt,Salt,1274,SALT,120
 121_gold,Gold,1369,GOLD,121
-121a_brass,(brass),,,121a
+121a_goldbrass,Gold (brass),,,121a
 121b_silver,silver,759,SILVER,121b
 122_iron,Iron,621,IRON,122
 123_stone,Stone,857,STONE,123
@@ -153,14 +153,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 140_sand,Sand,671,SAND,140
 141_canoe,Canoe,1970,CANOE,141
 142_benchchair,"Bench, Chair",,,142
-142a_formen,(for men),,,142a
-142b_forwomen,(for women),,,142b
+142a_benchchairformen,"Bench, Chair (for men)",,,142a
+142b_benchchairforwomen,"Bench, Chair (for women)",,,142b
 143_needle,Needle,1382,NEEDLE (FOR SEWING),143
-143b_forornament,(for ornament),,,143b
+143b_needleforornament,Needle (for ornament),,,143b
 144_thread,Thread,1161,THREAD,144
 145_rope,Rope,1218,ROPE,145
 146_chainfetters,Chain (Fetters?),1627,CHAIN,146
-146b_forneck,(for neck),,,146b
+146b_chainforneck,Chain (for neck),,,146b
 147_drum,Drum,908,DRUM,147
 148_tree,Tree,906,TREE,148
 149_firewood,Firewood,10,FIREWOOD,149
@@ -169,7 +169,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 151_leaf,Leaf,628,LEAF,151
 152_root,Root,670,ROOT,152
 153_palmtree,Palm-tree,1181,PALM TREE,153
-153b_ayoungone,(a young one),,,153b
+153b_palmtreeayoungone,Palm-tree (a young one),,,153b
 154_palmoil,Palm-oil,,,154
 155_guineacornbearinglikemaize,Guinea-Corn (bearing like Maize),347,SORGHUM,155
 156_kuskusbearinglikeoats,Kuskus (bearing like Oats),,,156
@@ -178,10 +178,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 159_cottontree,Cotton-tree,,,159
 160_camwood,Camwood,,,160
 161_riceuncooked,Rice (uncooked),3289,UNCOOKED RICE,161
-161a_cooked,(cooked),1191,COOKED RICE,161a
+161a_ricecooked,Rice (cooked),1191,COOKED RICE,161a
 162_yam,Yam,410,YAM,162
 163_cassada,Cassada,925,CASSAVA,163
-164_groundnut,Ground-nut,2364,PEANUT,164
+164_groundnut,Ground-nut,595,GROUNDNUT (PEANUT),164
 165_pepper,Pepper,1385,PEPPER,165
 166_onion,Onion,2366,ONION,166
 167_maize,Maize,506,MAIZE,167
@@ -193,26 +193,26 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 173_cow,Cow,1007,COW,173
 174_bull,Bull,1008,BULL,174
 175_milk,Milk,635,MILK,175
-175a_ofcows,(of cows),3911,COW MILK,175a
-175c_ofwomen,(of women),3912,BREAST MILK,175c
-175d_fresh,(fresh),,,175d
-175e_sour,(sour),,,175e
+175a_milkofcows,Milk (of cows),3911,COW MILK,175a
+175c_milkofwomen,Milk (of women),3912,BREAST MILK,175c
+175d_milkfresh,Milk (fresh),,,175d
+175e_milksour,Milk (sour),,,175e
 176_butter,Butter,1245,BUTTER,176
-176a_melted,(melted),,,176a
+176a_buttermelted,Butter (melted),,,176a
 177_ewesheep,Ewe (Sheep),1345,EWE,177
 177a_sheep,sheep,1331,SHEEP,177a
 178_ramsheep,Ram (Sheep),1344,RAM,178
 179_goat,Goat,1502,GOAT,179
-180_buck,Buck,,,180
+180_buck,Buck,2475,MALE GOAT,180
 181_cat,Cat,1208,CAT,181
 182_rat,Rat,1490,RAT,182
 183_pig,Pig,1337,PIG,183
 184_bat,Bat,1793,BAT,184
-184a_large,(large),,,184a
+184a_batlarge,Bat (large),,,184a
 185_pigeon,Pigeon,1853,DOVE,185
-185a_wild,(wild),,,185a
-185b_domestic,(domestic),,,185b
-185c_tame,(tame),,,185c
+185a_pigeonwild,Pigeon (wild),,,185a
+185b_pigeondomestic,Pigeon (domestic),,,185b
+185c_pigeontame,Pigeon (tame),,,185c
 186_parrot,Parrot,882,PARROT,186
 187_fowlhen,Fowl (Hen),265,FOWL,187
 188_cock,Cock,1511,ROOSTER,188
@@ -235,9 +235,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 205_monkey,Monkey,1350,MONKEY,205
 206_chamelion,Chamelion,1555,CHAMELEON,206
 207_lizardthecommonone,Lizard (the common one),632,LIZARD,207
-207a_male,(male),,,207a
+207a_lizardmale,Lizard (male),,,207a
 208_thelargeredheadedlizard,The large red-headed Lizard,,,208
-208a_female,(female),,,208a
+208a_lizardfemale,Lizard (female),,,208a
 209_toad,Toad,894,TOAD,209
 210_frog,Frog,503,FROG,210
 211_dog,Dog,2009,DOG,211
@@ -250,10 +250,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 218_good,Good,1035,GOOD,218
 219_bad,Bad,1292,BAD,219
 220_old,Old,1229,OLD,220
-220a_ofpersonspersons,(of persons)//(persons),2112,OLD (AGED),220a
+220a_oldofpersonspersons,Old (of persons)//(persons),2112,OLD (AGED),220a
 221_newyoung,New (Young),1207,YOUNG,221
 221a_young,young,1207,YOUNG,221a
-221c_ofthings,(of things),1231,NEW,221c
+221c_newofthings,New (of things),1231,NEW,221c
 222_sick,Sick,1847,SICK,222
 223_well,Well,1364,HEALTHY,223
 224_hot,Hot,1286,HOT,224
@@ -274,7 +274,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 239_iliedown,I lie down,215,LIE DOWN,239
 240_ibreathe,I breathe,1407,BREATHE,240
 241_icough,I cough,879,COUGH,241
-241a_cough,cough,879,COUGH,241a
+241a_cough,cough,3913,COUGH (ACT OF COUGHING),241a
 242_isneeze,I sneeze,1621,SNEEZE,242
 243_isnore,I snore,1983,SNORE,243
 244_ilaugh,I laugh,1355,LAUGH,244
@@ -284,33 +284,33 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 248_isleep,I sleep,1585,SLEEP,248
 249_idie,I die,1494,DIE,249
 250_ifall,I fall,1280,FALL,250
-251_irise,I rise,1512,RISE (ONESELF),251
+251_irise,I rise,,,251
 252_ispeak,I speak,1623,SPEAK,252
 253_ihear,I hear,1408,HEAR,253
-254_ibeg,I beg,1828,ASK (REQUEST),254
-255_ibathewashmyself,I bathe (wash myself),138,BATHE,255
+254_ibeg,I beg,3534,BEG,254
+255_ibathewashmyself,I bathe (wash myself),3371,WASH (ONESELF),255
 256_isee,I see,1409,SEE,256
 257_itake,I take,1749,TAKE,257
 258_ibuy,I buy,1869,BUY,258
 259_isell,I sell,1571,SELL,259
 260_ilovethee,I love thee,923,LOVE,260
 261_igivethee,I give thee,1447,GIVE,261
-262_ieatriceyam,I eat rice (yam),1336,EAT,262
-262b_ieatyam,I eat yam,1336,EAT,262b
-262c_ieatyams,I eat yams,1336,EAT,262c
-262d_ieatcorn,I eat corn,1336,EAT,262d
-263_idrinkwater,I drink water,1401,DRINK,263
-264_icookmeat,I cook meat,1100,COOK (SOMETHING),264
-265_ikillafowl,I kill a fowl,1417,KILL,265
-266_icutatree,I cut a tree,1432,CUT,266
+262_ieatriceyam,I eat rice (yam),,,262
+262b_ieatyam,I eat yam,,,262b
+262c_ieatyams,I eat yams,,,262c
+262d_ieatcorn,I eat corn,,,262d
+263_idrinkwater,I drink water,,,263
+264_icookmeat,I cook meat,,,264
+265_ikillafowl,I kill a fowl,,,265
+266_icutatree,I cut a tree,,,266
 267_iflogachild,I flog a child,,,267
-268_icatchafish,I catch a fish,702,CATCH,268
-269_ibreakastick,I break a stick,2558,BREAK (CLEAVE),269
-270_icallaslave,I call a slave,1084,CALL,270
-271_icoverapot,I cover a pot,761,COVER,271
-272_isewashirtcloth,I sew a shirt (cloth),1457,SEW,272
+268_icatchafish,I catch a fish,,,268
+269_ibreakastick,I break a stick,,,269
+270_icallaslave,I call a slave,,,270
+271_icoverapot,I cover a pot,,,271
+272_isewashirtcloth,I sew a shirt (cloth),,,272
 272a_isew,I sew,1457,SEW,272a
-273_ipraytogodbeggod,I pray to God (beg God),24,PRAY,273
+273_ipraytogodbeggod,I pray to God (beg God),,,273
 274_iplay,I play,1413,PLAY,274
 275_idonotplay,I do not play,,,275
 276_idance,I dance,1879,DANCE,276
