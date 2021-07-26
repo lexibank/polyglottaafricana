@@ -1,9 +1,13 @@
 # CLDF dataset derived from Koelle's "Polyglotta Africana" from 1854
 
+[![CLDF validation](https://github.com/lexibank/polyglottaafricana/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/polyglottaafricana/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Koelle, Sigismund W. (1854). Polyglotta Africana or Comparative Vocabulary of Nearly Three Hundred Words and Phrases in more than One Hundred Distinct African Languages. London: Church Missionary House.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
@@ -22,7 +26,7 @@ The digital data was obtained from the REFLEX project (Reference Lexicon of Afri
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/polyglottaafricana.svg?branch=master)](https://travis-ci.org/lexibank/polyglottaafricana)
+[![CLDF validation](https://github.com/lexibank/polyglottaafricana/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/polyglottaafricana/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")

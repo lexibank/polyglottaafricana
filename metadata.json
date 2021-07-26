@@ -3,5 +3,6 @@
     "version": "0.1.0",
     "title": "CLDF dataset derived from Koelle's \"Polyglotta Africana\" from 1854",
     "license": "CC-BY-4.0",
-    "conceptlist": "Koelle-1854-280"
+    "conceptlist": "Koelle-1854-280",
+    "citation": "Koelle, Sigismund W. (1854). Polyglotta Africana or Comparative Vocabulary of Nearly Three Hundred Words and Phrases in more than One Hundred Distinct African Languages. London: Church Missionary House."
 }

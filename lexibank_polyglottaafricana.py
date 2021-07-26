@@ -5,9 +5,11 @@ from clldutils.misc import slug
 from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar
 import attr
 
+
 @attr.s
 class CustomConcept(Concept):
     Number = attr.ib(default=None)
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
@@ -38,23 +40,23 @@ class Dataset(BaseDataset):
         # Write concepts
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
-            idx = concept.number+'_'+slug(concept.english)
+            idx = concept.number + "_" + slug(concept.english)
             for gloss in concept.attributes["lexibank_gloss"]:
                 concepts[gloss.strip()] = idx
             concepts[concept.english] = idx
             args.writer.add_concept(
-                    ID=idx,
-                    Number=concept.number,
-                    Name=concept.english,
-                    Concepticon_ID=concept.concepticon_id,
-                    Concepticon_Gloss=concept.concepticon_gloss
-                    )
+                ID=idx,
+                Number=concept.number,
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+            )
 
         # Write forms
         missing = set()
-        for row in progressbar(self.raw_dir.read_csv(
-            "test-koelle.csv", dicts=True, delimiter="\t"
-        )):
+        for row in progressbar(
+            self.raw_dir.read_csv("test-koelle.csv", dicts=True, delimiter="\t")
+        ):
             # Language name>--ethn>---Source name>----reflex.id>------
             # source.id>------page>---ORIGINAL FORM>--ORIGINAL TRANSLATION
             if row["ORIGINAL FORM"].strip().startswith("?"):

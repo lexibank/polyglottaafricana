@@ -36,5 +36,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Koelle, Sigismund W. (1854). Polyglotta Africana or Comparative Vocabulary of Nearly Three Hundred Words and Phrases in more than One Hundred Distinct African Languages. London: Church Missionary House.</p>\n</blockquote>"
 }
