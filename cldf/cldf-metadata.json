@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-3-ge482958",
+            "dc:created": "v1.0-4-g511ba2c",
             "dc:title": "Repository"
         },
         {

@@ -12,16 +12,20 @@
     ],
     "contributors": [
         {
-            "name": "Robert Forkel",
-            "type": "Editor"
-        },
-        {
             "name": "Guillaume Segerer",
             "type": "Editor"
         },
         {
             "name": "Guillaume Segerer",
             "type": "DataCurator"
+        },
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
         },
         {
             "name": "Tiago Tresoldi",
