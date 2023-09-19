@@ -19,7 +19,25 @@ Conceptlists in Concepticon:
 - [Koelle-1854-280](https://concepticon.clld.org/contributions/Koelle-1854-280)
 ## Notes
 
+## Digitization
+
 The digital data was obtained from the REFLEX project (Reference Lexicon of Africa) edited by G. Ségérer (https://reflex.cnrs.fr/).
+
+
+## Coverage
+
+Polyglotta Africana covers almost 160 language varieties from 8 language families.
+
+![](map.svg)
+
+
+## Data model
+
+See [cldf/README.md](cldf) for a description of the tables and columns and the
+[entity-relationship diagram](erd.svg) for how they relate.
+
+![](erd.svg)
+
 
 
 
@@ -40,17 +58,18 @@ The digital data was obtained from the REFLEX project (Reference Lexicon of Afri
 - **Synonymy:** 1.28
 - **Invalid lexemes:** 0
 - **Tokens:** 326,757
-- **Segments:** 93 (0 BIPA errors, 0 CTLS sound class errors, 93 CLTS modified)
+- **Segments:** 93 (0 BIPA errors, 0 CLTS sound class errors, 93 CLTS modified)
 - **Inventory size (avg):** 45.64
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Robert Forkel | @xrotwang | patron, code | Other
+Sigismund Koelle | | author | Author
+Robert Forkel | @xrotwang | patron, code | Editor
 Guillaume Segerer | | maintainer | Editor, DataCurator
 Tiago Tresoldi | @tresoldi | profile, code | Other
-Sigismund Koelle | | author | Author
+
 
 
 

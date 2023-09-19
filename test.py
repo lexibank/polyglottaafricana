@@ -17,4 +17,4 @@ def test_parameters(cldf_dataset, cldf_logger):
 
 
 def test_sources(cldf_dataset, cldf_logger):
-    assert len(cldf_dataset.sources) == 1
+    assert len(cldf_dataset.sources) == 2

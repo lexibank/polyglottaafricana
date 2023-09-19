@@ -2,7 +2,7 @@ from pathlib import Path
 
 from clldutils.misc import slug
 
-from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar
+from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar, Lexeme
 import attr
 
 
@@ -11,10 +11,21 @@ class CustomConcept(Concept):
     Number = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(Lexeme):
+    Scan = attr.ib(
+        default=None,
+        metadata={
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
+        }
+    )
+
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "polyglottaafricana"
     concept_class = CustomConcept
+    lexeme_class = CustomLexeme
 
     # define the way in which forms should be handled
     form_spec = FormSpec(
@@ -30,6 +41,19 @@ class Dataset(BaseDataset):
         """
         Convert the raw data to a CLDF dataset.
         """
+        args.writer.cldf.add_component(
+            'MediaTable',
+            {
+                'name': 'SUBH_URL',
+                'datatype': 'anyURI',
+                'dc:description': 'URL of page in context of the scanned book',
+            },
+            {
+                'name': 'Source',
+                'separator': ';',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+            },
+        )
 
         # Write source
         args.writer.add_sources()
@@ -53,7 +77,7 @@ class Dataset(BaseDataset):
             )
 
         # Write forms
-        missing = set()
+        missing, scans = set(), set()
         for row in progressbar(
             self.raw_dir.read_csv("test-koelle.csv", dicts=True, delimiter="\t")
         ):
@@ -62,14 +86,30 @@ class Dataset(BaseDataset):
             if row["ORIGINAL FORM"].strip().startswith("?"):
                 # We ignore dubious forms, marked with a leading "?"
                 continue
+            snumber = str(int(row['page']) + 40)
+            if snumber not in scans:
+                args.writer.objects['MediaTable'].append(dict(
+                    ID=snumber,
+                    Name=row['page'],
+                    Description='',
+                    Media_Type='image/tiff',
+                    Download_URL='https://pic.sub.uni-hamburg.de/kitodo/PPN862704383/{}.tif'.format(
+                        snumber.rjust(8, '0')),
+                    SUBH_URL='https://resolver.sub.uni-hamburg.de/kitodo/PPN862704383/page/'
+                             '{}'.format(snumber),
+                    Source=['ScansHamburg'],
+                ))
+                scans.add(snumber)
             if row["ORIGINAL TRANSLATION"] in concepts:
                 args.writer.add_lexemes(
                     Value=row["ORIGINAL FORM"],
                     Language_ID=languages[row["Language name"]],
                     Parameter_ID=concepts[row["ORIGINAL TRANSLATION"]],
                     Source=["Koelle1854"],
+                    Scan=snumber,
                 )
             else:
                 missing.add(row["ORIGINAL TRANSLATION"])
         for m in missing:
+            raise ValueError
             print(m)
