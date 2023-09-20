@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-6-g51dff2a",
+            "dc:created": "v1.0-7-ga433090",
             "dc:title": "Repository"
         },
         {
@@ -232,6 +232,16 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "dc:description": "Language name in RefLex",
+                        "datatype": "string",
+                        "name": "RefLex_Name"
+                    },
+                    {
+                        "dc:description": "Three-part language identifier in Polyglotta Africana",
+                        "datatype": "string",
+                        "name": "Local_ID"
                     }
                 ],
                 "primaryKey": [

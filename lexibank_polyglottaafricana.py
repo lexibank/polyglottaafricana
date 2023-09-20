@@ -2,7 +2,7 @@ from pathlib import Path
 
 from clldutils.misc import slug
 
-from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar, Lexeme
+from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar, Lexeme, Language
 import attr
 
 
@@ -21,11 +21,28 @@ class CustomLexeme(Lexeme):
     )
 
 
+@attr.s
+class CustomLanguage(Language):
+    RefLex_Name = attr.ib(
+        default=None,
+        metadata={
+            'dc:description': 'Language name in RefLex',
+        }
+    )
+    Local_ID = attr.ib(
+        default=None,
+        metadata={
+            'dc:description': 'Three-part language identifier in Polyglotta Africana',
+        }
+    )
+
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "polyglottaafricana"
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
+    language_class = CustomLanguage
 
     # define the way in which forms should be handled
     form_spec = FormSpec(
@@ -55,17 +72,9 @@ class Dataset(BaseDataset):
             },
         )
 
-        # Write source
         args.writer.add_sources()
 
-        # Write languages
         languages = args.writer.add_languages(lookup_factory="Name")
-        for l in args.writer.objects['LanguageTable']:
-            if l['Latitude'] is None and l['Glottocode']:
-                glang = args.glottolog.api.get_language(l['Glottocode'])
-                if glang:
-                    l['Latitude'] = glang.latitude
-                    l['Longitude'] = glang.longitude
 
         # Write concepts
         concepts = {}
@@ -82,8 +91,7 @@ class Dataset(BaseDataset):
                 Concepticon_Gloss=concept.concepticon_gloss,
             )
 
-        # Write forms
-        missing, scans = set(), set()
+        scans, ldata = set(), {}
         for row in progressbar(
             self.raw_dir.read_csv("test-koelle.csv", dicts=True, delimiter="\t")
         ):
@@ -93,6 +101,7 @@ class Dataset(BaseDataset):
                 # We ignore dubious forms, marked with a leading "?"
                 continue
             snumber = str(int(row['page']) + 40)
+            ldata[languages[row["Language name"]]] = row['Source name']
             if snumber not in scans:
                 args.writer.objects['MediaTable'].append(dict(
                     ID=snumber,
@@ -106,16 +115,22 @@ class Dataset(BaseDataset):
                     Source=['ScansHamburg'],
                 ))
                 scans.add(snumber)
-            if row["ORIGINAL TRANSLATION"] in concepts:
-                args.writer.add_lexemes(
-                    Value=row["ORIGINAL FORM"],
-                    Language_ID=languages[row["Language name"]],
-                    Parameter_ID=concepts[row["ORIGINAL TRANSLATION"]],
-                    Source=["Koelle1854"],
-                    Scan=snumber,
-                )
-            else:
-                missing.add(row["ORIGINAL TRANSLATION"])
-        for m in missing:
-            raise ValueError
-            print(m)
+            args.writer.add_lexemes(
+                Value=row["ORIGINAL FORM"],
+                Language_ID=languages[row["Language name"]],
+                Parameter_ID=concepts[row["ORIGINAL TRANSLATION"]],
+                Source=["Koelle1854"],
+                Scan=snumber,
+            )
+
+        for l in args.writer.objects['LanguageTable']:
+            if l['Latitude'] is None and l['Glottocode']:
+                glang = args.glottolog.api.get_language(l['Glottocode'])
+                if glang:
+                    l['Latitude'] = glang.latitude
+                    l['Longitude'] = glang.longitude
+            _, _, sname = ldata[l['ID']].partition(' : ')
+            sid, _, sname = sname.partition(' - ')
+            l['RefLex_Name'] = l['Name']
+            l['Name'] = sname
+            l['Local_ID'] = sid
