@@ -60,6 +60,12 @@ class Dataset(BaseDataset):
 
         # Write languages
         languages = args.writer.add_languages(lookup_factory="Name")
+        for l in args.writer.objects['LanguageTable']:
+            if l['Latitude'] is None and l['Glottocode']:
+                glang = args.glottolog.api.get_language(l['Glottocode'])
+                if glang:
+                    l['Latitude'] = glang.latitude
+                    l['Longitude'] = glang.longitude
 
         # Write concepts
         concepts = {}

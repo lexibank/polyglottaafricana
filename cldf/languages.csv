@@ -24,8 +24,8 @@ BassaKontagora,Bassa-Kontagora,bass1259,Bassa-Kontagora,bsr,Africa,10.3333,4.983
 BaynunkGujaxer,Baynunk-Gujaxer,bain1259,Bainounk-Gujaher,bab,Africa,12.3128,-16.0586,Atlantic-Congo
 BegbereEjar,Begbere-Ejar,begb1241,Begbere-Ejar,bqv,Africa,9.40519,7.59566,Atlantic-Congo
 Biafada,Biafada,biaf1240,Biafada,bif,Africa,11.467,-15.1347,Atlantic-Congo
-BijogoKajoko,Bijogo-Kajoko,kajo1240,Kajoko,,Africa,,,Atlantic-Congo
-BijogoKamona,Bijogo-Kamona,kamo1253,Kamona,,Africa,,,Atlantic-Congo
+BijogoKajoko,Bijogo-Kajoko,kajo1240,Kajoko,,Africa,11.1097,-16.1497,Atlantic-Congo
+BijogoKamona,Bijogo-Kamona,kamo1253,Kamona,,Africa,11.1097,-16.1497,Atlantic-Congo
 Boko,Boko,boko1266,Boko (Benin),bqc,Africa,10.5189,3.71771,Mande
 Bokyi,Bokyi,boky1238,Bokyi,bky,Africa,6.10475,9.05875,Atlantic-Congo
 Bole,Bole,nucl1695,Bole,bol,Africa,11.4839,11.2322,Afro-Asiatic
@@ -38,7 +38,7 @@ Chuwabo,Chuwabo,chuw1238,Chuwabu,chw,Africa,-17.3428,37.1231,Atlantic-Congo
 CindaRegiTiyal,Cinda-Regi-Tiyal,cind1241,Yara,cdr,Africa,10.3419,5.84212,Atlantic-Congo
 CrossRiverMbembe,Cross River Mbembe,cros1244,Cross River Mbembe,mfn,Africa,6.16926,8.23592,Atlantic-Congo
 Dangme,Dangme,adan1247,Adangme,ada,Africa,5.9437,0.13243,Atlantic-Congo
-Dan,Dan (Yakouba),west2878,West Yacouba Dan,,Africa,,,Mande
+Dan,Dan (Yakouba),west2878,West Yacouba Dan,,Africa,7.22812,-8.24535,Mande
 Dewoin,Dewoin,dewo1238,Dewoin,dee,Africa,6.56113,-10.9076,Kru
 Dibo,Dibo,dibo1247,Dibo,dio,Africa,9.0611,6.3731,Atlantic-Congo
 Dimbong,Dimbong,dimb1238,Dimbong,dii,Africa,4.80551,10.9888,Atlantic-Congo
@@ -105,7 +105,7 @@ Mengaka,Mengaka,meng1264,Mengaka,xmg,Africa,5.71399,10.3377,Atlantic-Congo
 Moore,Mòoré,moss1236,Mossi,mos,Africa,11.95,-1.32,Atlantic-Congo
 Mungaka,Mungaka,mung1266,Mungaka,mhk,Africa,5.89752,10.0294,Atlantic-Congo
 Nalu,Nalu,nalu1240,Nalu,naj,Africa,11.0397,-14.8188,Atlantic-Congo
-Nde,Nde,ndee1242,Nde,,Africa,,,Atlantic-Congo
+Nde,Nde,ndee1242,Nde,,Africa,6.17426,8.49836,Atlantic-Congo
 Ngemba,Ngemba,ngem1255,Ngemba,nge,Africa,5.97864,10.1469,Atlantic-Congo
 Ngizim,Ngizim,ngiz1242,Ngizim,ngi,Africa,12.1051,11.0178,Afro-Asiatic
 Nomaande,Nomaande,noma1260,Nomaande,lem,Africa,4.5893,10.9157,Atlantic-Congo
@@ -113,7 +113,7 @@ NorthernTeke,Northern Teke,teke1275,Latege,teg,Africa,-1.61688,14.8664,Atlantic-
 Nsongo,Nsongo,nson1238,Nsongo,nsx,Africa,-10.5166,16.7348,Atlantic-Congo
 NupeTako,Nupe-Tako,nupe1254,Nupe-Nupe-Tako,nup,Africa,9.18404,5.40031,Atlantic-Congo
 Oloma,Oloma,olom1241,Oloma,olm,Africa,7.01279,6.02767,Atlantic-Congo
-Orungu,Orungu,orun1242,Orungu,,Africa,,,Atlantic-Congo
+Orungu,Orungu,orun1242,Orungu,,Africa,-1.48741,9.50247,Atlantic-Congo
 Pepel,Pepel,pape1239,Papel,pbo,Africa,11.8977,-15.8388,Atlantic-Congo
 FutaTooro,Pulaar (Futa Tooro),pula1263,Pulaar,fuc,Africa,13.8694,-13.4482,Atlantic-Congo
 FutaJalon,Pular (Fuuta Jalon),pula1262,Pular,fuf,Africa,12.1826,-12.7338,Atlantic-Congo
