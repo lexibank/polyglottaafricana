@@ -1,0 +1,1495 @@
+54128 records. 200 sources. Sources like Koelle, Sigismund WilhelmHide
+[Add source] [Add source]
+[Show field] Notescom	Reference: 48. Koelle 1854 : I-C-1 - Biā́fada	records: 287	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00044)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Tā́ba is a day and a-half's journey from the sea, and is situate on the river Basṣḗba; but Wākóra is four miles from the Badṣḗba. The Biā́fada are called Dsọṓla by the Kabún·ga; hence, also, by others, Biā́fada-Dsọṓla. Biā́fada is situate west of N·kā́bu, east of Bulánda, north of Nálu, south of Birā́su-Mandén·ga, where a language is spoken like that of the Kabún·ga.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 446. Koelle 1854 : XII-A-a-2a - (Bidṣṓgo) Án·kāras	records: 265	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00004)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2009-10-22
+Com:as spoken on ánkāras, an island opposite the Rio Grande, and nearly a day's journey from Bissao.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 447. Koelle 1854 : XII-A-a-2b - (Bidṣṓgo) Wūn	records: 271	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00003)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2009-10-22
+Com:as spoken on the island “Wūn.”
+[Add source] [Add source]
+[Show field] Notescom	Reference: 960. Koelle 1854 : I-A-1 - Fúlup	records: 239	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00008)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2017-07-04	Specific Location: -16.435,12.504
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Geographical remarks obtained from the same. - Bátēndu is half a day's journey from Kátọn·, the Fúlup capital, and about one mile distant from the sea. Fúlup is near Bándṣāl and Éṣin·, where the same language is spoken ; also near Búiui ; but a considerable distance, perhaps three weeks, from Elálāp, Bótirrẹt, and Sígidṣōt, in which four places the language is different from that of Fúlup. Sígidṣōt is inhabited by the Portuguese. The Fúlup country is quite level, without mountains and stones, the ground consisting of sand.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 961. Koelle 1854 : I-A-2 - Fī́lham	records: 264	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00012)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2015-06-02	Specific Location: -16.222,12.793
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Fī́lham or Fī́lhọ̄l. Remarks. - Búntun· is situate on a large river, running towards the sea, called Kṓya, and about three weeks' journey from the Gambia. Tórrāri is ten hours' journey from Búntun·, and six hours from the Bányūn frontier. The KKabún·ga call the Fī́lham Dṣṓla, or Fṓni Dṣṓla, i.e. perhaps, “ foreigner, barbarian.” The country of the Fī́lham tribe is called Ésuḥ, and is situated to the west of Kutẹ́n·o, with which it has one language in common.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 962. Koelle 1854 : I-B-1 - Bṓla	records: 261	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00025)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Gṓle is situated in the Kō district, a few miles from the sea. Bṓla is called Burā́ma by the Bulánda and is situated west of Bulánda, north-east of Púlūnde, also near Bábōg·, Baṣẹ̄́rẹd, Kányōp, Káyū, Pósis, Bidṣṓgo.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 963. Koelle 1854 : I-B-2 - Sárār	records: 281	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00021)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Sā́dal is about two hours' journey from Ámōn, the Sárār capital, and three hours from the sea. Sárār is situated west of Balánta, east of the sea, south of Bányūn, north of Bádṣūan or Dṣū́al, where the Bōla language is spoken.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 964. Koelle 1854 : I-B-3 - Pẹ́pẹ̄l	records: 270	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00026)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Tōr is one day's journey from Ntḗ, the capital of the Biṣlā́o island. The Pẹ́pẹm language is spoken on the island of Biṣlā́o, commonly called Bisao, which is situate opposite Kányōp or Mandṣā́ko, Balánta, and Nálu.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 965. Koelle 1854 : I-B-4 - Kányōp	records: 166	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00018)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:NORTH-WEST ATLANTIC LANGUAGES distinguishing themselves, like those of South Africa, by Prefixal Changes, or an Initial Inflection.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 966. Koelle 1854 : I-C-2 - Pádṣāde	records: 276	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00042)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Údādṣā· is three or four days' journey from the sea. Pádṣāde is west of Kóniādṣi, and east of Kā́bu.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 967. Koelle 1854 : I-D-1 - Bága (of Kā́lum)	records: 287	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00073)
+	Classification:
+Niger-Congo, Mel, Northern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - There are three different Bága countries on the coast : the Kā́lum-Baga, to which Stephen belongs, the Rio-Pongas-Bagas, and the Rio-Nunez-Bagas. In the first two countries nearly the same language is spoken; but the Bagas of the Rio Nunez, I am informed, speak quite a different language, of which, however, I did not succeed in getting specimens, as these Bagas are not in the habit of coming to Sierra Leone, preferring to remain in a savage state and in lawless independence on their native hills. The Bagas opposite the Isles de Los are called Kū́ba by the Rio-Nunez-Bagas, whom, in return, they call Bága síntene, or Baheráka, i. e. “naked people,” their women being said to go entirely without clothes, and Kā́lum by the Rio-Pongas-Bagas. Kā́lum-Baga is west of Sṓlīma-Sóso, east of the Isles de Los, which they call Dōfútu or Fútu, North of Kábak, south of Labáia, a Sóso district which separates it from Rio-Pongas-Baga.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 968. Koelle 1854 : I-D-2 - Tímne	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00077)
+	Classification:
+Niger-Congo, Mel, Northern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Tímne is east of Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 969. Koelle 1854 : I-D-3 - Búlom	records: 285	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00065)
+	Classification:
+Niger-Congo, Mel, Southern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Búlom or North Búlom. Remarks. - The Búlom country, opposite Sierra Leone, borders on the Tímne country in the east and north. Túlun· is situate on the western part of the Búlom shore, which is inhabited by Búloms only, whereas in the eastern part Búloms and Tímnes are mixed. The Búloms of the Búlom shore call those of the Sherbro country Mámpa. These two Búlom countries are separated from each other by the Tímne territory, which extends right down to the east end of Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 970. Koelle 1854 : I-D-4 - Mámpa	records: 287	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00068)
+	Classification:
+Niger-Congo, Mel, Southern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Mā́mpūa, or Mámpa-Búlom, alias Sherbro. Remarks. - Mā́mpūa is situate west of Mẹ́nde, east of the sea between Sierra Leone and the Bum country. But the same language, with perhaps trifling modifications, is also spoken in Bum, which name is probably a contraction of Búlom. The Bum country intervenes between Búlom Proper, or Mā́pūa, and the Kirim country. The English name for “Sherbro,” which I suppose to be a corruption of “sea-bar,” pronounced “shea-bar,” there being a strong bar at the estuary of the Sherbro river. The Vei about Wā́koro and Dṣáiaro generally call the Mā́mpūa country Ṣī́ba, i. e. “sea-bar.”
+[Add source] [Add source]
+[Show field] Notescom	Reference: 971. Koelle 1854 : I-D-5 - Kísi	records: 278	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00069)
+	Classification:
+Niger-Congo, Mel, Southern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Kísi is situate west and north of Gbándi, east of Mẹ́nde, south of Kọ́no. Pórūma is a town of the district Kámā. Besides Kámā, the Kísi country comprises the following districts : Léla, Tṓn·gi, Búmādu, Lán·gōāle, Tén·gēa, Wū́nde, Yọ́mbū, Wū́de-Kámā, Tṓngi-Yọ́mbu, Tọ́le, Sándu, &c., in all of which the same language is spoken with but slight variations.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 972. Koelle 1854 : II-1-a - Mandén·ga	records: 284	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01501)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Mánde, or Mandén·ga. Remarks.- He says that all Mandén·gas originally came from Mánde. Kā́ba is situate on the river Dṣḗlība, and is the capital of the Mánde country, which borders in the east on Bámbaran·, in the west on Dṣṓma, in the south on Dṣúman·ana, in the north on Búrē. In Dṣṓma and Dṣúman·ana the same language is spoken as in Mánde, but in Búrē the people speak similarly to the Sósos. This “Mandén·ga” has hitherto always been figuring on the maps as “Mandingo;” but this mode of spelling is incorrect : “n·ga” (very often pronounced “n·ka” ) is evidently a patronymic termination, as appears from its following proper names. The “a” of “n·ga” is an obtuse and abrupt ‘a’, entirely toneless, and pronounced just as, e.g., the infinitive termination ‘an’ is usually sounded in the Suabian Dialect of the German. The same perverse representation of this sound also occurs in the name Bága, which has been commonly written Bágo. The ‘i’ also is incorrect, as the natives plainly say Mánde and Mandén·ga, and not Mándi and Mandín·ga. Perhaps it is dificult for some English ears to observe the difference between ‘e’ and ‘i”, as I also find that the American Missionaries of Mẹnde have begun to spell this name Mendi, which is equally improper..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 973. Koelle 1854 : II-1-b - Kābún·ga	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01501)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Kābún·ga, or Mandén·ga, as spoken in Kā́bu. Remarks.- He says that, at Bisā́o, the population is a mixture of Pẹpẹls and Bulándas. Kā́bu is situate west of Pádṣāde, east of Bírāsu and Bisā́o, south of the Gambia and Súrū, i.e. Jólof, north-east of Biafáda, north of Kọ̄́li. Dṣā́man·ūto is two days' distance from the sea, and six days from Bándṣūnu, i.e. Gambia..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 974. Koelle 1854 : II-1-c - Torón·ka	records: 292	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01501)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Torón·ka, or Mandén·ga, as spoken in Tórō· or Toron·. Remarks.- He says that Tóron· is half Muhammadan and half Pagan, and that Mánde is almost entirely Pagan. Masámāna is two and a-half days' journey from Bámbarandū́, the Tóron· capital, and twenty-eight days from Freetown. The position of Tóron· is west Kṓnīa, east of Sán·kara, south or south-west of Mánde, north of Tṓma..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 975. Koelle 1854 : II-1-d - Dṣálun·ka	records: 291	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01514)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Dṣalún·ka, i.e. Mandén·ga, as spoken in Dṣálu or Dṣálu·, also called Fúta-Dṣálu, i.e. the Dṣálu possessed by the Phū́la. Remarks.- Tṓkin· is seven days journey east of Tímbo, the Fúta-Dṣálu capital. Fúta-Dṣálu is one month's journey in breadth and three in length, and was owned by the Dṣálu or Dṣalún·ga before the Phū́la conquest. Its situation is west of Bálīa, east of Támbaga, south of Buhndu, north of Sṓlīma, and the exclusive religion of its inhabitants is Muhammadanism. The Sóso language is spoken in Bálīa, which is subject to Fúta, in Támbaga, and in Sṓlīma; but the language of Búndu Púlō..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 976. Koelle 1854 : II-1-e - Kán·kán·ka	records: 284	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01495)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Kán·kán·ka, or Mandén·ga, as spoken in Kán·kan·. Remarks.- Kán·kan· is situated west of Wā́sulu, east of Bálīa, north of Ḱnīa, south of Baū́li , which is separated from it by the Baū́li river, a tributary of the Niger..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 977. Koelle 1854 : II-2 - Bámbara	records: 302	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01487)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Bámbara, or Bámbaran·. Remarks.- Bámbara is east of Mánde, west of Soā́ro, where a different language is spoken, and which is itself west of Dséne..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 978. Koelle 1854 : II-3 - Kọ́no	records: 270	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01511)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Sandī́a is situate on the small river Búndakere, and twelve miles distant from Kundóndo. The position of Kọ́no is west and north of Kísi, south o Kérense, east of Mẹ́nde..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 979. Koelle 1854 : II-4 - Vei	records: 304	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01512)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Tī́animani is one day's journey from Wā́koro, or Cape Mount, and belongs to the Térēwọ district. The Vei country is west of Gbándi and Gṓla, south of Kírim and Mẹ́nde, north of Dḗwoi·, east of the Atlantic..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 980. Koelle 1854 : II-5-a - (Sóso) Sṓlīma	records: 288	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01513)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Sóso, as spoken in Sṓlīma. Remarks.- Fálāba is the Sṓlīma capital, and nine days journey from Freetown. The situation of Sṓlīma west of Sán·kara, east of Támbāṛa,, a Sóso district, north of Kurán·ko, south of Fúta-Dṣálu..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 981. Koelle 1854 : II-5-b - (Sóso) Kísekise	records: 287	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01513)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Sóso, as spoken in Kísekise, to the north of Sierra Leone and Búlom. Remarks.- Furōdúgu is the chief town of the Kísekise district, and about two days journey from Freetown. The following are districts of the Sóso country, in all of which the same language is spoken, with more or less provincial variation : Kísekise, Tāgubḗa, Súmbūya, Abútā, Sṓṛuli, Kī́·san·, Fēlogúnyi, Béna, Támbāṛa, Sṓlīma, Labáia, Tā́mba, Arapṓn·ga, Sḗṛima..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 982. Koelle 1854 : II-6 - Tḗnẹ	records: 267	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01513)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Suwḗkuru is about sixteen miles from Kátīa, the Tḗne capital. Tḗne, which is more Muhammadan than Pagan, is situate west of Sṓkili and Fúta-Dṣálu, east of Kánīa, north of Támbāga, south of Labáia. In Kánīa, Sóso is spoken; and in Támbāga, Límba..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 983. Koelle 1854 : II-7 - Gbándi	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01519)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Gbándi is west of Nyérīwa, east of Yọ́ugāsu, Bṓpuru, and Gallinas, north of Gū́la, south of Mẹ́nde..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 984. Koelle 1854 : II-8 - Lándōṛo	records: 281	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01520)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Lándọ̄ṛọ, by Tímnes and Sierra Leoneans called Lókō. Remarks.- Lándọ̄ṛọ is west of Límba, east and south of Tímne, north of Ménde. The Sierra-Leone village Russell is also called “Lókō town,” the majority of its inhabitants being Lándọ̄ṛọs, who have sought and found in Sierra Leone a refuge from the cruel oppression of the Tímnes..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 985. Koelle 1854 : II-9 - Mẹ́nde	records: 289	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01521)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Mẹ́nde, in Sierra Leone called Kóso, which I understand is a nickname. Remarks.- Ṣándī́a is one day's journey from the Kọ́no frontier. The situation of Mẹ́nde is west of Kọ́no and Kísi, east of Kā́rọ, i.e. Gallinas, and of Kī́mi, i.e. Kírim. The district joining on the Gallinas is called Nón·gōba; hence the Vei people often transfer this name to the whole Mẹ́nde tribe..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 986. Koelle 1854 : II-10 - Gbẹ́sẹ	records: 278	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01515)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Gbẹ́sẹ, by foreigners also called Gbẹ́rēsẹ..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 987. Koelle 1854 : II-11 - Tṓma	records: 271	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01517)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Tṓma, called Bū́se by the Mẹ́nde and Vei. Remarks.- Fásā· is a town of the Ákā district, besides which the Gbése country contains the following districts : Zínya, Séwāra, Wéima, Bī́lū, in all of which the same language is spoken. Tṓma is situated west of Kōnyáka, north of Gbẹ̄́rēsẹ..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 988. Koelle 1854 : II-12 - Máno	records: 274	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01477)
+	Classification:
+Niger-Congo, Mande, Eastern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Máno and Mána, by foreigners sometimes even contracted into Mā·. Remarks. - Kọ̄́gōwi is in the Dā́yo district, besides which the Máno country contains the folloming others : Bū́ri, Gbútei·, Gbéi:so·, Gā, Gúro·, Yī́agwā, Mẹ́sū·ro·. Máno is west of Gẹ̄, east of Bása, south of Gbése..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 989. Koelle 1854 : II-13 - Gī́o	records: 278	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01478)
+	Classification:
+Niger-Congo, Mande, Eastern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Yígūna is a week's journey from the sea. Gī́o is west of Fā·, where a different language is spoken, east and south of Mána, north of Gbē..
+[Add source] [Add source]
+[Show field] Notescom	Reference: 990. Koelle 1854 : III-A-1 - Dḗwoi·	records: 286	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01040)
+	Classification:
+Niger-Congo, Kru, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Dḗwoi·, in Monrovia, commonly called Dē. Remarks.- Dḗwoi· is the original name of the country about Monrovia, on the River St. Paul, which river is called Dḗ in the Dḗwoi· language. This tribe will probably soon cease to exist as such, and its language become extinct, it being already confined to the following five hamlets in the vicinity of Monrovia-Gbẹgbẹ̄́wīli, Blófu·, Kan·kámbīli, Nọ̄fọ́bli, and Kṓ?. The Liberian nationality being superior to, and more powerful than, that of the surrounding Pagan tribes, from its principles of Christianity and civilization, mill, in course of time, as this new negro republic becomes itself more consolidated and strengthened, probably absorb the nationality not only of Dḗwoi·, but also of Bása, Vei, and other tribes, a circumstance which the well-wisher of Africa has to hail with satisfaction rather than regret.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 991. Koelle 1854 : III-A-2 - Bása	records: 303	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01039)
+	Classification:
+Niger-Congo, Kru, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Nígbāe is situated on the mouth of the River Nípōẹ, commonly called the River Sess, about midway between Monrovia and Cape Palmas. Bása is subject to, or rather incorporated with, the Republic of Liberia. Its borders are Dḗwoi· in the north, Grọ́, i.e. Krá or Krū, in the south, the Atlantic in the west, and Bọ̄yo· and Gbérẹ in the east.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 992. Koelle 1854 : III-A-3 - Krá	records: 297	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01051)
+	Classification:
+Niger-Congo, Kru, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Krá, generally called Krū. - This is the language of the well-known Krū-men (Krō-men), the famous sailors on the west coast of Africa. Remarks. - The Proper Krá is situated on the coast, between Tā́ro in the south, Bása in the north, and Wọ, with a different language, in the east, and comprises only the following five towns Írūfa, called little Krū;; Wótẹ, called Settra-Krū; Nimbḗo, called Krū-bar; Málāo, called Nana-Krū; and Wiā́o, called King-Will-town.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 993. Koelle 1854 : III-A-4 - Krḗbo	records: 303	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01050)
+	Classification:
+Niger-Congo, Kru, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Krḗbo, or Grḗbo, commonly called Fish-Krū, from the town of “Fish-town”, which is called Wa in Krēbo. Remarks. - Krḗbo is separated from Krá by Ségleō, called Grand Sess; Bitā́o, called little Sess (Piginino Sess); and Tā́ro, or Bátū, all three speaking one language. It is north of Bā́wa, commonly called Cavalley; west of Nyā́mbo, which commences one day's journey from the sea.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 994. Koelle 1854 : III-A-5 - Gbē	records: 286	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01026)
+	Classification:
+Niger-Congo, Kru, Eastern	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Gbē, or Gbḗi·. Remarks. - Zā́o is four days' journey from the sea. Gbē is situate west of Gī́o, east of Grand Bása, south of Mána, north or Dọ́uru, where a different language is spoken.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 995. Koelle 1854 : III-B-1 - Adámpe	records: 290	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01088)
+	Classification:
+Niger-Congo, Kwa, Kposo-Ahlo-Bowili	updated: 2022-01-07
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Adámpẹ. Remarks.- Gbótūẹ, the chief town of Adámpẹ, lies three days from Ógẹ, i.e. Accra, and one day from Kitā, on the sea. In going to Ógẹ from Gbótūẹ the road crosses the large river Ámu, nearly at the end of the first day's journey. The situation of Adámpẹ is west of Áve, or Ábve, where the same language is spoken; east of Tákra, with a different language; south of Adā́mẹ, likewise with a different language; and north of Mẹ́fi, by which it is separated from the sea.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 996. Koelle 1854 : III-B-2 - Án·fūẹ	records: 288	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01065)
+	Classification:
+Niger-Congo, Kwa, Gbe	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Án·fūẹ, in Sierra Leone called Ā́dṣa. Remarks. - Adā́mẹ is a mile from Ākúkọ̄mẹ, the Án·fūẹ capital. Án·fūẹ is west of Áfẹ̄ma, where the same language is spoken ; east of Tā́fi, also with the same language ; north of Áwū·ra· on the coast: Án·fūẹ is two weeks' journey, and áwū·ra· one, from Cape Coast.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 997. Koelle 1854 : III-B-3 - Hwída	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01085)
+	Classification:
+Niger-Congo, Kwa, Gbe	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Hwída, or Ḥwída. Remarks.- Ágūẹ is situate on the river Ósa, six hour's journey from Quitta, and two hours from Little Popo. Hwida contains forty villages and towns, and is situate west of the island of Gélēfe, where the king of Dahṓme sell his slaves, sousouth of Dahṓme, east of Ádṣā.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 998. Koelle 1854 : III-B-4 - Dahṓme	records: 291	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01073)
+	Classification:
+Niger-Congo, Kwa, Gbe	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Dahṓme, by foreigners called Pópō. Remarks.- Agṓ·ri· is nearly a day's journey from Agbṓme, the Dahomean capital, and sis days from the sea. Dahṓme lies west of Kḗtu, with a mixed population of Pópōs and Akus, east of Ádṣa, south of Mā́ḥi.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 999. Koelle 1854 : III-B-5 - Mā́ḥi	records: 292	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (01074)
+	Classification:
+Niger-Congo, Kwa, Gbe	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Mā́ḥi called Ógu by the Akus. Remarks.- Mā́ḥi is situate west of Nágun, a part of Aku east of Dahṓme, to which they pay tribute ; north of Dahṓme, and also north of Kẹ́tu, an Aku district ; south of Sahwālu, whose language is identical with that of Dahóome. Igbḗgo is half a day's journey from Odā́fi, the Mā́ḥi capital, and three days east of Agbṓme, the Dahṓme capital. Bḗgo is about two hours' journey from the river Kósi, which comes from Nágūnu, i.e. Aku, and goes to Sáwālu, where it joins the river Úwọ and also three hours from Nyáwẹ, the Mā́ḥi capital (or chief town), which is situate on a mountain of the same name. The Mā́ḥians and Dahṓmeans are mortal enemies (Dósū· said, “They can never eat bread together, and do not like each other even in Sierra Leone” ), on account of the constant wars the latter wage against the former, and in four of which Dósū· had to encounter them. During the wars the Mā́ḥians take refuge in extraordinarily large caves of the mountains, with which the country abounds. One of the largest caves is that of the mountain Kẹ̄́guro. When Dósū· was still in his country, the Dahomeans had not any Amazons. They were only introduced in the reign of Gézu, the present king. Gézu's predecessor was Adálūsọ·.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1000. Koelle 1854 : III-C-1-a - (Akū) Ọ́ta	records: 277	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ọ́tā. Remarks.- Elógbo is four hours' journey from 'Ọ́gmōle, the Ọ́tā capital. Ọ́tā is south of Ẹ̄́gba also borders on Ádō. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1001. Koelle 1854 : III-C-1-b - (Akū) Ẹ́gba	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ẹ̄́gba. Remarks.- Dṣḗu· is about four miles from Ā́ke, the Ḗgba capital. Īgbóre is situate on the river Ū́bu, one day's journey from Ā́ke, or Alā́ke, the Ẹ́Ẹhgba capital, and only three hours' journey from the Dṣẹ́bu territory. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1002. Koelle 1854 : III-C-1-c - (Akū) Īdṣéṣa	records: 274	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Īdṣéṣa, or Īgéṣa, or N·géṣa, or Ndṣéṣa. Remarks.- Ilḗṣa is the capital of N·géṣa, and about six days' journey from Abeokúta. Īdṣéṣa is west of Ádo. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1003. Koelle 1854 : III-C-1-d - (Akū) Yórūba	records: 331	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Yórūba. Remarks. Yórūba lies between “Ẹ̄́gba and the Niger. Ṓgo is a town about one day's journey from the new Ọ́iọ, i.e. “capital,” and is about three days' journey from the Odṓya, i.e. the Niger (Odṓya from Ṓdo, “river,” and Ọ́ya, proper name of the same). Ọgbọ́māṣọ is five days' journey from Abeokúta, one day from Agọ̄́dṣa, the present Ọ́iọ or capital, a long day's journey from Illọ̄́ri·, and three days from the Ọ̄́ya or Niger. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1004. Koelle 1854 : III-C-1-e - (Akū) Yā́gba	records: 342	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Yā́gba. Remarks. Yā́gba lies on the right banks of the Ọ́ya or Niger, west of Tágbā, i.e. Nū́pe and also west of Akándṣa, east of Ākókof Akhndsa, east of Akoko. Ḗri is two or three days' journey from Rába, and four from Ilọ̄́ri·. Láṣa is seven days' journey from Ilọ̄́ri·, and five from the Ọ̄́ya. Īréle is subject to Tā́gba, and about four days' journey from Rába on the Ọ̄́ya, three days from Sárādyi, four days from Ẹ́da on the Ọ̄́ya, three and a-half days from Ilọ̄́ri·, and five days from Ī́fẹ. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1005. Koelle 1854 : III-C-1-f - (Akū) Ékī	records: 331	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Kī, or Ékī, together with Dṣímū and Wóro, called “Ákūya” by the Básas, “Búnu” by the Nū́pes, and “Kákandṣa” by the Ī́bōs. Remarks. Ékī is north-west of Bása, west of Kúpa, east of Ámūru, south of Nū́pe. Ḗbīla is situated on a mountain, one day's journey west of the Ọ̄́ya or Ā́ya, i.e. Niger. Tā́ki is two days' journey from the Ā́yahya, and one day from Kúpa. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1006. Koelle 1854 : III-C-1-g - (Akū) Dṣúmu	records: 298	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Dṣúmu, or Īdṣúmu, called “Ābínu” by the Ānū́pes, and “Ákūya” by the Básas. Remarks. Dṣúmu is west of Ī́gāra or Ī́ṛāla, different from the well-known Ígala, and whose language is the same as that of Dṣúmu; east of Ágbā and Kī, north of Yā́gba, south of Ū́we. - Another Dṣúmu-man's home was six full days' journey from Ilọ̄́ri·, four days from Ígọ·, i.e. Egga, on the right banks of the Ọ̄́ya, i.e. the Niger ; two full days from Égbīra Ódo, which is on the left banks of the Ọ̄́ya; scarcely one day from Égbīra Hī́ma, which is on the right banks of the Ọ̄́ya, between two or three days from Ída, a town of Áta, i.e. Gála or Ígala. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1007. Koelle 1854 : III-C-1-h - (Akū) Ọwóro	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ọwórọ, called “Éyāgi” by the Nū́pes, to whom they are subject, “Ākándṣa” by the Ígalas, and “Ẹ̄́gbe” by the Yórūbans. Remarks. - Éka is half a day's journey west of the Ọ̄́yā, i.e. the Niger; and one day from Éga, the Nū́pe town on the Niger. Qwórọ is west of Ḗgbura, east of Īdṣúmu; it is also about half a day's journey from Bása, Nū́pe, and Kúpa. The Ọwóros and the Basas have the same national mark (tattō), although the Bása language belongs to the Nū́pe family. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1008. Koelle 1854 : III-C-1-i - (Akū) Dṣẹ́bu	records: 281	Webball (24178)
+Type: Wordlist	lng: en	imported: 2011-05-29	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Dṣébu, or Īdṣẹ́bu. Remarks.- Dṣẹ́bu is west of Úfe. Ẹ́gbẹ is one day's journey from Óde, the Dṣébu capital, and about seven days from Abeokúta. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1009. Koelle 1854 : III-C-1-k - (Akū) Ī́fẹ	records: 281	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00828)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ī́fẹ. Remarks.- In Ī́fẹ human beings are frequently sacrificed to the deities : Ṓdūa, Orámnya, Ōṣáleta, Ṓdi, Ọ̄́rẹ, Ōlóku·, &c., especially about Christmas, sometimes forty at once. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1010. Koelle 1854 : III-C-1-l - (Akū) Óndō	records: 254	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00835)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Óndō, called “Dókō” by the Yórūbans and Dṣẹ́sans, a large town, two day's journey south or south-east of Ī́ẹ. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1011. Koelle 1854 : III-C-1-m - (Akū) Dṣẹ̄́kiri	records: 279	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00830)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Dṣẹ̄́kiri, or Dṣḗakeri. Remarks. - Dṣẹ̄́kiri is west of Ókulōba, north of Sṓbo, south of Ū́tso, and joins the sea in the west. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1012. Koelle 1854 : III-C-2 - Ígala	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00836)
+	Classification:
+Niger-Congo, Benue-Congo, Defoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Ẹ́ga is situate on the Ōṣímīni, two miles from Ída, the Ígala capital. Ígala is west of Idōma, north of Ī́bo, and south of Égbūra. N.B. Aku, or rather Ọ̄́ku, is a mode of salutation among all the tribes enumerated under No.1; and hence they are all of them designated in Sierra Leone “Akus,” not only by Europeans, but also and chiefly by the native population. It is, consequently, not the historical name by which these numerous tribes are united in one nation; but it is here retained because the historical name is not known at present. It may possibly be discovered, even if lost in the country itself, in one or another of the different appellations by which surrounding nations call the Akus. The Missionaries of the country ought to search after the proper national name of the whole Aku country. For the last few years they have very erroneously made use of the name “Yórūba” in reference to the whole nation, supposing that the Yórūban is the most powerful Aku tribe. But this appellation is liable to far greater objections than that of “Aku,” and ought to be forthwith abandoned ; for it is, in the first place, unhistorical, having never been used of the whole Aku nation by anybody, except for the last few years conventionally by the Missionaries ; secondly, it involves a twofold use of the word “Yórūba,” which leads to a confusion of notions, for in one instance the same word has to be understood of a whole, in another, only of part; and, thirdly, the name being thus incorrect, can never be received by the different tribes as a name for their whole nation. If, e.g., you call an Idṣébuan or a Yā́gban a Yórūban, he will always tell you, “Don't call me by that name, I am not a Yórūban ;” just, e.g., as the Wúrtembergians or Bavarians would never suffer themselves to be called Prussians.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1013. Koelle 1854 : IV-A-1 - Mọ̄́se	records: 264	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01354)
+	Classification:
+Niger-Congo, Gur, Oti-Volta	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Mọ̄́se, called “Gúrmāke” by the Silmī́ṛa, i.e. Phū́la, and “Bémbā” by the Gúrmās. Remarks. - Mọ̄́se is west of Gúrmā, east of Andḗmtẹn·ga, where a different language is spoken. Mọ̄́se is also two days' journey from Búlmēra, where the same language is spoken; four days from Bū́lesa, the language being still the same, and confederate with Kambṓnse, i.e. Aṣánte; two days from Yā́n·go, with still the same language; six days from Bósānse, which is at enmity with Mọ̄́sen and where the people bore their lips, and often tie them together with grass, and whose language is different from the Mọ̄́se ; four days from Búsma, also of a different language, and in which country there is a very high mountain (i.e. tán·ga), from which those who ascend never come back again ; three or four weeks from Kambṓnse, i.e. Aṣánte. Kū́peāla is four days' journey from Wā́ṛdūgo, the Mọ̄́se capital, whither the king of Aṣánte often sends presents; and one month from Sálak, an Aṣánte town, whence they bring their cola-nuts.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1014. Koelle 1854 : IV-A-2 - Dṣélan·a	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01366)
+	Classification:
+Niger-Congo, Gur, Oti-Volta	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - Dṣélan·a is west of Bōnt, east of Kọ̄́uarẹ; also near Máment, Kẹ̄́ọunt, Gbén·gbīrant, Bótūnt, Bárẹ̄, Sḗruh, Dḗwṛ, Kámuṛ, Sansáni, Mársar, Ján·sar, Kū́sar, Bā́ru, i.e. Bárba.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1015. Koelle 1854 : IV-A-3 - Gúrēṣa	records: 332	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01330)
+	Classification:
+Niger-Congo, Gur, Oti-Volta	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Gúren·, in pl. Gúrēṣa, hence either Gúre·n language, or the language of the Gúrēṣa. Remarks.- Gúrēntẹn·, or the country of the Gúrēṣa, is situate west of Ton· Wṓlawṓla, north-west of Kúmbun·a, a Muhammadan country east of Bagbálan·, which is itself east of Yū́lug or Yū́leza, and one month's journey from Gúrma. Most of the people go naked in Gúrēntẹn·, the women slightly covering themselves with twigs. The country contains the following districts, besides Kándṣāṛẹ: Sīmbísa, Sándẹ́ẹm, Dọ̄́nen·, Sínēsa, Kúbūsa, Nyándēm, Kalā́sa, Wíāsa, Wī́ar, Bakḗsa. There is a river in the country called Mọ̄́ṛe, or Mọ̄́ya, i.e. “great water,” on which canoes are used, and which can be crossed on foot in certain places in the dry season. The same river reaches Yáṛūba and Kū́bar. The neighbouring tribes, speaking different languages, are : Yáṛūba, Ton·, Wṓlawṓla, Báyān·, Zan·gwḗda, i.e. Háusa, Kambúmāna, i.e. Phū́la. The Kámbon·, or in pl. Kámbēnza (i.e. “musketeers,” from kámbondō, “musket, gun”-“Aṣántes come to war with the Gúrēṣa”).
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1016. Koelle 1854 : IV-A-4 - Gúrma	records: 294	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01341)
+	Classification:
+Niger-Congo, Gur, Oti-Volta	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Bún·gu is six days' journey from Sokotu. Gúrma is west of Háusa, from which it is separated by the Kóāra, east of Móāsi. Also near Sansáni, Yándi, Sálega, Phólāni (i.e. Phū́la), Bárba, Kotakṓli.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1017. Koelle 1854 : IV-B-1 - Lḗgba	records: 290	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01379)
+	Classification:
+Niger-Congo, Gur, Gurunsi	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- The same language is also spoken in Kọ́ure, Sḗka, Súmūre, Tẹṣ. Lḗgba is west of Kumḗrida, and Lā́ma, esat of Dṣélan·a. Also near Fúndōdẹ, Bādṣódẹ, Séradera, Bárba, Séṛadō, Bōṛo, Sámera.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1018. Koelle 1854 : IV-B-2 - Kaure	records: 258	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01378)
+	Classification:
+Niger-Congo, Gur, Gurunsi	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Káure. Remarks.- Wúram is about an hour's journey from Láma, the Káure capital, and near the three mountains (i.e. púṛo),Édō, kalun·gbarā, and Kúmādẹ. The Básāre country is two days' journey from Káure, and has a different language. Káure is situate west of Lḗgba, east of Tem, where a different language is spoken. Also half a day's journey from Kírēn·a, with an allied language ; four days from Ágiai, or Ádṣai, with a different language. In coming to the sea, Sem passed successively Tā́dṣan·, Málō, Atogbā́ma, Gbẹ́si, Égẹ on the Coast, near Popo.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1019. Koelle 1854 : IV-B-3 - Kīámba	records: 284	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01380)
+	Classification:
+Niger-Congo, Gur, Gurunsi	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Kīáamba, or Dṣámba, called Tem by the Káure, who are subject to them, and by the Ásindṣẹ, i.e. Háusas. Remarks.- Kīafā́do is the Kīámba capital, and is situated one day's journey from the River Mo, which cannot be forded in the rainy season, but in the dry season reaches to the loins, or under the arms, and has its source in the country of Kigbahfālu, a Kīámba dependency, near the village Bádīrẹ, and, flowing from east to west, reaches the country Gbándṣa, an Aṣánte dependency, whence the Hausas bring their cola-nuts.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1020. Koelle 1854 : IV-C-1 - Kóāma	records: 260	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01393)
+	Classification:
+Niger-Congo, Gur, Gurunsi	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks. - KKóāma is west of Gmándoān, east of Dṣā́na, north of Díwiēza. In the Kóāma country the men go entirely naked, and the women use an apron of twigs before and behind.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1021. Koelle 1854 : IV-C-2 - Bágbālan·	records: 274	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01393)
+	Classification:
+Niger-Congo, Gur, Gurunsi	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Bágbālan·, pl. Bāgbálenze, which latter form is also used for the country. Remarks. - Gún·gōnī́ma is about one and a-half day's journey from Girewára, the Bábbālan· capital, and half a day from the large River Móṛa, which is not fordable even in the dry season. The Móṛa flows from Dagbā́na and Gúrēnze, and goes down to Vār and Nyīpórōnze. Bāgbálenze is situate north-west of Gúrēnze, where a different language is spoken, and of Kóāma with a language closely allied ; west of Bākīónze, where the same language is spoken, and east of which lies Nyambī́ma where people speak like the Gúrēza; east of Bādún·ze, where a different language is spoken; north of Man·unī́a, pl. Básun·nī́na, where a cognate language is spokeī ; south of Vār (sing. Vantī́na), with a different language. On his way to the sea Laudman passed through Kānán·ze, with the same language ; Kándṣaṛ, with a language like that of Gúrēnze ; Yáṛūwa, with a different language ; Kúmbun·, Dṣálugbān·a, Kōkurīnzi, Gbẹ̄́ze, and Dahōme, all which countries have likewise different languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1022. Koelle 1854 : IV-D-1 - Kásm	records: 262	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01382)
+	Classification:
+Niger-Congo, Gur, Gurunsi	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Kásm is east of Kúndṣọṛọ, west of Gúrēsa, called also Dṣindṣíndṣin, on account of their singing.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1023. Koelle 1854 : IV-D-2 - Yū́la	records: 273	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01382)
+	Classification:
+Niger-Congo, Gur, Gurunsi	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Yū́la, pl. Yū́lezi. Remarks. - Yū́la borders on Bágbālan· in the north west, and is reached from Gún·gōnī́ma in one day.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1024. Koelle 1854 : V-A-1 - Īsóāma	records: 274	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00874)
+	Classification:
+Niger-Congo, Benue-Congo, Igboid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:NIGER-DELTA LANGUAGES. A1. Ī́bo dialects. N.B. In Sierra Leone certain natives who have come from the Bight are called Ī́bos. In speaking to some of them respecting this name, I learned that they never had heard it till they came to Sierra Leone. In their own country they seem to have lost their general national name, like the Akus, and know only the names of their respective districts or countries, I have retained this name for the language, of which I produce specimens, as it is spoken in five of the said districts or countries.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1025. Koelle 1854 : V-A-2 - Íṣiēle	records: 281	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00874)
+	Classification:
+Niger-Congo, Benue-Congo, Igboid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Íṣiēle or Íṣiēl. Remarks.- Áke is ten days journey from Ígala. Íṣiēl is west of Úkēhe, east of Ígala.. A1. Ī́bo dialects. N.B. In Sierra Leone certain natives who have come from the Bight are called Ī́bos. In speaking to some of them respecting this name, I learned that they never had heard it till they came to Sierra Leone. In their own country they seem to have lost their general national name, like the Akus, and know only the names of their respective districts or countries, I have retained this name for the language, of which I produce specimens, as it is spoken in five of the said districts or countries.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1026. Koelle 1854 : V-A-3 - Ábādṣa	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00874)
+	Classification:
+Niger-Congo, Benue-Congo, Igboid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks - Nā́ki is three days' journey from the large River Ōmámbānẹ and one day from the smaller River Akíāle. Ábādṣa is west of Íṣiẹe,n, east of Ēbẹ́nẹ̄bẹ, where a different language is spoken. It is also two days' journey from Ī́yi, with a different language, one day from Ā́ki, three days south-west of Ígala. Ānẹ́kẹ was brought in succession to Ā́ro·, Béndo, and Óbā́ne.. A1. Ī́bo dialects. N.B. In Sierra Leone certain natives who have come from the Bight are called Ī́bos. In speaking to some of them respecting this name, I learned that they never had heard it till they came to Sierra Leone. In their own country they seem to have lost their general national name, like the Akus, and know only the names of their respective districts or countries, I have retained this name for the language, of which I produce specimens, as it is spoken in five of the said districts or countries.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1027. Koelle 1854 : V-A-4 - Ā́ro·	records: 277	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00874)
+	Classification:
+Niger-Congo, Benue-Congo, Igboid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ā́·ṛo·. Remarks.- Ā́·ṛo· is situate West of Ī́tẹ, where a different language is spoken ; east of Utútu, with the same language. It also joins to Ī́hẹ, with the same language ; is one day's journey from Ī́tu, with a different language ; one day from Ībíbīa, i.e. Kálaba; and four days from Isóāma, with a different language.. A1. Ī́bo dialects. N.B. In Sierra Leone certain natives who have come from the Bight are called Ī́bos. In speaking to some of them respecting this name, I learned that they never had heard it till they came to Sierra Leone. In their own country they seem to have lost their general national name, like the Akus, and know only the names of their respective districts or countries, I have retained this name for the language, of which I produce specimens, as it is spoken in five of the said districts or countries.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1028. Koelle 1854 : V-A-5 - Mbọ́fīa	records: 266	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00874)
+	Classification:
+Niger-Congo, Benue-Congo, Igboid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Mbọ̄́fīa. Remarks.- Ḗpham is one day's journey from the River Ẹ̄́nyim, which comes from the Ámọ̄ni country, where a different language is spoken, and runs through the Ábīyim country, close to the sea. Mbọ̄́fīa is west of Ī́kun, with a different language; east of Bénda, with a different, yet somewhat allied language; north of Otútu, with a language similar to that of Ā́·ṛo·; south of Ẹ̄́birēba, with a different, yet somewhat allied language.- The following countries are called Ī́bo in Sierra Leone, whereas this name is not used by any one of these tribes: 1. Mbọ̄́fīa or Mbọ̄́hīa, 2. Élūgu·, 3. Ún·gūa, 4. Ọ́zōzu·, 5. Ṓkūa· or Ndọ́ki, 6. Ísēlu, 7. Óhuā·sóra, 8. Ábādṣa, 9. Bọm, 10. Múdiọoka, 11. Ī́sóāma, 12. Ṓru, 13. Ḿbọ̄li, 14. Upā́ni or Obā́ni, 15. Ámọ̄ni.. A1. Ī́bo dialects. N.B. In Sierra Leone certain natives who have come from the Bight are called Ī́bos. In speaking to some of them respecting this name, I learned that they never had heard it till they came to Sierra Leone. In their own country they seem to have lost their general national name, like the Akus, and know only the names of their respective districts or countries, I have retained this name for the language, of which I produce specimens, as it is spoken in five of the said districts or countries.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1029. Koelle 1854 : V-B-1 - Sṓbo	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00862)
+	Classification:
+Niger-Congo, Benue-Congo, Edoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Sṓbō. Remarks.- Ā́gba·sa is two days' journey east of the River Úzīe, i.e. Ōṣímīni. Sṓbō is east of Kḗkeri, near Ī́bo, and three or four days' journey inland from the sea.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1030. Koelle 1854 : V-B-2 - Ẹ́gbẹ̄le	records: 276	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00850)
+	Classification:
+Niger-Congo, Benue-Congo, Edoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ẹ́gbẹ̄le. Remarks.- Ẹ́gbēle is west of Ī́gala, east of Íbīe, north of Utsḗa and Úbōsa, south of Áwiān·u. Íwiēta is five days' journey from the sea. With slight variations this language is also spoken in other countries, whose inhabitants are called Ótsā́·ko·, from ā́ko·, “tooth,” and útsẹ, “to cut,” they being in the habit of artificially pointing their teeth, so that they look like a saw, viz. in Áwiān·u, Wḗpfa, Íbīe, Ínẹ̄mẹ, Áwiēre, Áwītsi·, Séwīe.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1031. Koelle 1854 : V-B-3 - Bíni	records: 299	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00840)
+	Classification:
+Niger-Congo, Benue-Congo, Edoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Bíni, which I suspect to be a foreign name, like many others, the real native name of which I could not ascertain. Remarks.- Bíni is west of Ígala, north of Íleo, south and east of Aku.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1032. Koelle 1854 : V-B-4 - Īhéwe	records: 263	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (02254)
+	Classification:
+Niger-Congo, Benue-Congo, Edoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Īhéwe or Īséwe, also called “Án·ūra” by the Ádos, and “Ḗda” by the Ígalas. Remarks.- Wīabā́ba is three days' journey west of the Ōṣímīrẹ, and three days from Osámare, on the same river. Īhéwe is south-west of Ígala, west of the Ōṣímīrẹ, i.e. the Niger.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1033. Koelle 1854 : V-B-5 - Ọ́lōma	records: 268	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00857)
+	Classification:
+Niger-Congo, Benue-Congo, Edoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ọ́lōma, called “Ī́lēa” by the Séwes. Remarks.- Ọ́lōma is two days' journey from Ẹ́do or Bine, and one day from Īséwe. It is also near to Ọ́gbẹ, Ọ́tāso, Ọgbẹ́rẹ̄gẹ, Ṓṣi.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1034. Koelle 1854 : V-C-1 - Ókulōma	records: 268	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00081)
+	Classification:
+Niger-Congo, Ijoid, Central Ijo	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ókulōma, by the Kérekas and Ī́bos called “Obā́ne,” and by Europeans “Bonny”. Remarks.- Ṓrupīri is four miles from the capital of Ókulōma. The district of Ókulōma is near Ī́bo, and borders on the sea.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1035. Koelle 1854 : V-C-2 - Ū́dṣo	records: 174	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00081)
+	Classification:
+Niger-Congo, Ijoid, Central Ijo	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ū́dṣọ or Ū́tṣo. Remarks.- Údṣọ is west of Dṣẹ́kīri, also near Dsẹ̄́kīri, also near Dṣẹ̄́bu, where Aku is spoken, and near Bṓbi, situate on a salt lake, to which white men's vessels come.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1036. Koelle 1854 : VI-1 - Nū́pe	records: 284	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00945)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Nū́pe or Nū́pʿe, called “Tagbā” by the Akus. Remarks.- Ẹ́ko is one day's journey from Rába on the Edu·, i.e. Niger.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1037. Koelle 1854 : VI-2 - Kúpa	records: 279	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00944)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Kúpa (i.e. Ẹkā́pu ?). Remarks. - Kū́·gu· is ituated on the River Édu·, i.e. the Niger, seven days' journey below Rába, and four days above Éda. Kúpu is west of Eṣitā́ku, east of Búnu, also near the countries of Kukándṣa or Kakánda, Ṣígma, and Yā́gba.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1038. Koelle 1854 : VI-3 - Eṣitā́ko	records: 298	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00946)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Ébo· is one day's journey from Egga on the Niger. Eṣitā́ko is west of Goā́li, also near Ígala, Gúpa, Ẹ̄́ṣi, Ébāṣi, Ẹ̄́tsu·, and Esā́bo.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1039. Koelle 1854 : VI-4 - Músu	records: 90	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00939)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Músu·. Remarks.- Músu· is west of Fai, also near Bā́ko, Musīdṣíko, Gmā·, Músūgo·, Paígo, Gbárīgo, and Dẹ̄́pi.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1040. Koelle 1854 : VI-5-a - (Goā́li) Gū́gu	records: 265	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00939)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Goā́li, sometimes called Gbā́li. Remarks.- Gū́gu is about four days' journey east of Rába on the the Niger. Goā́li is east of Nū́pe.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1041. Koelle 1854 : VI-5-b - (Goā́li) Ṕū́ka	records: 289	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00939)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Goā́li, sometimes called Gbā́li. Remarks - ʿPū́ka is one day's journey distant from Kabū́ro, and half a day from Íkūa, the Goā́li capital, which the Hausas call “Kúta.” Goā́li capital is situate west of Ádṣēhi, i.e. Hausa; east of Nífe, i.e. Nū́pe; north of Yásgūa.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1042. Koelle 1854 : VI-6 - Bása	records: 290	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00945)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Bása (which together with Ákūya is called “Akándṣa,” or “Kakándṣa,” by the Ígalans.). Remarks. - Kurā́de is about five days' journey north of the Ígala town Éda. Bása is situate on the right banks of the Édu·, i.e. the Niger, below ákūya, i.e. Dzum, and above Ígala.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1043. Koelle 1854 : VI-7 - Ébē	records: 301	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00940)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ébē, called “Agaláti” by the Kámbalis, “Anúpe” by the Bíso·s (i.e. Bárbas) and the Kẹ́ndṣis (i.e. Hausas). Remarks.- Gbólōḥo is situate on the River Mányāra, which cannot be forded even in the dry season, and yet takes its rise only two days' journey higher up, near the town Dṓgo, and empties itself in the Édu·, and fully half a day's journey east of the Édu·, three days from Rába, and two from Búsa. Ébē is west of Kámbāli, east of Bíso·, i.e. Bárba, from which it is separated by the Édu·, i.e. Niger, north of Anupḗri, i.e. Nū́pe or Nū́fe, to which it is subject.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1044. Koelle 1854 : VI-8-a - Opánda	records: 285	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00935)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Opánda, also called Égbīra or Égūra. Remarks.- The town of Égbīra is about seven hours' journey from the Ohímini, and two days from Éda. Opánda is on the left bank of the Ohímini, i.e. the Niger; south of Égu and Ábādṣi, both of which have the same language as Opánda ; north of Ígala, to which it is subject. Also near Ehábẹ and Kúpa, both of which have one and the same language, differing from Opánda.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1045. Koelle 1854 : VI-8-b - (do.) Ī́gu	records: 286	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00935)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- Ī́gu, the Égbīra capital, is situated one mile from Ḗhulọ̄́bu, and half a day's journey south of the town Íbido, on the other side. The position of Égbīra is west of Agḗsi, a different language; east of the Ḗhulọ̄́bu (“white river”), banks, i.e. the Niger; on the banks of which is Kákandṣa north of Ígala and Āgbóto, i.e. Átam, from both of which Égbīra is separated by the Ḗhulṓgi (“blue, black, or dark river”), i.e. Chadda.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1046. Koelle 1854 : VI-9 - Égbīra-Ilī́ma	records: 278	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00935)
+	Classification:
+Niger-Congo, Benue-Congo, Nupoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Égbīra-Hī́ma. Remarks.- Égbīra-Hīma, to be distinguished from “Égbīra-Pā́dẹ” is situate east of Ṓma, north of Ōzózo, south-east of Ū́we, whose language is identical with Ékī. Also near Ápa, Bása, Ékūnu, Ádūgẹ, Ṓko.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1047. Koelle 1854 : VII-A-1 - Búdūma	records: 200	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01621)
+	Classification:
+Afroasiatic, Chadic, Central	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Búdūma, the language of the Dsháde islands. N.B. There is evidently a very important difference between the Bọ́rmu and Búdūma languages; so much so, that, considering the circumstances of my informant, I at first considered the traces of similarity between them as the mere Bọ́rnu colouring which the Búdumā language had assumed in his mind and mouth, and consequently intended to rank both languages among the unclassified. But when I learned from that indefatigable examiner into languages, Mr. Norris of the Foreign Office, who made his comparison of both these languages by means of specimens received from Dr. Barth, the African traveller, that he had been led to believe there was an affinity between them, I thought it better to place them together into one Group. It may, however still be considered a problem, to be solved by future examination, whether the apparent affinity is original, or merely secondary, introduced by the intercourse of the ,Búdūmans with the Bọ́rnuese. If we compare the communication of my young informant with Búdūma specimens from other sources, we shall have a fair opportunity of forming an estimate concerning his power of recollection. It would be astonishing if his communications were quite correct. A1. Búdūma, the language of the Dsháde islands
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1048. Koelle 1854 : VII-A-2-a - (Bọ́rnu) Kā́nurī	records: 309	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (02042)
+	Classification:
+Nilo-Saharan, Saharan, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Kā́nurī, the language of the Bọ́rnu empire, and more particularly of the Gā́zir country. Remarks. Magirā́ri Bágalābē is a good day's journey south of Gā́zir bè́rnī, i.e. Gā́zir capital, situate in a sandy plain, without any mountains in sight. The position of Bọ́rnu is west of Ẃadai, east of Bọ́de and N·gè́zèm, south of Kándin, north of Bā́br and Márgī, north-west of Mándarā. N.B. There is evidently a very important difference between the Bọ́rmu and Búdūma languages; so much so, that, considering the circumstances of my informant, I at first considered the traces of similarity between them as the mere Bọ́rnu colouring which the Búdumā language had assumed in his mind and mouth, and consequently intended to rank both languages among the unclassified. But when I learned from that indefatigable examiner into languages, Mr. Norris of the Foreign Office, who made his comparison of both these languages by means of specimens received from Dr. Barth, the African traveller, that he had been led to believe there was an affinity between them, I thought it better to place them together into one Group. It may, however still be considered a problem, to be solved by future examination, whether the apparent affinity is original, or merely secondary, introduced by the intercourse of the ,Búdūmans with the Bọ́rnuese. If we compare the communication of my young informant with Búdūma specimens from other sources, we shall have a fair opportunity of forming an estimate concerning his power of recollection. It would be astonishing if his communications were quite correct.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1049. Koelle 1854 : VII-A-2-b - (Bọ́rnu) Múniō	records: 275	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (02043)
+	Classification:
+Nilo-Saharan, Saharan, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Múniō, also called Mán·ga. Remarks.- The Múniōs are a tall tribe. Mádè measures six feet three and a-half inches, and says that there are many taller people in his country than himself. Múniō is situate seven days' journey due west of the Dṣā́de, bordering on Bọ́rnu in the east, on Hausa in the west, on Dágara in the north, on Phuláta countries in the south. N.B. There is evidently a very important difference between the Bọ́rmu and Búdūma languages; so much so, that, considering the circumstances of my informant, I at first considered the traces of similarity between them as the mere Bọ́rnu colouring which the Búdumā language had assumed in his mind and mouth, and consequently intended to rank both languages among the unclassified. But when I learned from that indefatigable examiner into languages, Mr. Norris of the Foreign Office, who made his comparison of both these languages by means of specimens received from Dr. Barth, the African traveller, that he had been led to believe there was an affinity between them, I thought it better to place them together into one Group. It may, however still be considered a problem, to be solved by future examination, whether the apparent affinity is original, or merely secondary, introduced by the intercourse of the ,Búdūmans with the Bọ́rnuese. If we compare the communication of my young informant with Búdūma specimens from other sources, we shall have a fair opportunity of forming an estimate concerning his power of recollection. It would be astonishing if his communications were quite correct.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1050. Koelle 1854 : VII-A-2-c - (Bọ́rnu) N·gúrū	records: 272	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (02041)
+	Classification:
+Nilo-Saharan, Saharan, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:N·gúrū. Remarks.- N·gúrū is south-west of Múniō, west of N·gè́zém, north of Lárai, east of Hausa. N.B. There is evidently a very important difference between the Bọ́rmu and Búdūma languages; so much so, that, considering the circumstances of my informant, I at first considered the traces of similarity between them as the mere Bọ́rnu colouring which the Búdumā language had assumed in his mind and mouth, and consequently intended to rank both languages among the unclassified. But when I learned from that indefatigable examiner into languages, Mr. Norris of the Foreign Office, who made his comparison of both these languages by means of specimens received from Dr. Barth, the African traveller, that he had been led to believe there was an affinity between them, I thought it better to place them together into one Group. It may, however still be considered a problem, to be solved by future examination, whether the apparent affinity is original, or merely secondary, introduced by the intercourse of the ,Búdūmans with the Bọ́rnuese. If we compare the communication of my young informant with Búdūma specimens from other sources, we shall have a fair opportunity of forming an estimate concerning his power of recollection. It would be astonishing if his communications were quite correct.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1051. Koelle 1854 : VII-A-2-d - (Bọ́rnu) Kā́nèm	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (02041)
+	Classification:
+Nilo-Saharan, Saharan, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Kà́nèm. Remarks. - Bṓsois about eight miles from Kúgāwa, which the Kā́nuris call N·gúrnu. Kā́nèm is situate situate on the east and north-east shores of the Dṣā́de, which is also called Tsā́de. N.B. There is evidently a very important difference between the Bọ́rmu and Búdūma languages; so much so, that, considering the circumstances of my informant, I at first considered the traces of similarity between them as the mere Bọ́rnu colouring which the Búdumā language had assumed in his mind and mouth, and consequently intended to rank both languages among the unclassified. But when I learned from that indefatigable examiner into languages, Mr. Norris of the Foreign Office, who made his comparison of both these languages by means of specimens received from Dr. Barth, the African traveller, that he had been led to believe there was an affinity between them, I thought it better to place them together into one Group. It may, however still be considered a problem, to be solved by future examination, whether the apparent affinity is original, or merely secondary, introduced by the intercourse of the ,Búdūmans with the Bọ́rnuese. If we compare the communication of my young informant with Búdūma specimens from other sources, we shall have a fair opportunity of forming an estimate concerning his power of recollection. It would be astonishing if his communications were quite correct.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1052. Koelle 1854 : VII-B-1 - Pī́ka	records: 281	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01689)
+	Classification:
+Afroasiatic, Chadic, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Pī́ka, or ʿPī́ka, or Fī́ka. Remarks - Pī́ka is situated south-west of Bọ́rnu, and west of Mándara.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1053. Koelle 1854 : VII-B-2 - Karẹ̄́karẹ	records: 278	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01699)
+	Classification:
+Afroasiatic, Chadic, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Karẹ̄́karẹ, Kárẹkarei. Remarks.- Kárẹkarei is West and south of Bọ́rnu, east of Hausa, and north of Pihíka.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1054. Koelle 1854 : VII-B-3-a - Bóde	records: 244	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01728)
+	Classification:
+Afroasiatic, Chadic, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Bóde of Ābunóno. Remarks.- Bóde is east of Hausa, west of Bọ́rnu, south of Mán·ga. B3. Bode dialects.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1055. Koelle 1854 : VII-B-3-b - Ṇgṓdṣin	records: 292	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01729)
+	Classification:
+Afroasiatic, Chadic, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:N·gṓdṣin. Remarks.- N·gṓdṣin seems to be the name of a town and district and is situated ,west of Bọ́rnu, to which it is subject, east of Kárẹkarei, north of Daúra, south of Gè́zèrè, where the same language is spoken. B3. Bode dialects.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1056. Koelle 1854 : VII-B-3-c - Dṓai	records: 288	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (01730)
+	Classification:
+Afroasiatic, Chadic, Western	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Dṓei. Remarks.- The Bóde district, Dṓei, is west of Bọ́rnu, east of Ṣíla. B3. Bode dialects.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1057. Koelle 1854 : VIII-A-1 - Ekámtulūfu	records: 278	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00126)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Remarks.- From Mbén·gben· one may reach the Ibo country in two days' journey. Ekámtulūfu is situated west of N·kí, south of Údōm, east of Anumū́nūmo, Ń·kōmū, Ńdāmu, all which the Ibas call Átam. There are about thirty Átams in Sierra Leone. ÁTAM LANGUAGES. N.B. All these tribes are called “Átam” in Sierra Leone; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1058. Koelle 1854 : VIII-A-2 - Údom	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-07-09	Web-cal (00126)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2015-06-02
+Supplement fields:
+[DV1] Formes fléchies
+[DV2] Dialecte(s)
+[DV3] Code_Colonne	Com:Ū́dom. Remarks.- Ébīl is seven miles from N·gúte, the Ū́dom capital. Ū́dom is west of Ébēsi, east of Ndḗ, with the same language; north of Ekámtulūfu, with a language closely allied ; south of Ókām. ÁTAM LANGUAGES. N.B. All these tribes are called “Átam” in Sierra Leone; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1059. Koelle 1854 : VIII-A-3 - Mbófōn	records: 270	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00126)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Abánākan·, the capital of Béfōn, is two weeks' journey from Kálalea, Mbófōn is situated west of N·kī́ ; east of n·kōm, with the same language, south of Ńdẹm. átam : All these tribes are called “átam” in Sierra Leone ; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1060. Koelle 1854 : VIII-A-4 - Ḗafen	records: 268	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00126)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - N·gberā́ti, the capital of ḗafen·, is about two weeks' journey from Kálaba. ḗafen· is west of ányān·, east of Ńsāne, in both which about the same language is spoken. Also near Mékī, Mbẹ̄́ or Bábẹ̄, N·kī́ or Bókī, with different languages. átam : All these tribes are called “átam” in Sierra Leone ; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1061. Koelle 1854 : VIII-B-1 - Bása	records: 258	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00911)
+	Classification:
+Niger-Congo, Benue-Congo, Kainji	updated: 2011-04-19
+Com:Remarks. - Bása is east of ánūpe, four days' journey from the Kóāra, and six from Rába. átam : All these tribes are called “átam” in Sierra Leone ; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1062. Koelle 1854 : VIII-B-2 - Kāmúku	records: 277	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00928)
+	Classification:
+Niger-Congo, Benue-Congo, Kainji	updated: 2011-04-19
+Com:called “Dṣínda” by the Hausas, and “Kẹ́ndṣi” by the Nū́pes, and “Mádṣīnda” by the Kámbalis and Básas. átam : All these tribes are called “átam” in Sierra Leone ; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1063. Koelle 1854 : VIII-C-1 - Dṣúku·	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00950)
+	Classification:
+Niger-Congo, Benue-Congo, Jukunoid	updated: 2011-04-19
+Com:called “Kurórōfa” and “Kóāna” by the Bọ́rnuese, Hausas, and Nū́pes ; and “ápā” by the ígalās and íbōs. Remarks -Bī́ōka, the Dṣúku· capital, is three weeks' journey, due east of Pā́nda, which is subject to it, Goods from ígala for Dṣúku· are conveyed along this road. It is also two months from Nụ̄́pe, and near Hausa ; e.g. two weeks' journey from the Hausa town Kulā́pīa. ln Dṣúku· is a large river called “Nu”, flowing down to ígala, and crossed by the ámogbas, i.e. Hausas, when they come to Dṣúku·. The Nu is so large that it cannot be crossed, except in canoes, even in the dry season. Dṣúku· is south-west of Bọ́rnu, and east of Pā́nda. It is one plain of sand, where a person may walk for weeks without seeing a stone. It is subject to Bọ́rnu ; and Mr. Harding says, that in his time, i.e. 1800 to 1810, the Kurórōfa king had to bring an annual tribute to Bọ́rnu of 1000 slaves. Near Dṣúku· are large mountains, on which live the tribes, Márīkẹ, Kántō·, Dṣíbū, Dṣẹ̄́ka, ī́bru, and Dā́kōẹ. The Dṣúkus call the Phū́la “Ābátẹ” i.e. white men. átam : All these tribes are called “átam” in Sierra Leone ; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1064. Koelle 1854 : VIII-C-2 - Érēgba	records: 162	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00961)
+	Classification:
+Niger-Congo, Benue-Congo, Jukunoid	updated: 2011-04-19
+Com:átam : All these tribes are called “átam” in Sierra Leone ; but they themselves do not call their country so.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1065. Koelle 1854 : IX-A-1 - Ísūwu	records: 235	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00528)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - ísūwu is on the coast, about three days' journey from Díwāla, or Cameroons, where nearly the same language is spoken, and is west of Gbā́kuēre. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1066. Koelle 1854 : IX-A-2 - Diwála	records: 231	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00501)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:called by Europeans “Cameroon.” Remarks. - Diwála is west of Bọ, where a different language is spoken, and which separates it from Bākón·kon·, east of Lẹ or Málẹ, i.e. Kálabā. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1067. Koelle 1854 : IX-A-3 - Ōrún·gu	records: 317	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (02318)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Ōrún·gu is west of Mpôn·gue or Mpón·guẹ, which, together with Medúma, has the same language ; east of the Atlantic, the country about Cape Lopez. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1068. Koelle 1854 : IX-A-4-a - Bā́yon·	records: 271	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00718)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Bā́yon· is west of Rúfūm, east of Bā́ketu. Also near Bā́mum, Mū́ba, Mū́tīe, Múndọwo. The Tebāle or Gá:yi, i.e. Phū́la, sometimes make war-expeditions into the Bā́yon· country. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1069. Koelle 1854 : IX-A-4-b - (do.) Pā́ti	records: 258	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00718)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Pā́ti is the Bā́yon· capital, and is a town which cannot be traversed from end to end in one day. It is about one day's journey from the river Nèn, which comes from the Mbúrọn country in the west, and goes to the Lúfūm country, four weeks' journey east of Pā́ti, where it joins the large lake “Liba,” whose end “no man can see,” and whose mud is so sweet that the people considerit a great delicacy: this they obtain by thrusting down long, holIow, bamboosticks, and, after taking them up again, they pull out the mud which was forced into them. Pā́ti, probably a town or district, is situated west of Pálen· and Pákētu, where a different language is spoken, and which are separated from Pā́ti by the river Nèn ; east of Pápak, with a similar language, and Pámum, with a different language; north of Pā́ṛam, with a different language; south of Pā́mban, with a similar language. On his way to the sea, Yọn· passed through the countries Pán·gam, Yán·gam, Ndén·esōa, Lékọn·, Pátọ, Pā́n·ūan, Kón·wan·, áfek or Kálabā, The name “ Bā́yon·” is derived from a warlike and powerful king of the name of “Yon·,” who lived in Pā́ti, the capital of a country of the same name, and it is shared by the following towns and districts, aIl of which speak nearly the same language, Pámbān, Pā́n·gọt, Pā́pak, and Pálumfā. The Bā́yon· understand how to make very handsome mats and bags of grass, variously dyed. AIl the samples brought from Sierra Leone are made by them. They also weave cloth from cotton, which is about a foot in breadth. AlI the Bā́yon· and Rúfūm eat their enemies flesh in time of war. The Lúfūm people, who inhabit part of the shores of Lake Líbā, and to whose king Yọn· was once sent with an embassy to deliver a present consisting of salt, are tall, strong, and warlike, dressing in black monkey-skins, and fighting with swords, spears, and arrows. Near Lúfūm, and also on the shores of the Líbā, is another people called “Kěn·kọb,” only three or four feet high, but very stout, and the most excellent marksmen. They are peaceful, live on the produce of the chase, and are so liberal, that if, e.g., one has killed an elephant, he would give the whole of it away. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1070. Koelle 1854 : IX-A-5 - Kum	records: 270	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00718)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Débā is four days' journey from Fúmbān, the residence of a king who has five thousand wives, and who reigns over Bálẹ, Bábū, Ndṣǒb, Bápa, Bátē, Bán·gọt, Bā́kum, Bándṣọ̄m, Bámbān, Bā́gba, Nṣọ̄́, &c. Bákum is west of Ndǒb, with a different language ; east of Bámum, to which it is subject, and where also a different language is spoken. Also one day's journey from Nṣọ̄́, with a different language ; half a day from Bálẹ, with the same language ; two days from Bábū, with a language like that of Báfut. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1071. Koelle 1854 : IX-A-6 - Bā́gba	records: 275	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00718)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Bánọn· is almost a days' journey from Ńtar, the Bā́gba capital, and three days from the large river Débẹ̄, also called Ríbā, in the Rífōm country. Bā́gba is situated west of Bandṣómbū, with a different language, and of Bán·kumbo, also with a different language ; east of Bā́dṣad, with the same language. It is also one day's journey from Bā́n·kon·, with the same language ; one from Bandṣẹ̄́mbi, with a different language ; two days from Bā́bu, with a different language ; two days from Bā́ko, also with a different language. During his transportation to the sea, Ṣíṣe passed through Bámum, Béṣin·n Mbū́wan, Bā́nyan·, Bándan·, Ntọ̄́ntu, Mbérēkan·, áfū, Kṓan·gban·, Mbéson·, Kálabā. On the river Ríbā, which cornes from Bánsa, and goes to Bambón·go, and is not fordable on foot even in the dry season, there is a small tribe of people, only from three to five feet in height, called “Bétsan·,” who are most successful hunters. They get their cloth from the Nsṓr-trē by beating it flat and then drying it. They have long beards, and the hair of their head is about as long as a man's hand. They are a very peaceable people, never making war, and live entirely on the produce of the chase, sometimes exchanging their venison for millet, &c., in the Rúfūm country. They do not cultivate the ground, but are constantly on the move, changing their abode every six or twelve months. Their houses can be easily built, taken down, and even carried along with them, consisting as they do, of the bark of a large tree. The Bétsan· hunt monkeys, baboons, wild hogs, deer, elephants, &c. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1072. Koelle 1854 : IX-A-7 - Bā́lu	records: 263	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00718)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Bā́lu is west of Entsí or Bántsi, east of Ezọ́ or Bázọ ; also near Bántẹ̄m, Bán·gur, Bánda, Bā́ya, Bámo. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1073. Koelle 1854 : IX-A-8 - Bámom	records: 266	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00716)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Tī́apōn is two hours' journey from the river Mẹ̄́pōan, whose water is “red like fire,” and which is fordable on foot in the dry season. It comes from Bándṣōm, and goes to Mfút, after having, in Mbḗn·kōa, joined the much larger Débā (i.q. Riba), which comes from Ndọ́b, and in the midst of which the red water of the Mẹ̄́pōan is seen unmixed for a great distance. After Mfút the Débā goes to Rífūm, a great war country, and then to the Kon·go country ( ?), Bámom is west of Bā́kum, which is subject to it, and east of Pā́pu, which it also governs. On his way to the sea Nyā́mse passed through Bárīwa, Ntọ́n·tu, Mbírēkam, Bán·ūa, Kón·gūan·, Kálabā. This occupied four years, but the journey may perhaps he made in two months. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1074. Koelle 1854 : IX-A-9 - N·góāla	records: 269	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00717)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - The village Ndọ́b, or Pándọb, is about three hours' journey from Tsóruntọ, the n·góāla capital, and four or five from the large and wild river “Nīra,” which is not fordable on foot even in the dry season. It runs from west to east, coming from Pā́pīaḥ and going to Ḿbara, of an average depth of four fathoms. (I doubted the statement concerning this great depth, but my informant was quite positive, and said in many parts it was much deeper, in sorne parts as deep as ten fathoms). n·góāla is west of Ḿbara, or properly, as they call themselves, of Mbúgon, speaking a different language ; east of Pā́pẹ, i. e. Pā́pīaḥ ; north of Pési, with a different language ; south of áṛa, also with a different language. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1075. Koelle 1854 : IX-A-10 - Mōménya	records: 252	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00715)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Mṓman·ka is two days' journey from the river “Rība,” not fordable on foot even in the dry season, and flowing from Moménya to Bárēfo. Baménya is situate west of Mórēfo, or Bárēfo, speaking a different language ; east of Mótē, or Bátē. Also one day's journey from Mómum, with a different language ; and two to three days from Móba, i.e. Pā́pīaḥ, likewise with a different language. In coming to the sea Nyā́mse passed through Múfōlan·, Bán·gam, Mbḗ or Bámbē, Mómbēon·kū́a, Mōkún·gban·, Niwára, i.e. Cameroons. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1076. Koelle 1854 : IX-A-11 - Pā́pīaḥ	records: 253	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00711)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Pā́pīaḥ is west of Pā́mom, who call it Pā́pa, east of Pā́ṛam. Also one days' journey from n·gā́rẹ and Pā́n·kande or Pā́nde, with a similar language ; two days from Pāmínyām, with a different language. On his way to the sea Mṓnde passed through Pénin, Pámbẹ, Kón·gūan·, Kálabā. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1077. Koelle 1854 : IX-A-12 - Pā́ṛam	records: 265	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00690)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Bépot, the Pā́ṛam capital, is an hours' journey from the river “Nen·,” coming from the Kọb country in the east (where very fine blue baft and good bread is made, and whence they get mirrors) and flowing down to Pényin in the west. Its width in some places is such that the opposite banks cannot be seen ; and where it is narrowest, it is so wide that a man on the opposite side appears as a child. It is in some places twenty fathoms deep, in others only four, inundating large tracts of land in the rainy season, and containing abundance of fish, alligators, and other large monsters, called nyámze (i.e. water-animal) and ndzū́enze. Pā́ṛam is situated west of Pā́pīak, near to which is Pā́mom, east of Pénām and Pẹ́ndām, with a different but cognate language; north of Pátī, also with a different but cognate language ; south of n·gọ̄́lān, with a different language. On his way to the sea Nyámsi passed Pán·gan·, Pándam, and several other countries whose names he does not know, átam, Kón·gūan·, Kálabā. ln his country the men only wear cloth, and the women go entirely naked. Two years before he was kidnapped the T£ebāle had invaded his country and committed the most fearful atrocities ; e.g. they took children by their legs and dashed their brains out against trees ; ripped up the pregnant women ; caught four hundred children of the king's family and the families of other great men, made a large fire, and burnt them alive ; pulled out the eyes of people, and then let them go, &c. He added to this description, “black man bad for true ; white man no sappe (i.e. knows) how bad black man.” Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1078. Koelle 1854 : IX-B-1 - N·gọ́tẹn·	records: 267	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00513)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - n·gọ́tẹn· is west of Bégiọ̄n·, east of Ẹhála, i.e. Cameroon ; also near Ń:koād, Ẹkán·āte, Man·gọ́lọb, Mánsōg, Nṣẹ́lte, Bón·ken·. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1079. Koelle 1854 : IX-B-2 - Mélon·	records: 267	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00510)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks. - Mélon is situate west of Bón·ken·, east of Ń:kā and n·hā́lemōẹ. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1080. Koelle 1854 : IX-B-3 - N·hā́lemōẹ	records: 231	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00513)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Bā́nin·gar lies in the Ndṣúmpan· district, about a day's journey from Móāṣíba, the n·hā́lemōẹ capital. On his way to the sea, Edī́a saw the countries n·kọ̄́se, Balön·gūe, Eṣúwe, i.e. Cameroons. He thinks this to be a journey of about three months. n·hā́lemōẹ is situated west of Ń:kōat, with the same language ; east of Móanehat, also with the same language. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1081. Koelle 1854 : IX-B-4 - Bāséke	records: 263	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00545)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Madúkuman·gū́n· is situated on the river Mū́ni, half-a-day's journey from the sea, Bāséke is west of Mbī́ṣọ, east of Mpṓn·gūẹ. Mókō : the natives of the following tribes are called Mókōs in Sierra Leone ; hence we retain this appellation for the whole family of their languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1082. Koelle 1854 : X-A-1 - Kabénda	records: 277	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00286)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Kabénda is near Lémbo or Malémbo,where the same language is spoken. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1083. Koelle 1854 : X-A-2 - Mimbóma	records: 269	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00286)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Mbā́ntsawū́n·gu is situate one day's journey from the river Ndzā́de, i.e. Kon·gṓ river, and is five days from the sea, Mimbóma is west of Sū́nde. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1084. Koelle 1854 : X-A-3 - Musentā́ndu	records: 266	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00286)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Kílūa is about one month's journey from the river Ndzā́de, and about three mon the from the sea. Musentā́ndu is west of Mākúta and Mbī́lu,which have the same language ; east of Mukiwā́n·gila, also with the same language. It is one day's journey from Muntū́mba, with the same language ; one month from Ndṣū́ndu, with a different language ; one month from Lumuẹ̄́nu, with the same language ; and one month from Masā́n·gi. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1085. Koelle 1854 : X-A-4 - Mbā́mba	records: 241	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00571)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Mukón·gomon·gūe consists, as aIl other towns of the country, of only two rows of houses, forming a single road, but it is of the length of a day's journey. It lies three miles from the river Bámbāye, which can be crossed on foot even in the rainy season, and is nine hours' journey from Bandṣúmbo, the Bambā́mba capital. Babā́mba is situated west of Ṣā́kẹ, where the people (i.e. Shagga?) wear their hair so long that a stranger might be frightened, supposing at a distance “they are baboons ;” east of Mpā́u ; also near Bākẹ́lẹ, Baū́mbo, Wuṣḗba, Ndámbōma, Būn·kọ́mo. “By walking one month's journey towards the sea, Bātẹ́kẹ is reached ; and by walking five days towards the east, Būmbḗtẹ is reached. “ Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1086. Koelle 1854 : X-A-5 - Kanyī́ka	records: 208	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00378)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - The Kásāndṣ country is one month's journey from Kanyī́ka, and Mámunyikáyīnt is five days from the river Lúālap, which can only be crossed in canoes even in the dry season. Kanyī́ka is one day's journey from Múnyimukā́nt, and four days from Kómusẹ̄n·. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1087. Koelle 1854 : X-A-6 - Ntẹ́ṛe	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00592)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Lésēri is one day's journey from the river Lékūri, which can onIy be crossed in canoes even in the dry season, and five days from Ōṣíṛa, the Batẹ́ke capital. Ntẹ́ṛe is situate west of Bábān·gi, east of Bantsā́ye ; also near, Bāndṣénēn·a, Balā́le, Bāyága, Bākú:yi, Bāntsintsére, Bākúta, Bāndū́mbo. Ndṣū́mu thinks that it is six weeks' journey from his country to the sea, in the journey to which the following places are passed : 1. Bāndṣénēn·a, 2. Bāntsā́ye, 3. Bākú:yi, 4. Bāyọ́mbẹ, and 5. Bāvíli. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1088. Koelle 1854 : X-A-7 - Mutsā́ya	records: 266	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00566)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Mólẹ̄p is two and a-half weeks' journey west of Bātẹ́kẹ and six weeks from the sea. Mutsā́ya is west of Mbómo or Babómo, and Bātẹ́kẹ east of Batsā́n·ga. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1089. Koelle 1854 : X-B-1 - Babúma	records: 242	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00568)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:called “Mandón·gọ” by the Báfūo, i. e. Kon·gṓs. Remarks - Gílībe is one and a-half days' journey from the river Mobā́le, scarcely fordable on foot in the dry season, and uniting with the Nyā́le in the Máṣē country. Babúma is considered by Dṣī́n·go to be six months' journey from the sea, and situated west of Bādṣíndṣag and Babā́le, east of Bayā́mba ; aIso near Pā́nn·a, n·gū́ana, n·gandṣā́ga, Tā́n·ge, Ndṣā́e, and Babī́am. In coming to the sea he passed through, 1. Tā́n·ge, with a language allied to Mobúma ; 2. Mpọ̄́ni, where they speak similarly to the Bákūo, i.e., Kon·gṓs ; 3. Bāyága ; 4. Bákui, where he crossed the Nyā́le, which separates Bákui and Bayọ́mbe ; 5. Bayọ́mbe ; 6. Bapfī́li, on the coast. Thrē months' journey to the east of Babúma is the country n·gábadṣúmu, where the people clothe themselves in black monkey-skins. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1090. Koelle 1854 : X-B-2 - Būmbẹ́tẹ	records: 259	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00550)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - ā́kūáṛa, the Būmbẹ́tẹ capital is situated on the river Lbā́n·e, which can only be crossed in canoes even in the dry season, comes from the east, and is called Nyā́li in Bātẹ́ṛ. Būmbẹ́tẹ is west of Bū́mbi, east of Bambámba. Also ten days' journey from Ndámbom, with the same language ; one month from Bātẹ́ṛẹ ; three weeks from Lēṣḗwe. ṓkiri also said, that at a great distance from Būmbẹ́tẹ there is a people called “Min·gā́ndo,” who are yellow from the navel upwards and black downwards, and have each a tail of about two inches in length. They wear the skins of animaIs for clothing.This account of ṓkiri, as it stands, seems to be fabulous ; but as similar accounts have been received from different quarters, some suppose that it may have had its origin in a real anomalous protuberance, improperly called “ tail.” Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1091. Koelle 1854 : X-B-3 - Kásāndṣ	records: 275	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00296)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:by the Sọ̄́n·gos and n·gṓlas called “Kásāndṣi”. Remarks - Yōn·k is two days' journey from Kílọ̄mp, the Kásāndṣ capital, and four hours from the river Lui, a tributary of the Koā́n·go. It comes from the Nṓn·gu country, and flows down to Họ̄l. Kásāndṣ is west of Sīndṣ and Lū́nda, i.e. Rū́únda, with different languages ; east of Mbọ̄́ndo, also speaking a different language. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1092. Koelle 1854 : X-B-4 - Nyọ́mbe	records: 275	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00290)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Bayọ́mbe, or Mayọ́mbe. Remarks - Basedṣṓntse is nearly a days' journey from the river Loā́n·gu, and two days from the sea ; and Basekasā́de is two days' journey from Basedṣṓntse, and three days from the sea. Bayọ́mbe is west of Tsū́nde, east of Bisekón·go. Also one day's journey from Basekúīmba, one day from Basenā́ma, two days from Basetsā́n·ga, one day from Mbā́mba, three days from Bavī́ri. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1093. Koelle 1854 : X-B-5 - Basū́nde	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (02201)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Musū́nde, or Asū́nde, or Basū́nde. Remarks - Kaímātúba is six days' journey from the sea, Basū́nde is situated west of Mundọ́n·go, east of Bambóma. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1094. Koelle 1854 : X-C-1 - N·gṓla	records: 274	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00292)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:(commonly spelt “An·gola”). Remarks - n·gṓn·go is situated on the banks of the Ōhā́ba, a tributary of the Koā́n·go. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1095. Koelle 1854 : X-C-2 - Pan·gẹ̄́la	records: 277	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00455)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:(wrongly spelt Benguela). Remarks - Wódṣimbū́mba is one and a-half day's journey from the sea, Pan·gẹ̄́la is west of Balū́ndo east of Lū́mbẹ and Lambọ́ọn·go ; also near Katumbẹ̄́la and Vī́ye. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1096. Koelle 1854 : X-C-3 - Lubálo	records: 266	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00291)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Mulubálo, or Nalubálo. Remarks - The Lubálo understand the Kisā́ma. Mulukála is one week's journey from the river Kōánzā, and two weeks from the sea, Mulubálo is west of Mukibála, east of Lōā́nda : also near Musẹ̄́ndẹ and Munẹ̄́n·ka. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1097. Koelle 1854 : X-C-4 - Rū́nda	records: 206	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00370)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Rū́nda, also called “Múlōa” or “Lúōnda” by the Kásā·ṣ, and “Kambúnda” by the Sọ̄́n·gos and n·gṓlas. Remarks - This nation is also called Mántiāf, i.e. kings. Mṓakārfub is situated on the river Yā́mbēṣ, which empties itself into the river Rọ̄́ni, on which canoes are used. The Rọ̄́ni empties itself into the lake of river “ī́vis”, which is so deep that its bottom cannot be seen ; and on the opposite shores of which the Kon·gṓ Námalāṣ live, who bore their noses through, and eat human flesh in time of war, Rū́únda is west of Kumátāmp, whence they get hard, black salt ; east of Kon·gṓ Námalāṣ ; also near Múnikányik, Káyēmúkor, Múnikanḗdṣin, and Mútōmúkor. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1098. Koelle 1854 : X-C-5 - Sọ̄́n·go	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00293)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Bópūnt is six days' journey from the sea. Sọ̄́n·go is west of Kamb£unda, east of Mbā́ka, north of Rúbọ̄l, and south of Kisā́ma. Musẹ̄́wo also informed me, that natives often go over from Benguela to Mozambique, which takes them three months ; but that white people cannot go, because there is so much sand on the way that it reaches up to the knē in the dry season. The road passes through a large country, inhabited by a dwarfish people, not exceeding four feet in height, who are never bought by the Portuguese,on account of their short stature. They possess much cattle, of which they often bring large numbers to Benguela for sale, at one dollar each. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1099. Koelle 1854 : X-C-6 - Kisā́ma	records: 277	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00294)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Modṣī́ndṣi is situated on the Kōánzā, andfour weeks' journey from the sea. Kisā́ma is west of Lubọ̄́lo ; east of Kōánzā, a country on the river Kōánzā ; north of Sọ̄́n·go. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1100. Koelle 1854 : XI-1 - Mū́ntu	records: 232	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00444)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:in pl. Véiāo, by foreigners called Adṣọ́ua or Adṣā́wa. This seems to he the word for” man,” and my informant was probably mistaken in giving it to me as the proper name of the tribe. Remarks - Véiāo is the name of the inhabitants of the Kúyāo country, which is situated two months' journey to the west of Masámbik. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1101. Koelle 1854 : XI-2 - Kírīman	records: 272	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00422)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1102. Koelle 1854 : XI-3 - Márāwi	records: 264	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00413)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Márāwi is west of Adṣā́wa or Kúyāo, and north of Man·gū́lu. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1103. Koelle 1854 : XI-4 - Mẹ̄́to	records: 241	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00429)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Mẹ̄́to is perhaps north-west from Masámbik. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1104. Koelle 1854 : XI-5 - Mātátān	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00429)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Mātátān is west of the sea, opposite the island of “Omhíbit,” called “Masámbik” by the Portuguese, who possess it, and east of Kúran. Nọ̄́rūbo is two days'journey from the island of Masámbik, where the same language is spoken by the natives. Mātā́tān is aIso spoken in Makṓa, Sún·kūlu, Ōlún·gwu, and Tọkóma. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1105. Koelle 1854 : XI-6 - Nyámbān	records: 270	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00480)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Nyámavilḗni is about an hour's journey from the sea, Nyámbān is west of the sea, east of Wūn·gúnu or Mān·gúnu, where a different language is spoken. Kon·gó n·gṓla languages, i.e. languages spoken in the countries Kon·gṓ and n·gṓla (An·gola), and in the countries farther inland, the inhabitants of aIl of which are called Kon·gṓ people in Sierra Leone.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1106. Koelle 1854 : XII-A-a-1 - Wólof	records: 288	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00059)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2011-04-19
+Com:by Europeans called Jolof, which, however, is merely a Wolof district. Remarks - Ndṣọ̄́dọ lies in the Sā́lum district, and is two days'journey from Gorē.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1107. Koelle 1854 : XII-A-a-3 - Gadṣā́ga	records: 286	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01533)
+	Classification:
+Niger-Congo, Mande, Western	updated: 2011-04-19
+Com:Remarks. - Gadṣā́ga is one of the six tribes who call themselves, and are called by others, the Serẹḥúlẹ nation, i.e., the nation of white people. (On maps the Dame is generally spelt Serawōli). They have this name, not on account of their complexion, for they are jet black, but, as Bṓakari informed me, on account of the honesty and integrity of their character and dealings, in which they equal the white race. The other Serẹḥúlẹ districts, besides Gadṣā́ga, are Gídemāṛa, Ḥanyā́ga, Dṣā́fūnu, Háīrẹ, and Gan·gā́ri, in aIl of which the same language is spoken, with only slight variations. Gadṣā́ga itself is situated west of Lọ̄́go, east of Futa Tọ́rọ:, south of Sā́hel, north of Búndu.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1108. Koelle 1854 : XII-A-a-4 - Gúra	records: 143	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00071)
+	Classification:
+Niger-Congo, Gola, 	updated: 2011-04-19
+Com:by neighbouring tribes, e.g. the Veis, called “Gṓla”.
+[Add source] [Add source]
+[Show field] com	Reference: 1109. Koelle 1854 : XII-A-b-1 - Bányūn	records: 228	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00039)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2011-04-19
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1110. Koelle 1854 : XII-A-b-2 - Nálu	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00049)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2011-04-19
+Com:Remarks - Kākúndom is four days' journey south of the Gambia, Nálu is west of Lándōma, east of the sea and the Bága islands (Bénār, Kátāgọ, Dṣalōgúndṣo, Kéfẹn), and south of Yọ̄́la.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1111. Koelle 1854 : XII-A-b-3 - Bulánda	records: 273	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01016)
+	Classification:
+Niger-Congo, Atlantic, Bak	updated: 2011-04-19
+Com:Remarks. - Nyṓmi is situated on the river Kerā́m, i.e. Gambia, Bulánda is south-east of Buráma, west of Biā́fada ; also near Gnār, Gesā́sn, Genyẹ̄́nge, Psọ̄́fa, Gesā́mu, Bdḗr.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1112. Koelle 1854 : XII-A-b-4 - Límba	records: 277	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00063)
+	Classification:
+Niger-Congo, Limba, 	updated: 2011-04-19
+Com:Remarks. - Wán·gūfo is the Límba capital, and three day' journey from Sierra Leone. Límba is situated west of Sāfróko, speaking a different but cognate language, east of Tímne, and south of Bisósō, i.e. Sóso.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1113. Koelle 1854 : XII-A-b-5 - Lándōma	records: 284	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00076)
+	Classification:
+Niger-Congo, Mel, Northern	updated: 2011-04-19
+Com:Remarks. - Wā́karīa is four miles from Dégbōṛe, the Lándōma capital. The Lándōma is the language spoken in the country of Kákānde, which the Europeans call Rio Nunez, and which is situated to the west of Fúta-Dṣálu, east of Nálu, north of the Rio Pongas-Sóso, south of Kókōli, where likewise Lándōma is spoken.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1114. Koelle 1854 : XII-B-1 - Asánte	records: 267	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01111)
+	Classification:
+Niger-Congo, Kwa, Nyo	updated: 2011-04-19
+Com:or Ṣānte. Remarks. - Inṣíta is one day's journey east of Kumā́se (Cōmassie) ; Aṣánte is west of bunu, where a different language is spoken; east of Dṣiā́man. It is separated from the sea by Dámpon· and Akuā́pim, or Kuā́pim, both subject to Aṣánte, and speaking the same language, which language is also spoken in Fánti.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1115. Koelle 1854 : XII-B-2 - Bárba	records: 295	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01323)
+	Classification:
+Niger-Congo, Gur, Bariba	updated: 2011-04-19
+Com:Remarks - The town of Kṓraku is three days' journey from Nī́ki, the Barba capital, and four days west from Búsa on the Kóāra. Bárba, which, if I recollect rightly, is called Bórgū by the Hausas, is situated north-east of Yórūba, south-west of Kámbāli, and west of Túgba.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1116. Koelle 1854 : XII-B-3 - Bóko	records: 282	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01467)
+	Classification:
+Niger-Congo, Mande, Eastern	updated: 2011-04-19
+Com:Remarks - Káiōma is five days' journey from Rába, four from Búsa, and six from Nī́ki, the Bárba capital. The country of Bóko is subject to Bárba, and extends north-east as far as Búsa on the Kóāra, which is its chief town.
+[Add source] [Add source]
+[Show field] com	Reference: 1117. Koelle 1854 : XII-C-1 - Kándin	records: 328	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01553)
+	Classification:
+Afroasiatic, Berber, Tamasheq	updated: 2011-04-19
+[Add source] [Add source]
+[Show field] com	Reference: 1118. Koelle 1854 : XII-C-2 - Tumbúktu	records: 324	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (02052)
+	Classification:
+Varia, Songhai, Southern	updated: 2011-04-19
+[Add source] [Add source]
+[Show field] com	Reference: 1119. Koelle 1854 : XII-C-3 - Mándara	records: 172	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01627)
+	Classification:
+Afroasiatic, Chadic, Central	updated: 2011-04-19
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1120. Koelle 1854 : XII-C-4 - Bā́grmi	records: 239	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01893)
+	Classification:
+Nilo-Saharan, Central Sudanic, SBB	updated: 2011-04-19
+Com:Remarks - Bā́grmi is near Pítr and Wádai, and one week's journey from Darfur.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1121. Koelle 1854 : XII-C-5-a - (Họ́usa) Káno	records: 289	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01684)
+	Classification:
+Afroasiatic, Chadic, Western	updated: 2011-04-19
+Com:Remarks - Họ́usa is called “áfūno” by the Bọ́rnus, “Hā́bēdṣo” by the Phū́la, “Kẹ́ndṣi” by the Nū́pes. Hā́bu says that the Họ́usa population of Káno exceeds the Phū́la population in number, but the Họ́usas who have learnt to speak the Púlo language are more numerous than those who have not. He himself speaks Púlo a little.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1122. Koelle 1854 : XII-C-5-b - (Họ́usa) Kádzīna	records: 284	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (01684)
+	Classification:
+Afroasiatic, Chadic, Western	updated: 2011-04-19
+Com:(spoken in Bè́rni Kádzīna, or Bè́rni n·kádzīna) Remarks - Bè́rni Kádzīna is one day's journey south of Gṓbur, live days north of Káno, where, however, he has never bēn.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1123. Koelle 1854 : XII-C-6-a - (Púlō) Tímbo	records: 282	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00057)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2011-04-19
+Com:i.e. the language of the ʼPúlbē (i.e. Fúlbē) or ʼPū́Ia (i.e. Phū́la, Fū́la), is, by the Hausas called Fúlādṣi, and in plural Fúlāni, and by the Bọ́rnuese Fuláta. [Púlō] as spoken in Futa-Dṣálu. Remarks - Mōhámmadu says that the same, or nearly the same language, is also spoken by the Fúlbē in Sḗgo, Masina, Dṣẹ́nẹ, Tumbúktu, Búrē, Búndū, Fúta Tórō·, etc.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1124. Koelle 1854 : XII-C-6-b - (Púlō) Sā́lum	records: 282	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00058)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2011-04-19
+Com:i.e. the language of the ʼPúlbē (i.e. Fúlbē) or ʼPū́Ia (i.e. Phū́la, Fū́la), is, by the Hausas called Fúlādṣi, and in plural Fúlāni, and by the Bọ́rnuese Fuláta. Remarks - Gányẹg is two days' journey east of Gámbī, i.e. Bathurst on “St. Mary's Isle”. Sā́lum, which is subject to Bā́Ie, is west of Dṣẹ́do, i.e. Dṣólof, east of Ṣīn, north of Bā́di, and south of Báōl. Sā́mba says that the same lauguage is also spoken by the Fúlbē in Dṣólof, Ṣīn. Báōl, Bā́di, Fúta Tórō·, and Kádṣọ̄r.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1125. Koelle 1854 : XII-C-6-c - (Púlō) Gṓbūru	records: 233	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00051)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2011-04-19
+Com:i.e. the language of the ʼPúlbē (i.e. Fúlbē) or ʼPū́Ia (i.e. Phū́la, Fū́la), is, by the Hausas called Fúlādṣi, and in plural Fúlāni, and by the Bọ́rnuese Fuláta.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1126. Koelle 1854 : XII-C-6-d - (Púlō) Káno	records: 293	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00051)
+	Classification:
+Niger-Congo, Atlantic, North	updated: 2011-04-19
+Com:i.e. the language of the ʼPúlbē (i.e. Fúlbē) or ʼPū́Ia (i.e. Phū́la, Fū́la), is, by the Hausas called Fúlādṣi, and in plural Fúlāni, and by the Bọ́rnuese Fuláta. Remarks - ā́damu gave me the following particulars respecting Káno. The city has the following gates : 1. Kṓfar Wámbai, 2. Kṓfar Názarāwa, 3. Kṓfar Mā́ta, 4. Kṓfar Gándū, 5. Kṓfar Nalsa, 6. Kṓfar Āgúndi, 7. Kṓfar Gadún·kāya, 8. Kṓfar Kā́būga, 9. Kṓfar Wóika, 10. Kṓfar Adā́ma, 11. Kṓfar Lū́a, 12. Kṓfar Basū́gie, 13. Kṓfar Dūkā́wīa, and 14. Kṓfar Lẹ̄́mo. Káno is situated in a large sandy plain with two isolated mountains, viz. the “Dā́la” and the “Gólondūse”, about one hour's journey to the north-west of the town. Within the town is a large natron-containing lake (i. e. n·gása, plural gáse) called “Dṣákāra”, of about three miles in diameter ; so that, e.g., houses, but not men, are visible on the opposite shore. The lake contains no fish, but alligators ; and is three and a-half fathoms deep in the middle. Káno was wrested from the Hausas by the Fúlbē already under Fṓdīe, and now forms the residence of a Púlō governor, appointed from Sokoto. Particulars concerning the Phū́la, from the same : Púlō, in plural Fúlbē (perhaps with an additional form “Fū́la,” or rather “Phū́la”, or “Phū́la”), is properly an adjective, meaning “yellow”, “brown”, this being the complexion of the real Fúlbē or Phū́la ; hence the name “Phū́la” is in reality an appellative which has passed into a proper noun. The original home of the Fúlbē, as ā́damu learnt from another old Púlō in Freetown, was in Sílibāwa, near Fúta Tórō·, whose inhabitants are called Torón·ka, and were they had been often molested by Kafirs. To escape this molestation they went gradually towards the east ; in the capacity of Nomadic shepherds, tīl they arrived in Hausa. This seems to have happened in the eighteenth century of the Christian era. After they had been tending their cattle a long time in those forests and grassfields, without towns, and subsisting simply on the produce of their herds, one of their priests of the name of “Fṓdīe” had an apparition of the prophet Muhammad, which was destined to form a most signal epoch in the history of the Phū́la, and, indeed, in the history of the whole of Central and Western Africa. In this apparition Fṓdīe was informed that the whole of that beautiful country around them, with aIl its populous towns and countless villages, belonged to the believers in the prophet, to wit, the Phū́la ; and that it was Fṓdīe's divine commission, with the help of the faithful, to wrest aIl those flowery plains, those fruitful hills and lovely vallies, from the hand of the Kafir, and then to bring all the Kafirs into subjection to the Islam ; and to devote to the sword every one who refused to believe. Almost beside himself with enthusiasm, and burning with fanaticism, Fṓdīe summoned the believing Fúlbē from every country, to the very coast of the Atlantic, to rally round his banner, and to fight with him the battles of the prophet for the subjugation of aIl the Kafir tribes of Africa to the religion of God and his prophet. And, like an electric shock, this message of Fṓdīe pervaded all the lands where the Phū́la were sojourning, and with a magical power converted the shepherds into warriors. Soon Fṓdīe saw himself surrounded with an army convinced of its own invincibility and thirsting for the battle. Thus commenced, at the beginning of the present century, when in France Napoleon was preparing to shake Europe, those extraordinary Púlō movements in Central Africa, which, though unrecorded on the pages of our usual “Universal Histories”, are yet written in streams of blood on the pages of that real Universal History of our race, in which every human action records itself. On the spot where Fṓdīe had his apparition, he afterwards built the town Sókoto, which is now the great centre of Púlō power in Africa. There is also a saying, that when Muhammad came from Mecca on his camel, invisible of course, in order to appear to Fṓdīe, he halted on the mountain Dā́la, near Káno, and there performed his prayers. Now on the top of the Dā́Ia there is a rock, and in that rock certain cavities, and these cavities are the impress of the knees of Muhammad's camel, when he alighted, of the calabash which he used for the usual washing before prayer, and of Muhammad's own knees, hands, and forehead, as he prostrated himself in prayer to God. But whoever has doubts on this point had better go and examine for himself.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1127. Koelle 1854 : XII-D-1 - Yála	records: 278	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00870)
+	Classification:
+Niger-Congo, Benue-Congo, Idomoid	updated: 2011-04-19
+Com:called “Ọ́la” by the Ọ́kām. Remarks -Yála lies between ī́bō and ígala ; also near Idṓma, ṓkere, ídūn·, Ọ́kọ̄n·, i.e. ókām.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1128. Koelle 1854 : XII-E-1 - Ánān·	records: 296	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00774)
+	Classification:
+Niger-Congo, Benue-Congo, Cross River	updated: 2011-04-19
+Com:by Europeans called “Kálabā”. Remarks - n·gū́od, the capital of ánān·, is situated four days'journey from the Atlantic. ánān· is to the west of Obā́ne. The people who are called Kálabā in Sierra Leone, and aIl of whom speak nearly the same language, came from the following districts or countries : ánān·, Bī́e or Bíbīe, n·kū́o, ṓkūa, ékōe, and éfik.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1129. Koelle 1854 : XII-E-2 - Dṣā́rāwa	records: 270	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00137)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:by the Bọ́rnuese and others called “Nyam-nyám”, i.e. cannibals. Remarks - Gárāka, the Dṣā́rāwa capital, is three days'journey from Bọ́uṣi, where the Púlō “Yā́kūba” resides, to whom Dṣā́rāwa is tributary. Dṣā́rāwa is west of Babárbāre, i.e. Bọ́rnu, and east of Tsọ́utsọu.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1130. Koelle 1854 : XII-E-3 - Kóro	records: 273	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00997)
+	Classification:
+Niger-Congo, Benue-Congo, Plateau	updated: 2011-04-19
+Com:Remarks - Kóro is west of Potā́ki and Lā́pīa, south-east of Adúma, south of n·gṓadādṣé, north of n·gṓa Kóturkō. Also four days'journey from Basa, two days from Máda, four days from Gbā́li, and one week from Nū́pe ; from ábēbére, i.e. Hausa, one week, and, e.g., from Káno two weeks, and three weeks from Mándara.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1131. Koelle 1854 : XII-E-4 - Hām	records: 261	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00991)
+	Classification:
+Niger-Congo, Benue-Congo, Plateau	updated: 2011-04-19
+Com:or Dṣáhām, or Fúham, called “Dṣā́ba” by the Paras, i.e. Hausas. Remarks - Ṛídṣāl is nearly one day's journey from a long range of mountains (dṣọ́dṣōli, i.e. mountain ; tsēt, i.e. hill). Ham is situated east of Kóro ; also one day's journey from Fúkoi·, two days from Gbali, four days from Para, i.e. Hausa, two days from Fai, and one day from Fún·gō. The Hāms call the Phū́la “Fato”, and are stiled by them “Kā́fīri”.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1132. Koelle 1854 : XII-E-5 - Akurā́kura	records: 259	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00814)
+	Classification:
+Niger-Congo, Benue-Congo, Cross River	updated: 2011-04-19
+Com:Remarks - Agurā́gọr is situated on the river Oíọn·o, i.e. Kálabā. Akurā́kura is west of ábīri, where adifferent language is spoken ; east of ā́fīa, where they speak ī́bō.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1133. Koelle 1854 : XII-E-6 - Ọ́kām	records: 276	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00810)
+	Classification:
+Niger-Congo, Benue-Congo, Cross River	updated: 2011-04-19
+Com:Remarks - Ọ́kām is situated west of átām, as the Ọ́kāms calI Ekámtulūfu and some other neighbouring countries ; east of áfīa, and Ōdṣḗnye ; also near Īdṣán·āwur, Usṓbo, ī́terága, óla, and Ogbṓdon.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1134. Koelle 1854 : XII-E-7 - Yásgūa	records: 283	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00999)
+	Classification:
+Niger-Congo, Benue-Congo, Plateau	updated: 2011-04-19
+Com:Remarks - Ndúro is seven days' journey from Rába. Yásgūa is east of Goā́li, south-west of óza, i.e. Hausa ; also near Kámbāli and Nū́pe.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1135. Koelle 1854 : XII-E-8 - N·kī́	records: 259	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00758)
+	Classification:
+Niger-Congo, Benue-Congo, Cross River	updated: 2011-04-19
+Com:Remarks - n·kī́ is east of Ekámtulūfu, west of Bṓbi, where the same language is spoken, also west of B$o$obi, which has a different language ; north of Mámbā ; south of Bénēṛe, where aIso n·kī́ is spoken.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1136. Koelle 1854 : XII-E-9 - Kámbāli	records: 289	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00924)
+	Classification:
+Niger-Congo, Benue-Congo, Kainji	updated: 2011-04-19
+Com:Remarks - Magọ́uāta is two days' journey from Rába on the Koā́ra, Kámbālis is west of Gbā́n·ki, east of Tágba ; aIso near Goā́li, Kurárāfa, Bárāba, and Bā́sa.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1137. Koelle 1854 : XII-E-10 - Alẹ́ge	records: 248	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00755)
+	Classification:
+Niger-Congo, Benue-Congo, Cross River	updated: 2011-04-19
+Com:Remarks - Alẹ́ge is four days' journey from Obā́ne ; west of Mán·ga, with a different language ; east of Alán·kūe, also with a different language.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1138. Koelle 1854 : XII-E-11 - Pénin	records: 263	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00150)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Pénin is east of Pándem, west of Dōbátūrom ; also near Bása, Mbā́n·, and Pásọ̄r. In Pénin most of the men are naked, but the women cover themselves with leaves before and behind.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1139. Koelle 1854 : XII-E-12 - Búte	records: 268	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00109)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Búte is west of Képarẹ, east of Mbè́r, south of Mfúm, and within three weeks' journey from the Phū́la country Adáma.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1140. Koelle 1854 : XII-E-13 - Múrūndo	records: 255	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00514)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Bárūndo. Remarks - Bárūndo borders on the sea, and is situate west of Mbúrūke, east of Ī́rẹ, i.e. Kálabā, and of Usá:á:le.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1141. Koelle 1854 : XII-E-14 - Undā́za	records: 233	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00539)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Undā́za is west of Ūndū́mba. It is also four days' journey from Bātẹ́kẹ, where cannibals reside, one day from Bāndṣínan·a, one day from Ūn·gọ́mu, and Bākúta is reached by walking ten days' journey in the direction towards the sea.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1142. Koelle 1854 : XII-E-15-a - Ndọ́b	records: 271	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00660)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:called Búrukẹ̄m by the Kurórōfas, Tíwis, &c.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1143. Koelle 1854 : XII-E-15-b - Túmu	records: 275	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00660)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:called Búrukẹ̄m by the Kurórōfas, Tíwis, &c.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1144. Koelle 1854 : XII-E-16 - N·kẹ́lẹ	records: 268	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00543)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Bakẹ́lẹ. Remarks - The Bakẹ́lẹ country, in which is the river Móōbẹ, containing salt water, is situate west of Ṣán·kant, with the same language, and east of Mpṓn·gūẹ. It is four days' journey from the sea, also three days' journey from MeMerū́n·gūo, three weeks from Diā́n·a, and five weeks from Ntṓkūẹ, in both which the same language is spoken. In Bakẹ́lẹ theybuild large towns, consisting of two rows of houses, and often of a whole day's journey in length ; but they inhabit them only for a period of from five to twenty years,when they forsake them, and seek another place with virgin soil.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1145. Koelle 1854 : XII-E-17 - Kón·gūan·	records: 269	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00146)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2022-01-18
+Com:Remarks - Konogīan· is situate west of Ń:gbọt, where the same language is spoken ; east of Mányan·, also with the same language. It is one day's journey from Bádṣūo, with the same language ; three days from Bábē, with a different language ; two days from ḗtoṛo, with the same language ; one week from ā́nyo·, i.e. Kálabā, with a different language. The ányōs call them “Ọ̄́kūi”.
+[Add source] [Add source]
+[Show field] com	Reference: 1146. Koelle 1854 : XII-E-18 - Mbárīkẹ	records: 265	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00963)
+	Classification:
+Niger-Congo, Benue-Congo, Jukunoid	updated: 2011-04-19
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1147. Koelle 1854 : XII-E-19 - Tíwi	records: 297	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00677)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:called “Mī́dṣi” or “Mbī́dṣi” by the Kurórōfas and Hausas, and “Gbā́lọu” by the Agā́yas, who speak the same language as the Tíwis. Remarks - Mukúwa is two days' journey from the river Yī́līfẹ, coming from ā́fūdu, and going down to ígāla ; and three days from ádīgbo, the Tíwi capital, which is situated on a mountain. Tórōwo is six hours' journey from Agā́ya, the Tíwi capital. Tíwi is west of Mbárīke, with a different language, and of Kẹ or Wíkẹ, i.e. Kurórōfa, to which it is subject ; and east of, ígbāla, with a different language. It is also one day's journey from Mbágba, i.e. Hausa, and three days from Atsún·ka.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1148. Koelle 1854 : XII-E-20 - Bórītsu·	records: 280	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00964)
+	Classification:
+Niger-Congo, Benue-Congo, Jukunoid	updated: 2011-04-19
+Com:called “áfītẹn” by the Búrūbọs and Mbárīkes, and “Dífu·” by the Urā́pan· or Gbā́gban·, as the Bórītsus call the Dṣúkus or Kurórōfas. Remarks - Bálīa is one day's journey from the river ṓhu, coming from Mbárīke, and going down to ígala. Bórītsu· is eight days' journey from Bā́gba, i.e. Hausa ; one week from Nyamnyám, and consists of only two towns, Bélīke and Bálīa, to which this language is confined. From Bálīa to Bélīke, the king's residence, is one day's journey. Each of these towns are situated on a high mountain (i.e. gẹ̄́hu·).
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1149. Koelle 1854 : XII-E-21 - Āfúdu	records: 252	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00864)
+	Classification:
+Niger-Congo, Benue-Congo, Idomoid	updated: 2011-04-19
+Com:or Āfúru. Remarks - Āfúdu is west of Món·gu, where a different language is spoken ; and east of Dṣúku. It is also two days' journey from Bérēgbe, where a different language is spoken ; four days from Hausa ; three days from Béṣi or Míṣi, i.e. Mbī́dṣi. In Āfúdu both sexes go entirely naked, the women not even using leaves for a covering. In war the men eat their enemies' flesh.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1150. Koelle 1854 : XII-E-22 - Mfút	records: 275	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00487)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Báfut. Remarks - Mfút is east of Bāfṓlan·. In journeying from Mfút to the sea, the following places are passed, viz. Ntọ́n·tu, Kón·gūan·, and Kálabā, and the journey occupies several months. The Mfút country is divided into three different districts, aIl speaking the same language, viz. Kon or Bā́kon, Fímbo or Bāfī́mbo, Ndṣī́an· or Bāndṣīan·. Kon is properly the name of the town in which the Mfút king resides, but a whole district, consisting of several towns, is named after it. The Fímbo and Ndṣī́an· districts have each a governor, who is appointed by the king of Kon. The Mfút towns consist of only two rows of houses, often of very great length. Kon is situated on the river “Débā”, which can be crossed on foot in certain places during the dry season ; on the other side of which the people live in a state of nudity. In Mfút the women cover themselves with leaves only, and the men eat their enemies' flesh in the time of war.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1151. Koelle 1854 : XII-E-23 - Mbḗ	records: 183	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00710)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:Remarks - Mándṣin is half a-day's journey from the cataract of a river, which reaches in the dry season to the waist, and in the rainy season under the arms, and in which there are no fish or alligators, but many n·ū́ye, i.e. ghosts. Mbḗ is east of Mómbọ, with a different language ; north of Man·gūándṣin, with the same language ; also near Mókon, with a different language ; three days' journey from Mínya, two days from Mádṣọn·ẹ, and four days from Mbánda, all with different languages.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1152. Koelle 1854 : XII-E-24 - Nṣọ́	records: 266	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (00732)
+	Classification:
+Niger-Congo, Benue-Congo, Bantoid	updated: 2011-04-19
+Com:or Bánṣọ́. Remarks - Nṣọ́ is west of Ndṣí, where a different language is spoken, also of Ntẹ̄́m, with a different language ; north of Wílọ̄, with a different language ; east of Mbī́wọ̄n, with a different language. It is one day's journey from Pā́pa, with a different language ; one day from Bámom, four days from Wúnyām, and one week from Bākón·ko, an with different languages.
+[Add source] [Add source]
+[Show field] com	Reference: 1153. Koelle 1854 : XII-F-1-a - (Arabic) Ṣṓa	records: 144	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (02087)
+	Classification:
+Afroasiatic, Semitic, Central	updated: 2011-04-19
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1154. Koelle 1854 : XII-F-1-b - (Arabic) Wádai	records: 248	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (02087)
+	Classification:
+Afroasiatic, Semitic, Central	updated: 2011-04-19
+Com:Remarks - Wádai is west of Súlā, east of Bọ́rnu.
+[Add source] [Add source]
+[Show field] Notescom	Reference: 1155. Koelle 1854 : XII-F-1-c - (Arabic) Ā́dirar	records: 308	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (02090)
+	Classification:
+Afroasiatic, Semitic, Central	updated: 2011-04-19
+Com:Remarks - ā́dīrar is situated in the Zahā́ra sáhal, i.e. western desert, “sáhal” being the Bḗṛān word for the Arabic “mágarību”, about Cape Blanco. ā́gīlil is a five days' journey on a camel from Portendik, and three days from the sea. It is subject to Mū́lei ábd árraḥmān (i.e. Lord, servant of the merciful), king of Marā́kis, i.e. Morocco. Bḗṛān, called by the French “Lá Mōr”, is a large part of the desert, joining ā́dīrar in the east and south-east, and inhabited by the Nomadic and marauding Bḗṛān or Mōrs, who live in tents. Bḗṛān also borders on Bámbara.
+[Add source] [Add source]
+[Show field] com	Reference: 1156. Koelle 1854 : XII-F-1-d - (Arabic) Bḗṛān	records: 312	Webball (24178)
+Type: Wordlist	lng: en	imported: 2014-02-28	Web-cal (02085)
+	Classification:
+Afroasiatic, Semitic, Central	updated: 2011-04-19
+

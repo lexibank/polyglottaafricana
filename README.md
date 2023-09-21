@@ -46,20 +46,20 @@ See [cldf/README.md](cldf) for a description of the tables and columns and the
 
 [![CLDF validation](https://github.com/lexibank/polyglottaafricana/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/polyglottaafricana/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
+![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 159
+- **Varieties:** 200
 - **Concepts:** 319
-- **Lexemes:** 54,073
+- **Lexemes:** 57,593
 - **Sources:** 1
-- **Synonymy:** 1.28
+- **Synonymy:** 1.11
 - **Invalid lexemes:** 0
-- **Tokens:** 326,757
+- **Tokens:** 347,295
 - **Segments:** 93 (0 BIPA errors, 0 CLTS sound class errors, 93 CLTS modified)
-- **Inventory size (avg):** 45.64
+- **Inventory size (avg):** 45.45
 
 # Contributors
 

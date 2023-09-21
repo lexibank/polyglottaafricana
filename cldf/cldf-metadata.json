@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-7-ga433090",
+            "dc:created": "v1.0-8-g4e55d9b",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 54073,
+            "dc:extent": 57593,
             "tableSchema": {
                 "columns": [
                     {
@@ -128,6 +128,11 @@
                         "name": "Profile"
                     },
                     {
+                        "dc:description": "Item ID in the RefLex database",
+                        "datatype": "string",
+                        "name": "RefLex_ID"
+                    },
+                    {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
                         "name": "Scan"
@@ -176,7 +181,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 159,
+            "dc:extent": 200,
             "tableSchema": {
                 "columns": [
                     {
@@ -239,9 +244,15 @@
                         "name": "RefLex_Name"
                     },
                     {
-                        "dc:description": "Three-part language identifier in Polyglotta Africana",
+                        "dc:description": "Ordinal derived from the multi-part language number in Polyglotta Africana",
+                        "datatype": "integer",
+                        "name": "Ordinal"
+                    },
+                    {
+                        "dc:description": "A comment regarding language identification, provided by Koelle's informant for the language.",
                         "datatype": "string",
-                        "name": "Local_ID"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+                        "name": "Comment"
                     }
                 ],
                 "primaryKey": [

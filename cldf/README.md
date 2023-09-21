@@ -13,7 +13,7 @@ property | value
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Koelle-1854-280</li></ol>
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/polyglottaafricana
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/polyglottaafricana/tree/a433090">lexibank/polyglottaafricana v1.0-7-ga433090</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/polyglottaafricana/tree/4e55d9b">lexibank/polyglottaafricana v1.0-8-g4e55d9b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | polyglottaafricana
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -24,7 +24,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 54073
+[dc:extent](http://purl.org/dc/terms/extent) | 57593
 
 
 ### Columns
@@ -44,6 +44,7 @@ Name/Property | Datatype | Description
 `Loan` | `boolean` | 
 `Graphemes` | `string` | 
 `Profile` | `string` | 
+`RefLex_ID` | `string` | Item ID in the RefLex database
 [Scan](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | References [media.csv::ID](#table-mediacsv)
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
@@ -51,7 +52,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 159
+[dc:extent](http://purl.org/dc/terms/extent) | 200
 
 
 ### Columns
@@ -68,7 +69,8 @@ Name/Property | Datatype | Description
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
 `Family` | `string` | 
 `RefLex_Name` | `string` | Language name in RefLex
-`Local_ID` | `string` | Three-part language identifier in Polyglotta Africana
+`Ordinal` | `integer` | Ordinal derived from the multi-part language number in Polyglotta Africana
+[Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | A comment regarding language identification, provided by Koelle's informant for the language.
 
 ## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
 
