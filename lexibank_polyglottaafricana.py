@@ -1,7 +1,7 @@
-import itertools
 import re
 import string
 import pathlib
+import itertools
 import collections
 
 from clldutils.misc import slug
@@ -30,6 +30,7 @@ class CustomLexeme(Lexeme):
         default=None,
         metadata={
             'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
+            'dc:description': 'Link to the scan of the book page where the lexeme appears.',
         }
     )
 
@@ -39,7 +40,7 @@ class CustomLanguage(Language):
     RefLex_Name = attr.ib(
         default=None,
         metadata={
-            'dc:description': 'Language name in RefLex',
+            'dc:description': 'Language name in the RefLex database',
         }
     )
     Ordinal = attr.ib(
@@ -126,10 +127,7 @@ class Dataset(BaseDataset):
                 yield (lid, note.strip())
 
     def cmd_makecldf(self, args):
-        """
-        Convert the raw data to a CLDF dataset.
-        """
-        args.writer.cldf.add_component(
+        t = args.writer.cldf.add_component(
             'MediaTable',
             {
                 'name': 'SUBH_URL',
@@ -142,10 +140,10 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
             },
         )
+        t.common_props['dc:description'] = "Scans of the book pages at SUB Hamburg."
 
         args.writer.add_sources()
 
-        # Write concepts
         concepts = collections.OrderedDict()
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.number + "_" + slug(concept.english)
@@ -161,10 +159,12 @@ class Dataset(BaseDataset):
             )
         cidx = {c: i for i, c in enumerate(concepts)}
 
+        # As in the book we list words by concept (the columns) and language (the rows).
         words = sorted(
             self.raw_dir.read_csv("test-koelle.csv", dicts=True, delimiter="\t"),
             key=lambda r: (cidx[r['ORIGINAL TRANSLATION']], variety2ord(r['Source name'])))
         for word in words:
+            # We move plural forms to a separate column.
             parts = PL_PATTERN.split(word['ORIGINAL FORM'], maxsplit=1)
             if len(parts) == 2:
                 word['ORIGINAL FORM'] = parts[0].strip()
@@ -191,11 +191,10 @@ class Dataset(BaseDataset):
 
         scans = set()
         for row in progressbar(words):
-            # Language name>--ethn>---Source name>----reflex.id>------
-            # source.id>------page>---ORIGINAL FORM>--ORIGINAL TRANSLATION
             if row["ORIGINAL FORM"].strip().startswith("?"):
                 # We ignore dubious forms, marked with a leading "?"
                 continue
+            # Page numbers translate to scan numbers by adding an offset of 40.
             snumber = str(int(row['page']) + 40)
             if snumber not in scans:
                 args.writer.objects['MediaTable'].append(dict(
@@ -221,6 +220,7 @@ class Dataset(BaseDataset):
             )
 
         for l in args.writer.objects['LanguageTable']:
+            # Geo-coordinates for dialects are simply taken from the associated language.
             if l['Latitude'] is None and l['Glottocode']:
                 glang = args.glottolog.api.get_language(l['Glottocode'])
                 if glang:

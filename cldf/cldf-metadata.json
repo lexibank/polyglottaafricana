@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-8-g4e55d9b",
+            "dc:created": "v1.0-9-g450a4cc",
             "dc:title": "Repository"
         },
         {
@@ -133,6 +133,7 @@
                         "name": "RefLex_ID"
                     },
                     {
+                        "dc:description": "Link to the scan of the book page where the lexeme appears.",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
                         "name": "Scan"
@@ -239,7 +240,7 @@
                         "name": "Family"
                     },
                     {
-                        "dc:description": "Language name in RefLex",
+                        "dc:description": "Language name in the RefLex database",
                         "datatype": "string",
                         "name": "RefLex_Name"
                     },
@@ -299,6 +300,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
+            "dc:description": "Scans of the book pages at SUB Hamburg.",
             "dc:extent": 187,
             "tableSchema": {
                 "columns": [

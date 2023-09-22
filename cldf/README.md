@@ -13,7 +13,7 @@ property | value
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Koelle-1854-280</li></ol>
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/polyglottaafricana
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/polyglottaafricana/tree/4e55d9b">lexibank/polyglottaafricana v1.0-8-g4e55d9b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/polyglottaafricana/tree/450a4cc">lexibank/polyglottaafricana v1.0-9-g450a4cc</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.1.0">Concepticon v3.1.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.2.0">CLTS v2.2.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.10.12</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | polyglottaafricana
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -45,7 +45,7 @@ Name/Property | Datatype | Description
 `Graphemes` | `string` | 
 `Profile` | `string` | 
 `RefLex_ID` | `string` | Item ID in the RefLex database
-[Scan](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | References [media.csv::ID](#table-mediacsv)
+[Scan](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | Link to the scan of the book page where the lexeme appears.<br>References [media.csv::ID](#table-mediacsv)
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -68,7 +68,7 @@ Name/Property | Datatype | Description
 [Latitude](http://cldf.clld.org/v1.0/terms.rdf#latitude) | `decimal` | 
 [Longitude](http://cldf.clld.org/v1.0/terms.rdf#longitude) | `decimal` | 
 `Family` | `string` | 
-`RefLex_Name` | `string` | Language name in RefLex
+`RefLex_Name` | `string` | Language name in the RefLex database
 `Ordinal` | `integer` | Ordinal derived from the multi-part language number in Polyglotta Africana
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | A comment regarding language identification, provided by Koelle's informant for the language.
 
@@ -91,6 +91,8 @@ Name/Property | Datatype | Description
 `Number` | `string` | 
 
 ## <a name="table-mediacsv"></a>Table [media.csv](./media.csv)
+
+Scans of the book pages at SUB Hamburg.
 
 property | value
  --- | ---

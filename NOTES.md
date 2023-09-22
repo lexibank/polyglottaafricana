@@ -1,11 +1,12 @@
 ## Digitization
 
-The digital data was obtained from the REFLEX project (Reference Lexicon of Africa) edited by G. Ségérer (https://reflex.cnrs.fr/).
+The digital data was obtained from the RefLex database (Reference Lexicon of Africa) edited by 
+G. Ségérer (https://reflex.cnrs.fr/).
 
 
 ## Coverage
 
-Polyglotta Africana covers almost 160 language varieties from 8 language families.
+Polyglotta Africana covers almost 200 language varieties from 8 language families.
 
 ![](map.svg)
 

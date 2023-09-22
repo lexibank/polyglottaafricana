@@ -15,6 +15,6 @@ setup(
     include_package_data=True,
     zip_safe=False,
     entry_points={"lexibank.dataset": ["polyglottaafricana=lexibank_polyglottaafricana:Dataset"]},
-    install_requires=["cldfbench>=1.14", "pylexibank>=3.0"],
+    install_requires=["pyglottolog", "cldfbench>=1.14", "pylexibank>=3.0"],
     extras_require={"test": ["pytest-cldf"]},
 )
