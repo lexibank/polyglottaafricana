@@ -10,7 +10,7 @@ from pyglottolog.references.roman import romanint
 from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar, Lexeme, Language
 import attr
 
-PL_PATTERN = re.compile(r'[,;~]?\s+pl\.\s*')
+PL_PATTERN = re.compile(r"[,;~]?\s+pl\.\s*")
 
 
 @attr.s
@@ -23,15 +23,15 @@ class CustomLexeme(Lexeme):
     RefLex_ID = attr.ib(
         default=None,
         metadata={
-            'dc:description': 'Item ID in the RefLex database',
-        }
+            "dc:description": "Item ID in the RefLex database",
+        },
     )
     Scan = attr.ib(
         default=None,
         metadata={
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
-            'dc:description': 'Link to the scan of the book page where the lexeme appears.',
-        }
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+            "dc:description": "Link to the scan of the book page where the lexeme appears.",
+        },
     )
 
 
@@ -40,24 +40,24 @@ class CustomLanguage(Language):
     RefLex_Name = attr.ib(
         default=None,
         metadata={
-            'dc:description': 'Language name in the RefLex database',
-        }
+            "dc:description": "Language name in the RefLex database",
+        },
     )
     Ordinal = attr.ib(
         default=None,
         metadata={
-            'datatype': 'integer',
-            'dc:description': 'Ordinal derived from the multi-part language number in '
-                              'Polyglotta Africana',
-        }
+            "datatype": "integer",
+            "dc:description": "Ordinal derived from the multi-part language number in "
+            "Polyglotta Africana",
+        },
     )
     Comment = attr.ib(
         default=None,
         metadata={
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment',
-            'dc:description': "A comment regarding language identification, provided by Koelle's "
-                              "informant for the language.",
-        }
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+            "dc:description": "A comment regarding language identification, provided by Koelle's "
+            "informant for the language.",
+        },
     )
 
 
@@ -65,9 +65,9 @@ def variety2ord(name):
     """
     Convert Koelle's multi-part variety numbers into a sortable tuple.
     """
-    _, _, name = name.partition(' : ')
-    lid, _, name = name.partition(' - ')
-    comps = lid.split('-')
+    _, _, name = name.partition(" : ")
+    lid, _, name = name.partition(" - ")
+    comps = lid.split("-")
     part = romanint(comps.pop(0).lower())
     res = [part]
     if part in {2, 6, 11}:  # 2-a
@@ -87,7 +87,7 @@ def variety2ord(name):
                 res.append(999)
         else:  # A-a-2a
             third = comps.pop(0)
-            res.append(ord(third) if third in 'ab' else int(third))
+            res.append(ord(third) if third in "ab" else int(third))
             if comps:
                 fourth = comps.pop()
                 res.append(ord(fourth) if fourth in string.ascii_lowercase else int(fourth[0]))
@@ -101,6 +101,8 @@ def variety2ord(name):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "polyglottaafricana"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
     language_class = CustomLanguage
@@ -116,31 +118,31 @@ class Dataset(BaseDataset):
     )
 
     def _iter_variety_notes(self):
-        lid_pattern = re.compile(r'Koelle 1854 : ([^\s]+) - [^\t]+\t')
+        lid_pattern = re.compile(r"Koelle 1854 : ([^\s]+) - [^\t]+\t")
         lid = None
-        for line in self.raw_dir.read('koelle_variety_notes.txt').splitlines():
+        for line in self.raw_dir.read("koelle_variety_notes.txt").splitlines():
             m = lid_pattern.search(line)
             if m:
-                lid = line[m.start():m.end() - 1]
-            if 'Com:' in line:
-                _, _, note = line.partition('Com:')
+                lid = line[m.start() : m.end() - 1]
+            if "Com:" in line:
+                _, _, note = line.partition("Com:")
                 yield (lid, note.strip())
 
     def cmd_makecldf(self, args):
         t = args.writer.cldf.add_component(
-            'MediaTable',
+            "MediaTable",
             {
-                'name': 'SUBH_URL',
-                'datatype': 'anyURI',
-                'dc:description': 'URL of page in context of the scanned book',
+                "name": "SUBH_URL",
+                "datatype": "anyURI",
+                "dc:description": "URL of page in context of the scanned book",
             },
             {
-                'name': 'Source',
-                'separator': ';',
-                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+                "name": "Source",
+                "separator": ";",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
             },
         )
-        t.common_props['dc:description'] = "Scans of the book pages at SUB Hamburg."
+        t.common_props["dc:description"] = "Scans of the book pages at SUB Hamburg."
 
         args.writer.add_sources()
 
@@ -162,23 +164,28 @@ class Dataset(BaseDataset):
         # As in the book we list words by concept (the columns) and language (the rows).
         words = sorted(
             self.raw_dir.read_csv("test-koelle.csv", dicts=True, delimiter="\t"),
-            key=lambda r: (cidx[r['ORIGINAL TRANSLATION']], variety2ord(r['Source name'])))
+            key=lambda r: (cidx[r["ORIGINAL TRANSLATION"]], variety2ord(r["Source name"])),
+        )
         for word in words:
             # We move plural forms to a separate column.
-            parts = PL_PATTERN.split(word['ORIGINAL FORM'], maxsplit=1)
+            parts = PL_PATTERN.split(word["ORIGINAL FORM"], maxsplit=1)
             if len(parts) == 2:
-                word['ORIGINAL FORM'] = parts[0].strip()
-                word['plural'] = parts[1]
+                word["ORIGINAL FORM"] = parts[0].strip()
+                word["plural"] = parts[1]
 
-        reflex_name2gc = {r['Name']: r['Glottocode'] for r in self.languages}
+        reflex_name2gc = {r["Name"]: r["Glottocode"] for r in self.languages}
         lid2comment = dict(self._iter_variety_notes())
         languages = {}
-        for i, (lid, rows) in enumerate(itertools.groupby(
-                sorted(words, key=lambda r: variety2ord(r['Source name'])),
-                lambda r: r['Source name']), start=1):
-            reflex_name = next(rows)['Language name']
-            _, _, name = lid.partition(' : ')
-            kid, _, name = name.partition(' - ')
+        for i, (lid, rows) in enumerate(
+            itertools.groupby(
+                sorted(words, key=lambda r: variety2ord(r["Source name"])),
+                lambda r: r["Source name"],
+            ),
+            start=1,
+        ):
+            reflex_name = next(rows)["Language name"]
+            _, _, name = lid.partition(" : ")
+            kid, _, name = name.partition(" - ")
             languages[lid] = kid
             args.writer.add_language(
                 ID=kid,
@@ -195,19 +202,22 @@ class Dataset(BaseDataset):
                 # We ignore dubious forms, marked with a leading "?"
                 continue
             # Page numbers translate to scan numbers by adding an offset of 40.
-            snumber = str(int(row['page']) + 40)
+            snumber = str(int(row["page"]) + 40)
             if snumber not in scans:
-                args.writer.objects['MediaTable'].append(dict(
-                    ID=snumber,
-                    Name=row['page'],
-                    Description='',
-                    Media_Type='image/tiff',
-                    Download_URL='https://pic.sub.uni-hamburg.de/kitodo/PPN862704383/{}.tif'.format(
-                        snumber.rjust(8, '0')),
-                    SUBH_URL='https://resolver.sub.uni-hamburg.de/kitodo/PPN862704383/page/'
-                             '{}'.format(snumber),
-                    Source=['ScansHamburg'],
-                ))
+                args.writer.objects["MediaTable"].append(
+                    dict(
+                        ID=snumber,
+                        Name=row["page"],
+                        Description="",
+                        Media_Type="image/tiff",
+                        Download_URL="https://pic.sub.uni-hamburg.de/kitodo/PPN862704383/{}.tif".format(
+                            snumber.rjust(8, "0")
+                        ),
+                        SUBH_URL="https://resolver.sub.uni-hamburg.de/kitodo/PPN862704383/page/"
+                        "{}".format(snumber),
+                        Source=["ScansHamburg"],
+                    )
+                )
                 scans.add(snumber)
             args.writer.add_lexemes(
                 Value=row["ORIGINAL FORM"],
@@ -215,14 +225,14 @@ class Dataset(BaseDataset):
                 Parameter_ID=concepts[row["ORIGINAL TRANSLATION"]],
                 Source=["Koelle1854"],
                 Scan=snumber,
-                RefLex_ID=row['reflex.id'],
-                Comment=row.get('pural')
+                RefLex_ID=row["reflex.id"],
+                Comment=row.get("pural"),
             )
 
-        for l in args.writer.objects['LanguageTable']:
+        for l in args.writer.objects["LanguageTable"]:
             # Geo-coordinates for dialects are simply taken from the associated language.
-            if l['Latitude'] is None and l['Glottocode']:
-                glang = args.glottolog.api.get_language(l['Glottocode'])
+            if l["Latitude"] is None and l["Glottocode"]:
+                glang = args.glottolog.api.get_language(l["Glottocode"])
                 if glang:
-                    l['Latitude'] = glang.latitude
-                    l['Longitude'] = glang.longitude
+                    l["Latitude"] = glang.latitude
+                    l["Longitude"] = glang.longitude
