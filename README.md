@@ -69,8 +69,8 @@ I-B-4	Kányōp	púlọ̄́lẹ	p ú/u l o˞ː l e˞
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 200
-- **Concepts:** 319
+- **Varieties:** 200 (linked to 158 different Glottocodes)
+- **Concepts:** 319 (linked to 263 different Concepticon concept sets)
 - **Lexemes:** 57,593
 - **Sources:** 1
 - **Synonymy:** 1.11
