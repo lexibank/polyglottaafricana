@@ -266,6 +266,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 231_poor,Poor,1674,POOR,231
 232_straight,Straight,1404,STRAIGHT,232
 233_crookedbent,Crooked (Bent),297,CROOKED,233
+233a_crookedofmen,Crooked (of men),,,233a
 234_igo,I go,695,GO,234
 235_icome,I come,1446,COME,235
 236_irun,I run,1519,RUN,236
@@ -311,6 +312,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number
 272_isewashirtcloth,I sew a shirt (cloth),,,272
 272a_isew,I sew,1457,SEW,272a
 273_ipraytogodbeggod,I pray to God (beg God),,,273
+273a_ipray,I pray,24,PRAY,273a
 274_iplay,I play,1413,PLAY,274
 275_idonotplay,I do not play,,,275
 276_idance,I dance,1879,DANCE,276

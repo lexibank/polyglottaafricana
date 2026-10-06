@@ -3,30 +3,31 @@ import string
 import pathlib
 import itertools
 import collections
+import dataclasses
+from typing import Optional
 
 from clldutils.misc import slug
 from pyglottolog.references.roman import romanint
 
 from pylexibank import Concept, FormSpec, Dataset as BaseDataset, progressbar, Lexeme, Language
-import attr
 
 PL_PATTERN = re.compile(r'[,;~]?\s+pl\.\s*')
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomConcept(Concept):
-    Number = attr.ib(default=None)
+    Number: Optional[str] = None
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLexeme(Lexeme):
-    RefLex_ID = attr.ib(
+    RefLex_ID: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             'dc:description': 'Item ID in the RefLex database',
         }
     )
-    Scan = attr.ib(
+    Scan: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#mediaReference',
@@ -35,15 +36,15 @@ class CustomLexeme(Lexeme):
     )
 
 
-@attr.s
+@dataclasses.dataclass
 class CustomLanguage(Language):
-    RefLex_Name = attr.ib(
+    RefLex_Name: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             'dc:description': 'Language name in the RefLex database',
         }
     )
-    Ordinal = attr.ib(
+    Ordinal: Optional[int] = dataclasses.field(
         default=None,
         metadata={
             'datatype': 'integer',
@@ -51,7 +52,7 @@ class CustomLanguage(Language):
                               'Polyglotta Africana',
         }
     )
-    Comment = attr.ib(
+    Comment: Optional[str] = dataclasses.field(
         default=None,
         metadata={
             'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment',

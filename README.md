@@ -63,14 +63,14 @@ I-B-4	Kányōp	púlọ̄́lẹ	p ú/u l o˞ː l e˞
 
 
 [![CLDF validation](https://github.com/lexibank/polyglottaafricana/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/polyglottaafricana/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 90%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
-- **Varieties:** 200
-- **Concepts:** 319
+- **Varieties:** 200 (linked to 158 different Glottocodes)
+- **Concepts:** 319 (linked to 263 different Concepticon concept sets)
 - **Lexemes:** 57,593
 - **Sources:** 1
 - **Synonymy:** 1.11

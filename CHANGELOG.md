@@ -1,5 +1,10 @@
 # Changes
 
+## [v2.1]
+
+CLDF recreated using most up-to-date software packages and catalog versions.
+
+
 ## [v2.0]
 
 We now use Koelle's original 200 language varieties as reference. Mapping to RefLex languages is

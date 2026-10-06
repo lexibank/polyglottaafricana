@@ -1,4 +1,5 @@
-def test_valid(cldf_dataset, cldf_logger):
+def test_valid(cldf_dataset, cldf_sqlite_database, cldf_logger):
+    assert cldf_sqlite_database
     assert cldf_dataset.validate(log=cldf_logger)
 
 
@@ -13,7 +14,7 @@ def test_languages(cldf_dataset, cldf_logger):
 
 
 def test_parameters(cldf_dataset, cldf_logger):
-    assert len(list(cldf_dataset["ParameterTable"])) == 319  # 335?
+    assert len(list(cldf_dataset["ParameterTable"])) == 321  # 335?
 
 
 def test_sources(cldf_dataset, cldf_logger):
