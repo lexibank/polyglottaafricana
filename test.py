@@ -14,7 +14,7 @@ def test_languages(cldf_dataset, cldf_logger):
 
 
 def test_parameters(cldf_dataset, cldf_logger):
-    assert len(list(cldf_dataset["ParameterTable"])) == 321  # 335?
+    assert len(list(cldf_dataset["ParameterTable"])) == 319  # 335?
 
 
 def test_sources(cldf_dataset, cldf_logger):

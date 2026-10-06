@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/polyglottaafricana",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0",
+            "dc:created": "v2.0-1-g801dd02",
             "dc:title": "Repository"
         },
         {
@@ -265,7 +265,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
             "dc:description": "CustomConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Number: Optional[str] = None)",
-            "dc:extent": 321,
+            "dc:extent": 319,
             "tableSchema": {
                 "columns": [
                     {
